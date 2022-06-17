@@ -1,0 +1,6 @@
+- SIDIZ T50 air 
+- assics pro
+- Jarvfjallet
+- Steelcase Leap
+- Herman Miller
+- Ergohuman

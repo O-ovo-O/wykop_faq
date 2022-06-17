@@ -1,0 +1,1 @@
+- https://www.wykop.pl/wpis/63004349/z-czego-i-jak-sie-uczyc-pythona-edycja-trzecia-pro/
