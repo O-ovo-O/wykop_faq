@@ -1,7 +1,23 @@
-- https://exercism.org/
-- FreeCodeCamp
-- EDX CS50
-- Youtube Getitjob+python
-
+- algo.monster
+- automatetheboringstuff.com
+- codechef.com
+- codesubmit.io
+- codewars.com
+- coursera
+- cs50
+- datacamp
+- edx
+- exercism.org/
+- freeCodeCamp
+- hyperskill.org
 - khanacademy.org
-- sololearn
+- leetcode.com
+- leetcode.com
+- pluralsight
+- skillsoft
+- sololearn.com
+- spoj.pl
+- teachyourselfcs.com
+- udacity
+- udemy
+- youtube Getitjob+python

@@ -1,6 +1,15 @@
-- SIDIZ T50 air 
+- SIDIZ T50 air
 - assics pro
-- Jarvfjallet
 - Steelcase Leap
-- Herman Miller
+- Herman Miller Aeron/Embody
 - Ergohuman
+- Unique Wau 2, Ares Mesh, Ergonic, Vip   unique tune
+- Profim Accis Pro 151SFL
+- Kinnarps
+- Elzap Kivi EFG 200B
+
+- IKEA Markus
+- IKEA Jarvfjallet / JÄRVFJÄLLET
+- NeueChair
+- Aeron
+- Dragonflychair
