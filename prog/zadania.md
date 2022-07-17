@@ -1,19 +1,23 @@
 - algo.monster
 - automatetheboringstuff.com
 - codechef.com
+- codeforces.com
 - codesubmit.io
 - codewars.com
+- codingame.com
 - coursera
 - cs50
 - datacamp
 - edx
-- exercism.org/
+- exercism.org
 - freeCodeCamp
+- hackerearth.com
+- hackerrank.com
 - hyperskill.org
 - khanacademy.org
 - leetcode.com
-- leetcode.com
 - pluralsight
+- projecteuler.net
 - skillsoft
 - sololearn.com
 - spoj.pl
@@ -21,3 +25,7 @@
 - udacity
 - udemy
 - youtube Getitjob+python
+
+- developer.mozilla.org/en-US/docs/Learn
+- codingcompetitions.withgoogle.com/codejam
+- facebook.com/codingcompetitions/hacker-cup

@@ -7,6 +7,7 @@
 - Profim Accis Pro 151SFL
 - Kinnarps
 - Elzap Kivi EFG 200B
+- noblechairs
 
 - IKEA Markus
 - IKEA Jarvfjallet / JÄRVFJÄLLET

@@ -5,6 +5,7 @@
 
 ## krzeslo
 z siatka/elastomerem
+ - https://www.wykop.pl/wpis/66657039/it-meble-pracbaza-hej-mireczko-szukam-fotelu-do-pr/
  - https://www.wykop.pl/wpis/66206945/jaki-fotel-przewiewny-z-regulacja-podlokietnikow-t/ # np JÄRVFJÄLLET
  - https://www.wykop.pl/wpis/66193503/przymierzam-sie-do-kupna-ktoregos-z-tych-foteli-un/
  - https://www.wykop.pl/wpis/66086541/mirki-jaki-fotel-biurowy-do-600-zl-polecacie-zalez/
@@ -19,6 +20,7 @@ z siatka/elastomerem
 
 
 ## biurko
+ - https://www.wykop.pl/wpis/66555511/szukam-biurka-z-elektryczna-regulacja-wysokosci-ma/
  - https://www.wykop.pl/wpis/66582041/czesc-szukam-biurka-do-pracy-zdalnej-biurko-z-regu/
  - https://www.wykop.pl/wpis/66210847/jakie-biurko-do-domu-i-pracy-elektryczne-chce-pote/
  - https://www.wykop.pl/wpis/65936985/podnoszone-elektryczne-biurko-to-ktore-tak-do-2-3k/

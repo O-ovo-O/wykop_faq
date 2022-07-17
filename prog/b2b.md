@@ -17,6 +17,7 @@ https://www.infakt.pl/jednoosobowa-dzialalnosc-gospodarcza/
 https://www.mala-firma.pl/dla-poczatkujacych/zakladanie-firmy/139-zakladanie-firmy-krok-po-kroku
 https://poradnikprzedsiebiorcy.pl/-jednoosobowa-dzialalnosc-gospodarcza-krok-po-kroku
 https://kpir50.pl/samozatrudnienie/
+https://poradnikprzedsiebiorcy.pl
 
 Uwaga: mocno promowane są m. innymi tam firmy księgowe (reflinki itd): Infakt, wFirma, iFirma - cena to ok 200zł (?) rocznie (do X faktur).
 Za godzinę księgowość bierze 100-200zl. Nie mam danych statystycznych.
