@@ -1,11 +1,16 @@
 - zanim zaczniesz czytać - proponuję zacząć tu
 
-https://www.wykop.pl/wpis/66264161
+https://www.wykop.pl/wpis/66264217/
 https://www.wykop.pl/wpis/56996059/
 https://www.wykop.pl/wpis/55681449/
 https://www.youtube.com/watch?v=X26YTrdnEOQ
 
 (disclaimer, nie znam autora, autorów)
+
+https://www.wykop.pl/wpis/63004349/z-czego-i-jak-sie-uczyc-pythona-edycja-trzecia-pro/ # Python
+https://www.wykop.pl/wpis/9719000/cpp-naukaprogramowania-programowanie-wstep-czestot/ # C++
+
+github.com/mtdvio/every-programmer-should-know
 
 - czy warto zaczynać, gdy mam XYZ lat?
 
@@ -51,6 +56,7 @@ Jeden rabin powie tak drugi nie, bezsensowna dyskusja.
 Wszystko zależy od indywidualnych predyspozycji, inteligencji i zaangażowania.
 Od 5 minut do nieskończoności.
 Powiedzmy średnio: uczysz się 2-3 godziny dziennie to minimalnym okresem nauki jest rok.
+Inni podają 500-1000 godzin, zagadka dla ciebie, czy podane przedziały pokrywają się? ;)
 
 - czy potrzebuję jezyka angielskiego do programowania?
 
@@ -82,12 +88,28 @@ Coś takiego nie istnieje. Język to narzędzie jak młotek, czy wkrętak. Dobi
 - jak wybrać język programowania do nauki? Jaki język na początek
 
 Nie ma dobrej odpowiedzi na to pytanie, wszystko zależy. Można posiłkować się:
- bestprogramminglanguagefor.me
- roadmap.sh
- catb.org/~esr/faqs/hacker-howto.html
+
+  - bestprogramminglanguagefor.me
+  - roadmap.sh
+  - catb.org/~esr/faqs/hacker-howto.html
+
 albo wchodzić w bezsensowne dyskusje.
 
+
+- listy projektów które można zrobić w trakcie nauki
+
+  - github.com/practical-tutorials/project-based-learning
+  - github.com/codecrafters-io/build-your-own-x
+
+- czy są jeszcze w Polsce jakieś sensowne organizacje?
+
+  - https://panoptykon.org
+  - https://siecobywatelska.pl # Watchdog
+
+
+
 - gdzie szukać pracy (w tym zdalnej pracy)?
+
   - angel.co
   - cord.co
   - crossweb.pl/job/oferty-pracy
@@ -159,7 +181,7 @@ albo wchodzić w bezsensowne dyskusje.
 
   - itradar.io # agregator
   - reddit # gdzieś są, ale się trzeba naszukać
-  - sprawdzic: fiverr gameindustry.biz  gamejobs
+  - sprawdzic: fiverr gameindustry.biz  gamejobs bgsf.com/instaff/
 
 - Czego się uczyć. Polećcie kurs...
 
@@ -184,6 +206,8 @@ albo wchodzić w bezsensowne dyskusje.
   - hack.ainfosec.com
   - hackthebox.com
   - tryhackme.com
+  - jakieś tam losowe kanały YT: Kacper Szukrek, GynvaelColdwind, SekurakTV, HackerSploit, John Hammond, LiveOverFlow, Computerphile
+  - osintme.com
 
 - kalkulatory, podatki i inne pierdoły
 
