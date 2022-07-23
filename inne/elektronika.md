@@ -1,0 +1,161 @@
+- czy ktoś poleci fajne kanały o elektronice na YT
+
+  - EEVBlog
+  - The Signal Path
+  - W2EAW
+  - Phil's lab
+  - Marco Reps
+  - Curious Marc
+  - IanScottJohnston
+  - Electroboom
+  - Mr Carlson's Lab
+  - Ben Eater
+  - Applied Science
+  - https://www.wykop.pl/wpis/66639905/#comment-236452463
+  - Subskrypcje
+  - Serwis24
+  - Forest
+  - Learn Electronics Repair
+  - Jagodowy TV
+  - Rubens
+  - zdzisiek Pabianice
+  - AllTheGearNoIdea
+  - Alek Analogowy
+  - Defpom's Electronics Repair
+  - TheHWcave
+  - IMSAI Guy
+  - Sui778
+  - Louis Rossmann
+  - Daniel Rakowiecki
+  - Profesor Chris
+  - Kerry Wong
+  - ZegarMistrz
+  - Kiss Analog
+  - EEVblog
+  - NorthridgeFix
+  - VoltLog
+  - Tony Albus
+  - Orbiter Electronics
+  - Saper ElektroZłomiarz
+  - Rafał Jackiewicz
+  - Jerry Walker
+  - Pod Mikroskopem
+  - TestHubPL
+  - learnelectronics
+  - w2aew
+  - Wielki Elektronik
+  - tomtektest
+  - Rafal Bielawski
+  - TechCornerTV Electronics, Projects &amp; Tutorials
+  - Rzeźbiarz
+  - Paweł Ostrówka
+  - saxonwaw
+  - Thrifty Tool Shed
+  - iTryToFixThis
+  - 12voltvids
+  - TRX Lab
+  - RS Elektronika
+  - DiodeGoneWild
+  - Hathor
+  - mitxela
+  - SDG Electronics
+  - systemix
+  - Maker Mac70
+  - RandomHacks
+  - Adam Śmiałek
+  - Krzysztof Popiel
+  - DIY-KITs
+  - GVDA
+  - sjm4306
+  - KainkaLabs
+  - Simple Electronics
+  - Krzysztof Klimas
+  - Naser Electronica - Chile
+  - Andreas Spiess
+  - pileofstuff
+  - Piracz pl
+  - The Real Phoenix
+  - Marco Reps
+  - The Signal Path
+  - Adam Maszynotwór
+  - ElectronicsAutomotiv
+  - Long Technical
+  - upir
+  - TronicsFix
+  - ToMontownia
+  - FixIT
+  - Bob. Kalpon
+  - AlphaPhoenix
+  - Remonter
+  - Electronoobs
+  - joe smith
+  - iZZi instalacje
+  - JohnAudioTech
+  - tmf mikro
+  - Adrian's Digital Basement
+  - JUNTEK
+  - De-Kompozytor
+  - Tim's Electronics Lab
+  - Mr Carlson's Lab
+  - The Tech Genie
+  - Gadget Review Videos
+  - Ciekawe Urządzenia
+  - Laptex
+  - notebook-31
+  - mjlorton
+  - Adam Repair
+  - bitluni
+  - AKA KASYAN
+  - Piotr Górecki
+  - mirek sakowicz
+  - RetroGralnia
+  - IanScottJohnston
+  - Haseeb Electronics
+  - Major Tom Workshop
+  - ReduktorSzumu
+  - Kasyan TV
+  - Foolish Engineer
+  - The Equalizor
+  - My Mate VINCE
+  - Maker Fabio
+  - Marcin z lasu Kostrzyński
+  - Srebrna Rączka
+  - smbakeryt
+  - Sam Ben-Yaakov
+  - Sam Zeloof
+  - jeffescortlx
+  - Nerd's lesson
+  - TheCod3r
+  - Inżynieria wsteczna
+  - redliquid
+  - Krakowski Kurs Krótkofalarski
+  - ECU REPAIR
+  - slawek-online
+  - Almar Serwis Komputerów
+  - Kamil Reperuje
+  - Marc Siegel
+  - FeedbackLoop
+  - devttys0
+  - The Active Region
+  - SGdata
+  - Krzysztof Krzych
+  - 2_volt
+  - atomic14
+  - Dr-Bios com
+  - Tech Ingredients
+  - Majsterkowanie i nie tylko
+  - Piotr Burnos
+  - Leo's Bag of Tricks
+  - GerRepair
+  - Tech Cemetery
+  - Branch Education
+  - TechBuilder
+  - SERWIS ELEKTRONIKI
+  - Jeri Ellsworth
+  - Silniki Stirlinga i modelarstwo
+  - Marcin Marciniak
+  - Michał J
+  - Ben Eater
+  - RSAVE
+  - LukaszM
+  - Electronics repair school

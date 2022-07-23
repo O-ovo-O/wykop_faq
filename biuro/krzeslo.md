@@ -3,6 +3,7 @@
 - Steelcase Leap
 - Herman Miller Aeron/Embody
 - Ergohuman
+- Ergohuman Plus Elite BT KMD31
 - Unique Wau 2, Ares Mesh, Ergonic, Vip   unique tune
 - Profim Accis Pro 151SFL
 - Kinnarps
