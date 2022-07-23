@@ -181,7 +181,7 @@ albo wchodzić w bezsensowne dyskusje.
 
   - itradar.io # agregator
   - reddit # gdzieś są, ale się trzeba naszukać
-  - sprawdzic: fiverr gameindustry.biz  gamejobs bgsf.com/instaff/
+  - sprawdzic: fiverr freelancer.com  gameindustry.biz  gamejobs bgsf.com/instaff/
 
 - Czego się uczyć. Polećcie kurs...
 
@@ -219,6 +219,7 @@ albo wchodzić w bezsensowne dyskusje.
   - payscale.com
   - glassdoor
   - levels.fyi
+  - zarobky.pl
 
 - lista różnych "benefitów"
 

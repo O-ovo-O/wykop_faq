@@ -8,8 +8,9 @@
 - Kinnarps
 - Elzap Kivi EFG 200B
 - noblechairs
+- kinaperss 6000 plus
 
-- IKEA Markus
+- IKEA Markus  # brak podparcia na głowę
 - IKEA Jarvfjallet / JÄRVFJÄLLET
 - NeueChair
 - Aeron
