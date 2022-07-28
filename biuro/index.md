@@ -5,6 +5,7 @@
 
 ## krzeslo
 z siatka/elastomerem
+ - https://www.wykop.pl/wpis/66866797/miraski-z-biuro-jakie-krzeslo-do-pracy-polecacie-b/
  - https://www.wykop.pl/wpis/66784361/z-uwagi-na-wykonywany-zawod-b-duzo-czasu-spedzam-p/
  - https://www.wykop.pl/wpis/66657039/it-meble-pracbaza-hej-mireczko-szukam-fotelu-do-pr/
  - https://www.wykop.pl/wpis/66206945/jaki-fotel-przewiewny-z-regulacja-podlokietnikow-t/ # np JÄRVFJÄLLET

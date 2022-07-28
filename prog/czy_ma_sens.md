@@ -208,6 +208,9 @@ albo wchodzić w bezsensowne dyskusje.
   - tryhackme.com
   - jakieś tam losowe kanały YT: Kacper Szukrek, GynvaelColdwind, SekurakTV, HackerSploit, John Hammond, LiveOverFlow, Computerphile
   - osintme.com
+  - David Bombal. IppSec. Chris Greer. NetworkChuck
+  - YT Hak5, Null Byte. Zaufana Trzecia Strona, Adam Haertle, Niebezpiecznik
+
 
 - kalkulatory, podatki i inne pierdoły
 
@@ -256,6 +259,13 @@ albo wchodzić w bezsensowne dyskusje.
 
 * przeprowadzka
 
-  Ciekawy opis Francja:
+  Ciekawy opis emigracja:
+  Francja:
   https://www.wykop.pl/wpis/66638601
+  Wielka Brytania
+  https://www.wykop.pl/wpis/66853045/siemka-mam-pytanie-mam-w-planach-pojechac-do-pracy/
 
+- jakie znacie problemy?
+
+  - p vs np
+  - xy
