@@ -264,6 +264,8 @@ albo wchodzić w bezsensowne dyskusje.
   https://www.wykop.pl/wpis/66638601
   Wielka Brytania
   https://www.wykop.pl/wpis/66853045/siemka-mam-pytanie-mam-w-planach-pojechac-do-pracy/
+  Irlandia
+  https://www.wykop.pl/wpis/66913725/poradnik-dla-nowych-w-irlandii-wiem-ze-obecnie-mal/
 
 - jakie znacie problemy?
 

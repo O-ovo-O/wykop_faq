@@ -24,6 +24,7 @@
   - reddit
   - karab.in
   - 4chan.org
+  - strimi
 
 Porządne agregatory:
   - hackernews

@@ -8,7 +8,7 @@
 | Herman Miller Embody                                 | 6000               |                     |                             | 12*12 |       |
 | IKEA Jarvfjallet / JÄRVFJÄLLET                       | 900                |                     |                             |       |       |
 | IKEA Markus                                          | 700                | -                   |                             |       |       |
-| Kinnarps                                             |                    |                     |                             |       |       |
+| Kinnarps                                             | 2000-35000         | + (opcjon)          |                             |       |       |
 | NeueChair                                            | 1800               |                     |                             |       |       |
 | Mozos Ergo-F                                         | 700                | +                   |                             |       | 20kg  |
 | Profim Accis Pro 151SFL                              |                    |                     |                             |       |       |
