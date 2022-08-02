@@ -1,79 +1,126 @@
-- zanim zaczniesz czytać - proponuję zacząć tu
+# Table of contents, czyli spis treści
+
+<!-- MarkdownTOC -->
+
+- [zanim zaczniesz czytać - proponuję zacząć tu](#zanim-zaczniesz-czyta%C4%87---proponuj%C4%99-zacz%C4%85%C4%87-tu)
+- [czy warto zaczynać, gdy mam XYZ lat?](#czy-warto-zaczyna%C4%87-gdy-mam-xyz-lat)
+- [czy w wieku XYZ lat można znaleźć pracę w programowaniu?](#czy-w-wieku-xyz-lat-mo%C5%BCna-znale%C5%BA%C4%87-prac%C4%99-w-programowaniu)
+- [czy warto zaczynać z językiem X? Jaki język wybrać? Jak zacząć?](#czy-warto-zaczyna%C4%87-z-j%C4%99zykiem-x-jaki-j%C4%99zyk-wybra%C4%87-jak-zacz%C4%85%C4%87)
+- [czy warto certyfikaty?](#czy-warto-certyfikaty)
+- [czy warto gdy z matematyki mam xyz%?](#czy-warto-gdy-z-matematyki-mam-xyz)
+- [czy warto mieć projekty na Githubie?](#czy-warto-mie%C4%87-projekty-na-githubie)
+- [czy bez studiów w wieku X można znaleźć pracę w programowanie?](#czy-bez-studi%C3%B3w-w-wieku-x-mo%C5%BCna-znale%C5%BA%C4%87-prac%C4%99-w-programowanie)
+- [czy studiowanie to strata czasu czy nie?](#czy-studiowanie-to-strata-czasu-czy-nie)
+- [czy nauczę się Y w Z dni/miesięcy? Ile się trzeba uczyć? Ile mi zajmie nauka XYZ?](#czy-naucz%C4%99-si%C4%99-y-w-z-dnimiesi%C4%99cy-ile-si%C4%99-trzeba-uczy%C4%87-ile-mi-zajmie-nauka-xyz)
+- [czy potrzebuję jezyka angielskiego do programowania?](#czy-potrzebuj%C4%99-jezyka-angielskiego-do-programowania)
+- [ile czasu zajęło szukanie pracy](#ile-czasu-zaj%C4%99%C5%82o-szukanie-pracy)
+- [ile powinien zarabiać XYZ na stanowisku ZXC?](#ile-powinien-zarabia%C4%87-xyz-na-stanowisku-zxc)
+- [jaki komputer do programowania?](#jaki-komputer-do-programowania)
+- [jaki jest najlepszy język programowania?](#jaki-jest-najlepszy-j%C4%99zyk-programowania)
+- [jak wybrać język programowania do nauki? Jaki język na początek](#jak-wybra%C4%87-j%C4%99zyk-programowania-do-nauki-jaki-j%C4%99zyk-na-pocz%C4%85tek)
+- [listy projektów które można zrobić w trakcie nauki](#listy-projekt%C3%B3w-kt%C3%B3re-mo%C5%BCna-zrobi%C4%87-w-trakcie-nauki)
+- [czy są jeszcze w Polsce jakieś sensowne organizacje?](#czy-s%C4%85-jeszcze-w-polsce-jakie%C5%9B-sensowne-organizacje)
+- [gdzie szukać \(w tym zdalnej\) pracy?](#gdzie-szuka%C4%87-w-tym-zdalnej-pracy)
+- [czego się uczyć. Polećcie kurs...](#czego-si%C4%99-uczy%C4%87-pole%C4%87cie-kurs)
+
+<!-- /MarkdownTOC -->
+
+
+
+<a id="zanim-zaczniesz-czyta%C4%87---proponuj%C4%99-zacz%C4%85%C4%87-tu"></a>
+## zanim zaczniesz czytać - proponuję zacząć tu
 
 https://www.wykop.pl/wpis/66264217/
+
 https://www.wykop.pl/wpis/56996059/
+
 https://www.wykop.pl/wpis/55681449/
+
 https://www.youtube.com/watch?v=X26YTrdnEOQ
 
 (disclaimer, nie znam autora, autorów)
 
-https://www.wykop.pl/wpis/63004349/z-czego-i-jak-sie-uczyc-pythona-edycja-trzecia-pro/ # Python
-https://www.wykop.pl/wpis/9719000/cpp-naukaprogramowania-programowanie-wstep-czestot/ # C++
+https://www.wykop.pl/wpis/63004349/ # Python
+
+https://www.wykop.pl/wpis/9719000/  # C++
 
 github.com/mtdvio/every-programmer-should-know
 
-- czy warto zaczynać, gdy mam XYZ lat?
+<a id="czy-warto-zaczyna%C4%87-gdy-mam-xyz-lat"></a>
+## czy warto zaczynać, gdy mam XYZ lat?
 
 Warto
 
-- czy w wieku XYZ lat można znaleźć pracę w programowaniu?
+<a id="czy-w-wieku-xyz-lat-mo%C5%BCna-znale%C5%BA%C4%87-prac%C4%99-w-programowaniu"></a>
+## czy w wieku XYZ lat można znaleźć pracę w programowaniu?
 
 Można w każdym wieku
 
-- czy warto zaczynać z językiem X? Jaki język wybrać? Jak zacząć?
+<a id="czy-warto-zaczyna%C4%87-z-j%C4%99zykiem-x-jaki-j%C4%99zyk-wybra%C4%87-jak-zacz%C4%85%C4%87"></a>
+## czy warto zaczynać z językiem X? Jaki język wybrać? Jak zacząć?
 
 Wszystko zależy. Na stare języki spada ilość ofert, dużo firm jednak zostaje ze starą technologią.
 Przeważnie nauka od zera języka który w jakiejs dziedzinie jest wycofywany
 (powiedzmy java w androidzie zastepowana jest kotlinem) moze byc problematyczna.
 
-- czy warto certyfikaty?
+<a id="czy-warto-certyfikaty"></a>
+## czy warto certyfikaty?
 
 Opinie są podzielone. Są z pewnością niektóre certyfikaty które są bardzo porządane, choć raczej istnieje zależność liniowa -
 im trudniej jakiś cert zdobyć, tym bardziej jest ceniony, a często droga do niego prowadzi przez kilka pomniejszych certyfikatów.
 Jeśli pracodawca na umowie o pracę, bądz kontraktor zamierza taki sfinansować - to zasadniczo lepiej mieć niż nie mieć.
 Przydatność wiedzy potrzebnej do zdania certyfikatu jak i samego certyfikatu później w pracy/rekrutacjach - jest jak wyżej - różna.
 
-- czy warto gdy z matematyki mam xyz%?
+<a id="czy-warto-gdy-z-matematyki-mam-xyz"></a>
+## czy warto gdy z matematyki mam xyz%?
 
 Może. Jeśli znajdziesz pracę gdzie matematyka nie jest ściśle wymagana - to można, natomiast zasadniczo matematyka się przydaje,
 a w niektórych zagadnieniach jest niezbędna, na wysokim poziomie.
 
-- czy warto mieć projekty na Githubie?
+<a id="czy-warto-mie%C4%87-projekty-na-githubie"></a>
+## czy warto mieć projekty na Githubie?
 
 Pewnie że warto. Czasem może ktoś tam zajrzy. Nie zawsze.
 Czy warto mieć słabe projekty na Githubie, to druga rzecz.
 
-- czy bez studiów w wieku X można znaleźć pracę w programowanie?
+<a id="czy-bez-studi%C3%B3w-w-wieku-x-mo%C5%BCna-znale%C5%BA%C4%87-prac%C4%99-w-programowanie"></a>
+## czy bez studiów w wieku X można znaleźć pracę w programowanie?
 
 Można, ale trzeba się liczyć z konkurencją. Jeśli się już umie programować i ma dobrego GH - to nie powinno to być problemem.
 
-- czy studiowanie to strata czasu czy nie?
+<a id="czy-studiowanie-to-strata-czasu-czy-nie"></a>
+## czy studiowanie to strata czasu czy nie?
 
 Jeden rabin powie tak drugi nie, bezsensowna dyskusja.
 
-- czy nauczę się Y w Z dni/miesięcy? Ile się trzeba uczyć? Ile mi zajmie nauka XYZ?
+<a id="czy-naucz%C4%99-si%C4%99-y-w-z-dnimiesi%C4%99cy-ile-si%C4%99-trzeba-uczy%C4%87-ile-mi-zajmie-nauka-xyz"></a>
+## czy nauczę się Y w Z dni/miesięcy? Ile się trzeba uczyć? Ile mi zajmie nauka XYZ?
 
 Wszystko zależy od indywidualnych predyspozycji, inteligencji i zaangażowania.
 Od 5 minut do nieskończoności.
 Powiedzmy średnio: uczysz się 2-3 godziny dziennie to minimalnym okresem nauki jest rok.
 Inni podają 500-1000 godzin, zagadka dla ciebie, czy podane przedziały pokrywają się? ;)
 
-- czy potrzebuję jezyka angielskiego do programowania?
+<a id="czy-potrzebuj%C4%99-jezyka-angielskiego-do-programowania"></a>
+## czy potrzebuję jezyka angielskiego do programowania?
 
 Kwestia sporna. Przeważa pogląd że tak - i to przynajmniej na **solidnym** poziomie B2.
 Dużo dokumentacji jest tylko w tym języku, a współpracując z kimkolwiek - przeważnie używa się właśnie angielskiego.
 Kontrargumentów nie znam, zapewne są niszowe "januszeksy" gdzie programuje tylko Zygfryd z Kunegundą, pozostaje otwarte pytanie
 czy taki kod stanowi jakąkolwiek wartość dodaną.
 
-- ile czasu zajęło szukanie pracy
+<a id="ile-czasu-zaj%C4%99%C5%82o-szukanie-pracy"></a>
+## ile czasu zajęło szukanie pracy
 
 Nie ma reguły. Jest to wypadkowa zapotrzebowania na zestaw umiejętności, potwierdzony faktyczną weryfikacją tych umiejętności, oraz szczęścia.
 
-- ile powinien zarabiać XYZ na stanowisku ZXC?
+<a id="ile-powinien-zarabia%C4%87-xyz-na-stanowisku-zxc"></a>
+## ile powinien zarabiać XYZ na stanowisku ZXC?
 
 Chyba logiczne - nie ma reguły, w zależności od zapotrzebowania, miejsca pracy, kompetencji twardych, miękkich i umięjetności negocjacyjnych.
 
-- jaki komputer do programowania?
+<a id="jaki-komputer-do-programowania"></a>
+## jaki komputer do programowania?
 
 Zasadniczo prawie każdy. Zasada prosta - nowe rzeczy wymagają sporo ramu. Im więcej tym lepiej.
 Im szybszy procesor - tym szybciej ;) Na starym rzęchu sprzed 10 lat część rzeczy już nie będzie działać.
@@ -81,34 +128,37 @@ Im bardziej niszowy - tym trudniej może być znaleźć pomoc odnośnie rozwią
 Niektóre środowiska programistyczne wymagają określonego sprzętu.
 Przykładowo - może być trudniej pisać aplikacje które mają działać pod windowsem, z poziomu linuksa.
 
-- jaki jest najlepszy język programowania?
+<a id="jaki-jest-najlepszy-j%C4%99zyk-programowania"></a>
+## jaki jest najlepszy język programowania?
 
-Coś takiego nie istnieje. Język to narzędzie jak młotek, czy wkrętak. Dobiera się odpowiedni do zadania.
+Coś takiego nie istnieje. Język to narzędzie jak młotek, czy wkrętak. Dobiera się odpowiedni do zadania.
 
-- jak wybrać język programowania do nauki? Jaki język na początek
+<a id="jak-wybra%C4%87-j%C4%99zyk-programowania-do-nauki-jaki-j%C4%99zyk-na-pocz%C4%85tek"></a>
+## jak wybrać język programowania do nauki? Jaki język na początek
 
 Nie ma dobrej odpowiedzi na to pytanie, wszystko zależy. Można posiłkować się:
 
   - bestprogramminglanguagefor.me
   - roadmap.sh
-  - catb.org/~esr/faqs/hacker-howto.html
+  - catb.org/\~esr/faqs/hacker-howto.html
 
 albo wchodzić w bezsensowne dyskusje.
 
-
-- listy projektów które można zrobić w trakcie nauki
+<a id="listy-projekt%C3%B3w-kt%C3%B3re-mo%C5%BCna-zrobi%C4%87-w-trakcie-nauki"></a>
+## listy projektów które można zrobić w trakcie nauki
 
   - github.com/practical-tutorials/project-based-learning
   - github.com/codecrafters-io/build-your-own-x
 
-- czy są jeszcze w Polsce jakieś sensowne organizacje?
+<a id="czy-s%C4%85-jeszcze-w-polsce-jakie%C5%9B-sensowne-organizacje"></a>
+## czy są jeszcze w Polsce jakieś sensowne organizacje?
 
   - https://panoptykon.org
   - https://siecobywatelska.pl # Watchdog
 
 
-
-- gdzie szukać pracy (w tym zdalnej pracy)?
+<a id="gdzie-szuka%C4%87-w-tym-zdalnej-pracy"></a>
+## gdzie szukać (w tym zdalnej) pracy?
 
   - angel.co
   - cord.co
@@ -183,7 +233,8 @@ albo wchodzić w bezsensowne dyskusje.
   - reddit # gdzieś są, ale się trzeba naszukać
   - sprawdzic: fiverr freelancer.com  gameindustry.biz  gamejobs bgsf.com/instaff/
 
-- Czego się uczyć. Polećcie kurs...
+<a id="czego-si%C4%99-uczy%C4%87-pole%C4%87cie-kurs"></a>
+## czego się uczyć. Polećcie kurs...
 
   - CS50x
 
@@ -219,6 +270,7 @@ albo wchodzić w bezsensowne dyskusje.
   - jakipit.pl
 
 - gdzie można sprawdzać srednie zarobki
+
   - payscale.com
   - glassdoor
   - levels.fyi
@@ -254,20 +306,18 @@ albo wchodzić w bezsensowne dyskusje.
   - DE: ebay kleinanzeigen, wg-gesucht, immobilienscout24
   - ES: idealista.es
   - FR: app.dvf.etalab.gouv.fr
+  - IR: daft.ie
   - IT: idealista.it
   - UK: Spareroom, grupy facebookowe
 
 * przeprowadzka
 
   Ciekawy opis emigracja:
-  Francja:
-  https://www.wykop.pl/wpis/66638601
-  Wielka Brytania
-  https://www.wykop.pl/wpis/66853045/siemka-mam-pytanie-mam-w-planach-pojechac-do-pracy/
-  Irlandia
-  https://www.wykop.pl/wpis/66913725/poradnik-dla-nowych-w-irlandii-wiem-ze-obecnie-mal/
+  - Francja: https://www.wykop.pl/wpis/66638601
+  - Wielka Brytania: https://www.wykop.pl/wpis/66853045/
+  - Irlandia: https://www.wykop.pl/wpis/66913725/
 
-- jakie znacie problemy?
+- jakie znacie problemy do rozwiązywania?
 
   - p vs np
   - xy
