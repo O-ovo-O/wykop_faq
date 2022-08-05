@@ -22,6 +22,11 @@
 - [czy są jeszcze w Polsce jakieś sensowne organizacje?](#czy-s%C4%85-jeszcze-w-polsce-jakie%C5%9B-sensowne-organizacje)
 - [gdzie szukać \(w tym zdalnej\) pracy?](#gdzie-szuka%C4%87-w-tym-zdalnej-pracy)
 - [czego się uczyć. Polećcie kurs...](#czego-si%C4%99-uczy%C4%87-pole%C4%87cie-kurs)
+- [kalkulatory, podatki i inne pierdoły](#kalkulatory-podatki-i-inne-pierdo%C5%82y)
+- [gdzie można sprawdzać srednie zarobki](#gdzie-mo%C5%BCna-sprawdza%C4%87-srednie-zarobki)
+- [lista różnych pracowych "benefitów"](#lista-r%C3%B3%C5%BCnych-pracowych-benefit%C3%B3w)
+- [czy warto emigrować?](#czy-warto-emigrowa%C4%87)
+- [jakie znacie problemy do rozwiązywania?](#jakie-znacie-problemy-do-rozwi%C4%85zywania)
 
 <!-- /MarkdownTOC -->
 
@@ -236,10 +241,11 @@ albo wchodzić w bezsensowne dyskusje.
 <a id="czego-si%C4%99-uczy%C4%87-pole%C4%87cie-kurs"></a>
 ## czego się uczyć. Polećcie kurs...
 
-  - CS50x
+  ### wiedza ogólna
 
+    - CS50x
 
-- algorytmy
+  ### algorytmy
 
   - Cormen "Wprowadzenie do algorytmów"
   - Knuth "Algorytmy" :)
@@ -250,7 +256,7 @@ albo wchodzić w bezsensowne dyskusje.
   - Bhargava "Grokking Algorithms" (free)
   - github.com/cjbt/Free-Algorithm-Books
 
-- security
+  ### security
 
   - pauljerimy.com/security-certification-roadmap
   - cyberseek.org/pathway.html
@@ -263,20 +269,23 @@ albo wchodzić w bezsensowne dyskusje.
   - YT Hak5, Null Byte. Zaufana Trzecia Strona, Adam Haertle, Niebezpiecznik
 
 
-- kalkulatory, podatki i inne pierdoły
+<a id="kalkulatory-podatki-i-inne-pierdo%C5%82y"></a>
+## kalkulatory, podatki i inne pierdoły
 
   - kalkulatorb2b.pl
   - podatki.wtf
   - jakipit.pl
 
-- gdzie można sprawdzać srednie zarobki
+<a id="gdzie-mo%C5%BCna-sprawdza%C4%87-srednie-zarobki"></a>
+## gdzie można sprawdzać srednie zarobki
 
   - payscale.com
   - glassdoor
   - levels.fyi
   - zarobky.pl
 
-- lista różnych "benefitów"
+<a id="lista-r%C3%B3%C5%BCnych-pracowych-benefit%C3%B3w"></a>
+## lista różnych pracowych "benefitów"
 
   - owocowe czwartki
   - wypłata /przelew na czas ;)
@@ -288,7 +297,8 @@ albo wchodzić w bezsensowne dyskusje.
   - no meetings driven development
   - brak kultury zap..zasuwania
 
-- czy warto emigrować?
+<a id="czy-warto-emigrowa%C4%87"></a>
+## czy warto emigrować?
 
   \#emigracja \#emigrujzwykopem
 
@@ -303,9 +313,10 @@ albo wchodzić w bezsensowne dyskusje.
 * inne święta
 * internet (mobilny)
 * nieruchomości, mieszkania
+
   - DE: ebay kleinanzeigen, wg-gesucht, immobilienscout24
   - ES: idealista.es
-  - FR: app.dvf.etalab.gouv.fr
+  - FR: app.dvf.etalab.gouv.fr  Leboncoin.fr  seloger.com
   - IR: daft.ie
   - IT: idealista.it
   - UK: Spareroom, grupy facebookowe
@@ -316,8 +327,10 @@ albo wchodzić w bezsensowne dyskusje.
   - Francja: https://www.wykop.pl/wpis/66638601
   - Wielka Brytania: https://www.wykop.pl/wpis/66853045/
   - Irlandia: https://www.wykop.pl/wpis/66913725/
+  - Szwecja http://qasa.se/ http://blocket.se/
 
-- jakie znacie problemy do rozwiązywania?
+<a id="jakie-znacie-problemy-do-rozwi%C4%85zywania"></a>
+## jakie znacie problemy do rozwiązywania?
 
   - p vs np
   - xy

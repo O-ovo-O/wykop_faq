@@ -58,3 +58,5 @@ NIP, regon, księgowość
 - Jak zyskać zaufanie firm, dla których chcielibyśmy wykonywać usługi?
 - Wyceny projektów: time and material vs fixed price (godzinowa stawka czy z góry ustalona kwota)?
 - W jaki sposób się reklamować? Na jakich portalach?
+
+- nazwa - powinienes miec na JDG nazwe ze swoim nazwiskiem, ale gdyby tworzyc spolke zoo to trzeba sprawdzic czy nie ma juz takiej w uprp.gov.pl i euipo.europa.eu (bazy znakow zastrzezonych) - uwaga tez na znak podobienstwa nie tylko identycznosci takiej samej nazwy, logo itd ...mozna zostac pozwanym, wiec mozna czasem wynajac rzecznika patentowego
