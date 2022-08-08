@@ -12,6 +12,7 @@
 | NeueChair                                            | 1800               |                     |                             |       |       |                                 |
 | Mozos Ergo-F                                         | 700                | +                   |                             |       | 20kg  |                                 |
 | Profim Accis Pro 151SFL                              |                    |                     |                             |       |       |                                 |
+| Profim Veris Net                                     |                    |                     |                             |       |       |                                 |
 | SIDIZ T50 air                                        |                    |                     |                             |       |       |                                 |
 | Steelcase Leap                                       |                    |                     |                             |       |       |                                 |
 | Unique Wau 2, Ares Mesh, Ergonic, Vip   unique tune  |                    |                     |                             |       |       |                                 |

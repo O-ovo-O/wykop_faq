@@ -223,12 +223,14 @@ albo wchodzić w bezsensowne dyskusje.
     - jobs.meinestadt.de
     - jobsintown.de
     - neuvoo.de
+    - poloniusz.pl
     - stepstone.de
     - xing.de
   - FR:
     - thelocal.fr/jobs
   - IR/UK:
     - irishjobs.ie
+    - devitjobs.uk
   - NL:
     - Jobsonline.nl
   - NO:
