@@ -13,6 +13,7 @@
 | kreator w pracuj.pl     |                           |
 | latex                   |                           |
 | linkedin                |                           |
+| novoresume              |                           |
 | overleaf                |                           |
 | pracuj.pl/kreator       |                           |
 | recznie na kartce       | -                         |

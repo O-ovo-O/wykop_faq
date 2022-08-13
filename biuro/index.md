@@ -5,7 +5,9 @@
 
 ## krzeslo
 z siatka/elastomerem
+ - https://www.wykop.pl/wpis/67065511/pracbaza-pracait-homeoffice-pracazdalna-krzeslobiu/
  - https://www.wykop.pl/wpis/67055249/mireczki-z-jakiego-fotelu-korzystacie-przy-pracy-b/
+ - https://www.wykop.pl/wpis/67036857/mirki-szukam-fotela-biurowego-do-mieszkania-glowne/
  - https://www.wykop.pl/wpis/67045747/czy-mozecie-polecic-jakis-fotel-do-biurka-tak-do-o/
  - https://www.wykop.pl/wpis/66866797/miraski-z-biuro-jakie-krzeslo-do-pracy-polecacie-b/
  - https://www.wykop.pl/wpis/66784361/z-uwagi-na-wykonywany-zawod-b-duzo-czasu-spedzam-p/

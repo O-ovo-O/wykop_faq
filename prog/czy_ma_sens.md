@@ -184,17 +184,21 @@ albo wchodzić w bezsensowne dyskusje.
   - remoteok.com
   - snagajob.com
   - solid.jobs
-  - stackoverflow/jobs#is-closed
+  - stackoverflow/jobs # closed
+  - skillshot
   - teemwork.ai
+  - test.io
   - toptal.com
   - totaljobs.com
   - upwork.com
   - useme.com
+  - utest.com
   - weworkremotely.com
+  - workaway.info
   - ycombinator news # na początku miesiąca
   - ziprecruiter.com
   - znajomi :) czy grupki na portalach społecznościowych
-  - PL:
+  - PL: # Polska
     - bulldogjob.pl
     - fixly.pl
     - goldenline.com
@@ -207,15 +211,18 @@ albo wchodzić w bezsensowne dyskusje.
     - oferia.pl
     - pracuj.pl
     - rocketjobs.pl
-  - BE:
+  - AT: # Austria
+    - karriere.at
+    - kununu.com
+  - BE: # Belgia
     - vdab.be/vindeenjob/vacatures
     - workinflanders.be
-  - CH:
+  - CH: # Szwajcaria
     - jobs.ch
     - swissdevjobs.ch
-  - CZ:
+  - CZ: # Czechy
     - expats.cz/jobs
-  - DE:
+  - DE: # Niemcy
     - de.jooble.org
     - berlinstartupjobs.com/de
     - germantechjobs.de
@@ -226,14 +233,17 @@ albo wchodzić w bezsensowne dyskusje.
     - poloniusz.pl
     - stepstone.de
     - xing.de
-  - FR:
+  - FR: # Francja
     - thelocal.fr/jobs
+    - agencje: Manpower, Ranstad, Ras, Adecco, Synergie, Samsic
   - IR/UK:
     - irishjobs.ie
     - devitjobs.uk
-  - NL:
+  - IS # Islandia
+    - alfred.is
+  - NL: # Niderlandy
     - Jobsonline.nl
-  - NO:
+  - NO: # Norwegia
     - finn.no
 
   - itradar.io # agregator
@@ -291,7 +301,7 @@ albo wchodzić w bezsensowne dyskusje.
 
   - owocowe czwartki
   - wypłata /przelew na czas ;)
-  - samochód z kartą paliwową
+  - samochód z kartą paliwową (lub ekwiwalent pieniężny)
   - akcje
   - mieszkanie
   - elastyczne godziny pracy
@@ -316,6 +326,7 @@ albo wchodzić w bezsensowne dyskusje.
 * internet (mobilny)
 * nieruchomości, mieszkania
 
+  - AT: willhaben.at
   - DE: ebay kleinanzeigen, wg-gesucht, immobilienscout24
   - ES: idealista.es
   - FR: app.dvf.etalab.gouv.fr  Leboncoin.fr  seloger.com
@@ -325,11 +336,19 @@ albo wchodzić w bezsensowne dyskusje.
 
 * przeprowadzka
 
-  Ciekawy opis emigracja:
-  - Francja: https://www.wykop.pl/wpis/66638601
-  - Wielka Brytania: https://www.wykop.pl/wpis/66853045/
+  Ciekawe opisy emigracji:
+  - Bali: #baliwpjoterze
+  - Chiny: #matiwojwchinach
+  - Chorwacja: #splitalam
+  - Francja: https://www.wykop.pl/wpis/66638601 #francjadasielubic
+  - Haiti: https://www.wykop.pl/link/6698097/ https://www.wykop.pl/link/4480429
   - Irlandia: https://www.wykop.pl/wpis/66913725/
   - Szwecja http://qasa.se/ http://blocket.se/
+  - Turcja: #turcjawpjoterze
+  - Wielka Brytania: https://www.wykop.pl/wpis/66853045/
+  - Wietnam: #wietnamwpjoterze
+
+  - https://www.reddit.com/r/digitalnomad/
 
 <a id="jakie-znacie-problemy-do-rozwi%C4%85zywania"></a>
 ## jakie znacie problemy do rozwiązywania?

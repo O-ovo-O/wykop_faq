@@ -20,5 +20,10 @@ nabywasz też gwarantowane kodeksem pracy prawa pracownika.
 
 ## TODO: kredyty/ubezpieczenia
 
+## jak działa ta cała ekonomia, inflacja itd
 
+https://www.youtube.com/watch?app=desktop&v=PHe0bXAIuk0
 
+## co gdy wypowiedzenie, a masz wlasnie 3 lata stazu
+
+https://www.wykop.pl/wpis/66981305
