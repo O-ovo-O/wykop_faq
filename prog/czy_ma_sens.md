@@ -339,21 +339,26 @@ albo wchodzić w bezsensowne dyskusje.
   - FR: app.dvf.etalab.gouv.fr  Leboncoin.fr  seloger.com
   - IR: daft.ie
   - IT: idealista.it
+  - SE: qasa.se blocket.se
   - UK: Spareroom, grupy facebookowe
 
 * przeprowadzka
 
   Ciekawe opisy emigracji:
+  - Australia: https://www.wykop.pl/link/6263389/ https://www.wykop.pl/link/6069039/
   - Bali: #baliwpjoterze
-  - Chiny: #matiwojwchinach
+  - Chiny: #matiwojwchinach i LuckySrike https://www.youtube.com/watch?v=-3prcjaFcUs&list=PLOAXDMnFNrmnJmuXLGT_yXvy8ioPTKDcQ
   - Chorwacja: #splitalam
   - Francja: https://www.wykop.pl/wpis/66638601 #francjadasielubic
   - Haiti: https://www.wykop.pl/link/6698097/ https://www.wykop.pl/link/4480429
+  - Kambodża: https://www.wykop.pl/wpis/52919507/ (2020)
   - Irlandia: https://www.wykop.pl/wpis/66913725/
-  - Szwecja http://qasa.se/ http://blocket.se/
+  - Szwecja https://www.wykop.pl/wpis/60775001/
+  - Rumunia: https://www.wykop.pl/link/5743013
   - Turcja: #turcjawpjoterze
   - Wielka Brytania: https://www.wykop.pl/wpis/66853045/
   - Wietnam: #wietnamwpjoterze
+  - Zjednoczone Emiraty Arabskie: https://www.wykop.pl/link/5842095/
 
   - https://www.reddit.com/r/digitalnomad/
 
