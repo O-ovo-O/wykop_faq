@@ -1,7 +1,7 @@
-|         nazwa         | cena | uwagi                                                                                                                |
-|:---------------------:|:----:|----------------------------------------------------------------------------------------------------------------------|
-| spacetronik spe 223hb |      |                                                                                                                      |
-|        idasen         |      |                                                                                                                      |
-|      flyingdesk       |      |                                                                                                                      |
-|       wuteh sky       |      |                                                                                                                      |
-|      ikea bekant      |      | https://www.ikea.com/pl/pl/p/bekant-biurko-z-regulacja-wysokosci-okleina-debowa-bejcowana-na-bialo-czarny-s79282233  |
+|         nazwa         | cena PLN 2022-09 | uwagi                                                                                                               |
+|:---------------------:|:----------------:|---------------------------------------------------------------------------------------------------------------------|
+|      flyingdesk       |       2200       | https://flyingdesk.pl/                                                                                              |
+|      ikea bekant      |                  | https://www.ikea.com/pl/pl/p/bekant-biurko-z-regulacja-wysokosci-okleina-debowa-bejcowana-na-bialo-czarny-s79282233 |
+|      ikea idasen      |       850        | https://www.ikea.com/pl/pl/p/idasen-biurko-czarny-ciemnoszary-s59281036/                                            |
+| spacetronik spe 223hb |       1750       | https://shop.spacetronik.eu/elektryczny-stelaz-biurkowy-spacetronik-spe-223hb  (sam stelaż, +blat)                  |
+|       wuteh sky       |       2020       | https://wuteh.com.pl/cennik/biurko-sky-1/                                                                           |

@@ -68,6 +68,12 @@ Wszystko zależy. Na stare języki spada ilość ofert, dużo firm jednak zostaj
 Przeważnie nauka od zera języka który w jakiejs dziedzinie jest wycofywany
 (powiedzmy java w androidzie zastepowana jest kotlinem) moze byc problematyczna.
 
+Są zdania że warto zacząć od prostego dynamicznie typowanego języka np Python,
+jak i zdania przeciwne, polecające silnie typowane języki jak C, C++.
+Jeszcze inni polecają Haskela, Javę, Kotlina, JavaScript, Flutter itd
+Jak wszystko - ma to swoje plusy i minusy, które trudno streścić, a prowadzi to tylko do "flame war" jak niekończących się dyskusjach który edytor jest lepszy, taby czy spacje itd.
+
+
 <a id="czy-warto-certyfikaty"></a>
 ## czy warto certyfikaty?
 
@@ -177,6 +183,7 @@ albo wchodzić w bezsensowne dyskusje.
   - jobrack.eu
   - jobsearch.dev
   - jobsqd.com
+  - honeypot.io
   - linkedin.com
   - monster.com
   - nomady.work
