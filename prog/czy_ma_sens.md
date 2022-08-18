@@ -49,6 +49,8 @@ https://www.wykop.pl/wpis/63004349/ # Python
 
 https://www.wykop.pl/wpis/9719000/  # C++
 
+https://fullstackopen.com/en # web
+
 github.com/mtdvio/every-programmer-should-know
 
 <a id="czy-warto-zaczyna%C4%87-gdy-mam-xyz-lat"></a>
@@ -64,14 +66,17 @@ Można w każdym wieku
 <a id="czy-warto-zaczyna%C4%87-z-j%C4%99zykiem-x-jaki-j%C4%99zyk-wybra%C4%87-jak-zacz%C4%85%C4%87"></a>
 ## czy warto zaczynać z językiem X? Jaki język wybrać? Jak zacząć?
 
-Wszystko zależy. Na stare języki spada ilość ofert, dużo firm jednak zostaje ze starą technologią.
+Wszystko zależy. Na stare języki spada ilość ofert, dużo firm jednak zostaje ze starą technologią. Języki na przestrzeni lat zmieniają się.
 Przeważnie nauka od zera języka który w jakiejs dziedzinie jest wycofywany
-(powiedzmy java w androidzie zastepowana jest kotlinem) moze byc problematyczna.
+(powiedzmy java, która w androidzie zastepowana jest kotlinem) moze byc problematyczna.
+
+Niektóre języki silnie związane są z branżą - np w branży gier używa się jednego, a web innego.
 
 Są zdania że warto zacząć od prostego dynamicznie typowanego języka np Python,
 jak i zdania przeciwne, polecające silnie typowane języki jak C, C++.
 Jeszcze inni polecają Haskela, Javę, Kotlina, JavaScript, Flutter itd
 Jak wszystko - ma to swoje plusy i minusy, które trudno streścić, a prowadzi to tylko do "flame war" jak niekończących się dyskusjach który edytor jest lepszy, taby czy spacje itd.
+
 
 
 <a id="czy-warto-certyfikaty"></a>

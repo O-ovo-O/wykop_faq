@@ -5,6 +5,7 @@
 
 ## krzeslo
 z siatka/elastomerem
+ - https://www.wykop.pl/wpis/67213431/szukam-fotela-do-ok-1k-1-2k-do-siedzenia-przy-komp/
  - https://www.wykop.pl/wpis/67065511/pracbaza-pracait-homeoffice-pracazdalna-krzeslobiu/
  - https://www.wykop.pl/wpis/67055249/mireczki-z-jakiego-fotelu-korzystacie-przy-pracy-b/
  - https://www.wykop.pl/wpis/67036857/mirki-szukam-fotela-biurowego-do-mieszkania-glowne/

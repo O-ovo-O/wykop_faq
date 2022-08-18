@@ -1,24 +1,26 @@
-| nazwa                                                | cena PLN 2022-08   | zaglowek            | uwagi                       | gwar  | waga  | link                            |
-| ---------------------------------------------------- | :----------------: | :-----------------: | :-------------------------: | ----- | ----- | ----                            |
-| Dragonflychair                                       |                    |                     |                             |       |       | https://www.dragonflychair.com/ |
-| Elzap Kivi EFG 200B                                  | 1400               |                     |                             |       |       |                                 |
-| Ergohuman                                            |                    |                     |                             |       |       |                                 |
-| Ergohuman Plus Elite BT KMD31                        | 2600               |                     |                             |       |       |                                 |
-| Herman Miller Aeron                                  | 2800-3500          | - (?)               |                             | 12*12 |       |                                 |
-| Herman Miller Embody                                 | 6000               |                     |                             | 12*12 |       |                                 |
-| IKEA Jarvfjallet / JÄRVFJÄLLET                       | 900                |                     |                             |       |       |                                 |
-| IKEA Markus                                          | 700                | -                   |                             |       |       |                                 |
-| Kinnarps                                             | 2000-35000         | + (opcjon)          |                             |       |       |                                 |
-| NeueChair                                            | 1800               |                     |                             |       |       |                                 |
-| Mozos Ergo-F                                         | 700                | +                   |                             |       | 20kg  |                                 |
-| Profim Accis Pro 151SFL                              |                    |                     |                             |       |       |                                 |
-| Profim Veris Net                                     |                    |                     |                             |       |       |                                 |
-| SIDIZ T50 air                                        |                    |                     |                             |       |       |                                 |
-| Steelcase Leap                                       |                    |                     |                             |       |       |                                 |
-| Unique Wau 2, Ares Mesh, Ergonic, Vip   unique tune  |                    |                     |                             |       |       |                                 |
-| assics pro                                           |                    |                     |                             |       |       |                                 |
-| kinaperss 6000 plus                                  |                    |                     |                             |       |       |                                 |
-| noblechairs                                          |                    |                     |                             |       |       |                                 |
-| tamdrup / tjele                                      | ~700               | -                   |                             |       |       |                                 |
-| valio bt hd                                          | 1400               | + (opcjonalnie bez) |                             |       |       |                                 |
+| nazwa                                                | cena PLN 2022-08   | zaglowek            | uwagi                       | gwar  | waga  | link                                                        |
+| ---------------------------------------------------- | :----------------: | :-----------------: | :-------------------------: | ----- | ----- | ----                                                        |
+| Astat 700                                            | 999                | +                   |                             |       |       | https://pl.genesis-zone.com/produkt/astat-700-black         |
+| Dragonflychair                                       |                    |                     |                             |       |       | https://www.dragonflychair.com/                             |
+| Elzap Kivi EFG 200B                                  | 1400               |                     |                             |       |       |                                                             |
+| Ergohuman                                            |                    |                     |                             |       |       |                                                             |
+| Ergohuman Plus Elite BT KMD31                        | 2600               |                     |                             |       |       |                                                             |
+| Herman Miller Aeron                                  | 2800-3500          | - (?)               |                             | 12*12 |       |                                                             |
+| Herman Miller Embody                                 | 6000               |                     |                             | 12*12 |       |                                                             |
+| IKEA Jarvfjallet / JÄRVFJÄLLET                       | 900                |                     |                             |       |       |                                                             |
+| IKEA Markus                                          | 700                | -                   |                             |       |       |                                                             |
+| Ioo WS KMD30                                         | 2400               | +                   |                             | 5*12  |       | https://www.centrumkrzesel.pl/fotel-ioo-ws-kmd30-24h/3343/p |
+| Kinnarps                                             | 2000-35000         | + (opcjon)          |                             |       |       |                                                             |
+| NeueChair                                            | 1800               |                     |                             |       |       |                                                             |
+| Mozos Ergo-F                                         | 700                | +                   |                             |       | 20kg  |                                                             |
+| Profim Accis Pro 151SFL                              |                    |                     |                             |       |       |                                                             |
+| Profim Veris Net                                     |                    |                     |                             |       |       |                                                             |
+| SIDIZ T50 air                                        |                    |                     |                             |       |       |                                                             |
+| Steelcase Leap                                       |                    |                     |                             |       |       |                                                             |
+| Unique Wau 2, Ares Mesh, Ergonic, Vip   unique tune  |                    |                     |                             |       |       |                                                             |
+| assics pro                                           |                    |                     |                             |       |       |                                                             |
+| kinaperss 6000 plus                                  |                    |                     |                             |       |       |                                                             |
+| noblechairs                                          |                    |                     |                             |       |       |                                                             |
+| tamdrup / tjele                                      | ~700               | -                   |                             |       |       |                                                             |
+| valio bt hd                                          | 1400               | + (opcjonalnie bez) |                             |       |       |                                                             |
 
