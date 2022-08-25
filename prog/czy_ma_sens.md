@@ -48,6 +48,7 @@ https://www.youtube.com/watch?v=X26YTrdnEOQ
 https://www.wykop.pl/wpis/63004349/ # Python
 
 https://www.wykop.pl/wpis/9719000/  # C++
+https://www.wykop.pl/wpis/45743585 # C++
 
 https://fullstackopen.com/en # web
 
@@ -77,6 +78,9 @@ jak i zdania przeciwne, polecające silnie typowane języki jak C, C++.
 Jeszcze inni polecają Haskela, Javę, Kotlina, JavaScript, Flutter itd
 Jak wszystko - ma to swoje plusy i minusy, które trudno streścić, a prowadzi to tylko do "flame war" jak niekończących się dyskusjach który edytor jest lepszy, taby czy spacje itd.
 
+Warto też zauważyć, że IT to obecnie szeroki temat. Nie każdy musi być programistą. Są zawody pokrewne w branży IT.
+Analitycy biznesowi, testerzy (testy manualne, lub automatyczne). Są stanowiska typu menadżer liniowy, support, IT, menadżer projektu, scrum master itd.
+
 
 
 <a id="czy-warto-certyfikaty"></a>
@@ -98,6 +102,10 @@ a w niektórych zagadnieniach jest niezbędna, na wysokim poziomie.
 
 Pewnie że warto. Czasem może ktoś tam zajrzy. Nie zawsze.
 Czy warto mieć słabe projekty na Githubie, to druga rzecz.
+
+## czy warto mieć aplikację do portfolio?
+To zależy - jak z projektami na GH - dobry projekt to coś czym ew można się pochwalić na rozmowie, kiepski - to kiepski pomysł.
+Liczy się jakość, oryginalność pomysłu (trudno oczekiwać zachwytu nad milionową iteracją listy ToDo)
 
 <a id="czy-bez-studi%C3%B3w-w-wieku-x-mo%C5%BCna-znale%C5%BA%C4%87-prac%C4%99-w-programowanie"></a>
 ## czy bez studiów w wieku X można znaleźć pracę w programowanie?
@@ -255,8 +263,10 @@ albo wchodzić w bezsensowne dyskusje.
     - alfred.is
   - NL: # Niderlandy
     - Jobsonline.nl
+    - zipconomy.nl/tool/marktplaatsen
   - NO: # Norwegia
     - finn.no
+    - hybel.no
 
   - itradar.io # agregator
   - reddit # gdzieś są, ale się trzeba naszukać
@@ -311,15 +321,31 @@ albo wchodzić w bezsensowne dyskusje.
 <a id="lista-r%C3%B3%C5%BCnych-pracowych-benefit%C3%B3w"></a>
 ## lista różnych pracowych "benefitów"
 
-  - owocowe czwartki
-  - wypłata /przelew na czas ;)
   - samochód z kartą paliwową (lub ekwiwalent pieniężny)
   - akcje
   - mieszkanie
   - elastyczne godziny pracy
   - praca zdalna
   - no meetings driven development
+
+  z innych głupot
+
+  - owocowe czwartki
+  - wypłata /przelew na czas ;)
+  - zapewnienie niezbędnych narzędzi do pracy, stroju roboczego :D
+  - rozwój w młodym dynamicznym zespole
+  - dodatek 20% za prace w godzinach nocnych
+  - szkolenie bhp przystosowane do stanowiska pracy
+  - 15 minut przerwy w trakcie pracy
   - brak kultury zap..zasuwania
+  - Praca w renomowanej firmie
+  - Miła atmosfera
+  - Płatne nadgodziny
+  - Płatne dni urlopu w ilości zgodnej z ustawą
+  - Miejsce parkingowe pod zakładem
+  - Dogodny dojazd komunikacją miejską (przystanek kilka minut piechotą od firmy)
+  - Wolne weekendy z możliwością wzięcia nadgodzin
+  - darmowa kawa i herbata :D
 
 <a id="czy-warto-emigrowa%C4%87"></a>
 ## czy warto emigrować?
@@ -339,7 +365,7 @@ albo wchodzić w bezsensowne dyskusje.
 * nieruchomości, mieszkania
 
   - AT: willhaben.at
-  - DE: ebay kleinanzeigen, wg-gesucht, immobilienscout24
+  - DE: ebay kleinanzeigen, wg-gesucht, immobilienscout24  i inne ciekawostki umweltzone.pl/strefy
   - ES: idealista.es
   - FR: app.dvf.etalab.gouv.fr  Leboncoin.fr  seloger.com
   - IR: daft.ie
@@ -372,3 +398,8 @@ albo wchodzić w bezsensowne dyskusje.
 
   - p vs np
   - xy
+
+
+## coworking - przestrzeń do pracy na wynajem
+
+  - secure.business.link

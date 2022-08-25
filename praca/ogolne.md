@@ -27,3 +27,5 @@ https://www.youtube.com/watch?app=desktop&v=PHe0bXAIuk0
 ## co gdy wypowiedzenie, a masz wlasnie 3 lata stazu
 
 https://www.wykop.pl/wpis/66981305
+"do okresu zatrudnienia, od którego zależy długość okresu wypowiedzenia umowy o pracę zawartej na czas nieokreślony wlicza się okres wypowiedzenia tej umowy."
+Czyli - jesli 5 miesięcy temu 1.0x zacząłeś pracę, chcesz złożyć wypowiedzenie pod koniec 5 miesiąca to typowo będziesz mieć miesiąc a nie 2 tygodnie wypowiedzenia.

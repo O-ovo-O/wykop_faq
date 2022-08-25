@@ -5,3 +5,4 @@
 |      ikea idasen      |       850        | https://www.ikea.com/pl/pl/p/idasen-biurko-czarny-ciemnoszary-s59281036/                                            |
 | spacetronik spe 223hb |       1750       | https://shop.spacetronik.eu/elektryczny-stelaz-biurkowy-spacetronik-spe-223hb  (sam stelaż, +blat)                  |
 |       wuteh sky       |       2020       | https://wuteh.com.pl/cennik/biurko-sky-1/                                                                           |
+|       Deskwise        |                  | https://www.wykop.pl/wpis/67306815/drogie-mireczki-serdecznie-was-chce-przestrzec-prz                               |
