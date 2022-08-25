@@ -159,3 +159,12 @@
   - RSAVE
   - LukaszM
   - Electronics repair school
+
+
+# sklepy
+
+- piekarz.pl
+- tme.pl
+- mouser
+- farnell
+

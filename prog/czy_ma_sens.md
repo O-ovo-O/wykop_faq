@@ -267,6 +267,8 @@ albo wchodzić w bezsensowne dyskusje.
   - NO: # Norwegia
     - finn.no
     - hybel.no
+  - USA:
+    - DevITjobs.us
 
   - itradar.io # agregator
   - reddit # gdzieś są, ale się trzeba naszukać
@@ -281,13 +283,16 @@ albo wchodzić w bezsensowne dyskusje.
 
   ### algorytmy
 
-  - Cormen "Wprowadzenie do algorytmów"
-  - Knuth "Algorytmy" :)
+  - Cormen "Wprowadzenie do algorytmów" (CLRS)
+  - Cormen "Algorithms Unlocked" (łatwiejsza od wprowadzenia)
+  - Robert Sedgewick, Kevin Wayne - Algorithhms 4th Edition
+  - Jay Wengrow - A Common-Sense Guide to Data Structures and Algorithms
+  - Aditya Y. Bhargava "Grokking Algorithms" (free)
+  - D. Knuth "Algorytmy" :)
   - algoexpert.io
   - teachyourselfcs.com/#algorithms
   - kurs Alexa Stephanova "Efficient programming with components" - https://www.youtube.com/watch?v=aIHAEYyoTUc&list=PLHxtyCq_WDLXryyw91lahwdtpZsmo4BGD
   - Piotr Wróblewski "Algorytmy"
-  - Bhargava "Grokking Algorithms" (free)
   - github.com/cjbt/Free-Algorithm-Books
 
   ### security
@@ -302,6 +307,9 @@ albo wchodzić w bezsensowne dyskusje.
   - David Bombal. IppSec. Chris Greer. NetworkChuck
   - YT Hak5, Null Byte. Zaufana Trzecia Strona, Adam Haertle, Niebezpiecznik
 
+  ### testowanie
+
+  -  ISTQB - certyfikat kosztuje w 2022 800zl
 
 <a id="kalkulatory-podatki-i-inne-pierdo%C5%82y"></a>
 ## kalkulatory, podatki i inne pierdoły
