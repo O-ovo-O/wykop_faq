@@ -23,4 +23,4 @@
 | noblechairs                                          |                    |                     |                             |       |       |                                                             |
 | tamdrup / tjele                                      | ~700               | -                   |                             |       |       |                                                             |
 | valio bt hd                                          | 1400               | + (opcjonalnie bez) |                             |       |       |                                                             |
-
+| Flokk HAG Capisco 8106                               |                    |                     |                             |       |       |                                                             |
