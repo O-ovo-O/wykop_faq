@@ -390,8 +390,9 @@ albo wchodzić w bezsensowne dyskusje.
   - Chorwacja: #splitalam
   - Francja: https://www.wykop.pl/wpis/66638601 #francjadasielubic
   - Haiti: https://www.wykop.pl/link/6698097/ https://www.wykop.pl/link/4480429
-  - Kambodża: https://www.wykop.pl/wpis/52919507/ (2020)
   - Irlandia: https://www.wykop.pl/wpis/66913725/
+  - Kambodża: https://www.wykop.pl/wpis/52919507/ (2020)
+  - Norweria: https://www.wykop.pl/wpis/67598867/ https://www.wykop.pl/wpis/66369911/
   - Szwecja https://www.wykop.pl/wpis/60775001/
   - Rumunia: https://www.wykop.pl/link/5743013
   - Turcja: #turcjawpjoterze
