@@ -29,3 +29,20 @@ https://www.youtube.com/watch?app=desktop&v=PHe0bXAIuk0
 https://www.wykop.pl/wpis/66981305
 "do okresu zatrudnienia, od którego zależy długość okresu wypowiedzenia umowy o pracę zawartej na czas nieokreślony wlicza się okres wypowiedzenia tej umowy."
 Czyli - jesli 5 miesięcy temu 1.0x zacząłeś pracę, chcesz złożyć wypowiedzenie pod koniec 5 miesiąca to typowo będziesz mieć miesiąc a nie 2 tygodnie wypowiedzenia.
+
+
+
+
+
+## KWOTA
+
+    Dostałem informację o kwocie 15000zł na fakturze. Oznacza to kwota + vat?
+
+Najczęściej tak, jeśli jesteś vatowcem. Bycie płatnikiem vat nie jest obowiązkiem, o ile się spełnia okreslone warunki (np mniej niż 200k PLN rocznie)
+Jeśli nie jesteś vatowcem, lub np firma jest z USA - wystawiasz fakture NP - nie podlega ("odwrocony vat")
+
+## zakładanie firmy
+
+- ok 1-3 dni, lub przez internet (wysyłka numerów po paru dniach). Wymaga profilu zaufanego.
+- vat-r + konto firmowe w banku
+- kupno usługi księgowości to ok 100-200PLN netto / miesięcznie

@@ -309,7 +309,8 @@ albo wchodzić w bezsensowne dyskusje.
 
   ### testowanie
 
-  -  ISTQB - certyfikat kosztuje w 2022 800zl
+  - ISTQB - certyfikat kosztuje w 2022 800zl
+  - https://youtube.com/c/jaktestowac
 
 <a id="kalkulatory-podatki-i-inne-pierdo%C5%82y"></a>
 ## kalkulatory, podatki i inne pierdoły
@@ -317,6 +318,7 @@ albo wchodzić w bezsensowne dyskusje.
   - kalkulatorb2b.pl
   - podatki.wtf
   - jakipit.pl
+  - ladnepodatki.pl
 
 <a id="gdzie-mo%C5%BCna-sprawdza%C4%87-srednie-zarobki"></a>
 ## gdzie można sprawdzać srednie zarobki
@@ -325,6 +327,7 @@ albo wchodzić w bezsensowne dyskusje.
   - glassdoor
   - levels.fyi
   - zarobky.pl
+  - 4programmers.net/Forum/Kariera/233131-ile_zarabiacie
 
 <a id="lista-r%C3%B3%C5%BCnych-pracowych-benefit%C3%B3w"></a>
 ## lista różnych pracowych "benefitów"
@@ -380,6 +383,7 @@ albo wchodzić w bezsensowne dyskusje.
   - IT: idealista.it
   - SE: qasa.se blocket.se
   - UK: Spareroom, grupy facebookowe
+  - https://www.wykop.pl/wpis/67848487/ # trochę zebranych ciekawostek jakie wymagania i jak to wygląda
 
 * przeprowadzka
 
@@ -412,3 +416,9 @@ albo wchodzić w bezsensowne dyskusje.
 ## coworking - przestrzeń do pracy na wynajem
 
   - secure.business.link
+
+## serwisy do poczytania
+
+  - Anandtech, Arstechnica
+  - Tom's hardware
+  - Phoronix

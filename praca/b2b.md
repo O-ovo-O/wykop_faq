@@ -60,3 +60,29 @@ NIP, regon, księgowość
 - W jaki sposób się reklamować? Na jakich portalach?
 
 - nazwa - powinienes miec na JDG nazwe ze swoim nazwiskiem, ale gdyby tworzyc spolke zoo to trzeba sprawdzic czy nie ma juz takiej w uprp.gov.pl i euipo.europa.eu (bazy znakow zastrzezonych) - uwaga tez na znak podobienstwa nie tylko identycznosci takiej samej nazwy, logo itd ...mozna zostac pozwanym, wiec mozna czasem wynajac rzecznika patentowego
+
+
+https://www.wykop.pl/wpis/67742123/jest-tu-jakis-programista15k-ktory-pracuje-dla-fir/
+https://www.wykop.pl/wpis/67741607/b2b-ksiegowosc-pytanie-finanse-firma-pytanie-chce-/
+
+
+odprawa emerytalna dla każdego
+dodatkowe ubezpieczenie emerytalne dla każdego chętnego
+dopłata do okularów
+obowiązkowe badania pracownicze co 3 lata
+domyślnie 20 dni urlopu przy 5 dniowym tygodniu pracy
+bezpłatna, dodatkowa półgodzinna przerwa w pracy
+pół godziny przerwy wliczone w 8 godzinny czas pracy
+dzień wolny za święto wypadające w sobotę
+
+
+
+
+Jakie pytania (plus te śmieszne) powinieneś zadać na rozmowie rekrutacyjnej firmie
+
+- niech opiszą jakiś ostatni problem i jak sobie z nim poradzili
+- 5 mocnych i słabych stron
+- 5 najczęstszych przyczyn czemu ludzie od nich się zwalniają
+- gdzie widzą swoją firmę za 5 lat
+  https://news.ycombinator.com/item?id=17908547
+  : czy są oncalle, czy są testerzy, jaka jest droga kodu od skończenia zadania do produkcji aczego szukają nowego pracownika? czemu poprzedni odszedł?

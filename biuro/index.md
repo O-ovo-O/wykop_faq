@@ -5,6 +5,10 @@
 
 ## krzeslo
 z siatka/elastomerem
+ - https://www.wykop.pl/wpis/67917853/jakie-krzeslo-polecacie-biurowe-nie-gamingowe-prac
+ - https://www.wykop.pl/wpis/67841955/jakie-krzeszlo-polecicie-do-pracy-zdalnej-tak-do-2/
+ - https://www.wykop.pl/wpis/67818823/jakie-krzeslo-i-inne-must-have-polecacie-do-homeof/
+ - https://www.wykop.pl/wpis/67748669/przymierzam-sie-do-kupna-fotelu-accispro-151sfl-ma/
  - https://www.wykop.pl/wpis/67592995/okej-temat-walkowany-milion-razy-to-milion-1-nie-z/
  - https://www.wykop.pl/wpis/67213431/szukam-fotela-do-ok-1k-1-2k-do-siedzenia-przy-komp/
  - https://www.wykop.pl/wpis/67065511/pracbaza-pracait-homeoffice-pracazdalna-krzeslobiu/
