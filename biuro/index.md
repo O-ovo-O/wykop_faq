@@ -32,6 +32,7 @@ z siatka/elastomerem
 
 
 ## biurko
+ - https://www.wykop.pl/wpis/67983963/jaki-stelaz-do-biurka-elektrycznego-polecacie-max-/
  - https://www.wykop.pl/wpis/67167091
  - https://www.wykop.pl/wpis/66555511/szukam-biurka-z-elektryczna-regulacja-wysokosci-ma/
  - https://www.wykop.pl/wpis/66582041/czesc-szukam-biurka-do-pracy-zdalnej-biurko-z-regu/

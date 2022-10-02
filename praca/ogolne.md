@@ -1,5 +1,7 @@
 Jako że X razy ludziom brakuje podstawowej wiedzy, małe faq odnośnie częstych pytań.
 
+https://www.biznes.gov.pl/pl/portal/061 # JDG
+
 ## Podatki
 Pracując na etacie jak i prowadząc działalność gospodarczą - należy płacić podatek dochodowy, z angielskiego zwany PIT
 Dla osób prawnych (czyli np firm) - CIT. W PL mamy obecnie (2022) kilka rodzajów rozliczeń:

@@ -45,14 +45,14 @@ https://www.youtube.com/watch?v=X26YTrdnEOQ
 
 (disclaimer, nie znam autora, autorów)
 
-https://www.wykop.pl/wpis/63004349/ # Python
+https://www.wykop.pl/wpis/63004349/  # Python
 
-https://www.wykop.pl/wpis/9719000/  # C++
-https://www.wykop.pl/wpis/45743585 # C++
-
-https://fullstackopen.com/en # web
+https://www.wykop.pl/wpis/9719000/   # C++
+https://www.wykop.pl/wpis/45743585   # C++
 
 github.com/mtdvio/every-programmer-should-know
+Poniżej znajdziesz też "czego się uczyć, polećcie kurs..."
+
 
 <a id="czy-warto-zaczyna%C4%87-gdy-mam-xyz-lat"></a>
 ## czy warto zaczynać, gdy mam XYZ lat?
@@ -200,6 +200,7 @@ albo wchodzić w bezsensowne dyskusje.
   - linkedin.com
   - monster.com
   - nomady.work
+  - nomadlist.com
   - reed.co.uk
   - remoteok.com
   - snagajob.com
@@ -312,6 +313,15 @@ albo wchodzić w bezsensowne dyskusje.
   - ISTQB - certyfikat kosztuje w 2022 800zl
   - https://youtube.com/c/jaktestowac
 
+  ### bazy danych
+
+  - Kimball - Data Warehouse Toolkit
+  - Kleppmann - Designing Data-Intensive Applications
+
+  ### react
+
+  - scrimba.com  epicreact.dev  frontendmasters.com
+
 <a id="kalkulatory-podatki-i-inne-pierdo%C5%82y"></a>
 ## kalkulatory, podatki i inne pierdoły
 
@@ -416,6 +426,8 @@ albo wchodzić w bezsensowne dyskusje.
 ## coworking - przestrzeń do pracy na wynajem
 
   - secure.business.link
+  - skyhub.lodzkie.pl
+  - cowork.czest.pl
 
 ## serwisy do poczytania
 
