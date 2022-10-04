@@ -428,6 +428,7 @@ albo wchodzić w bezsensowne dyskusje.
   - secure.business.link
   - skyhub.lodzkie.pl
   - cowork.czest.pl
+  - cospot.pl
 
 ## serwisy do poczytania
 

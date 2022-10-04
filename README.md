@@ -25,6 +25,9 @@
   - karab.in
   - 4chan.org
   - strimi
+  - hejto
+
+  Osobiście odradzam, póki co wszystkie "średnie" w najlepszym wypadku
 
 Porządne agregatory:
   - hackernews

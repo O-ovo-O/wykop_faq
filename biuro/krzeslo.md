@@ -4,7 +4,7 @@
 | Dragonflychair                                       |                    |                     |                              |       |       | https://www.dragonflychair.com/                                       |
 | Elzap Kivi EFG 200B                                  | 1400               |                     |                              |       |       |                                                                       |
 | Elzap Corium                                         | 1000               | +                   | przeceniony z 1700           |       |       | https://umstahl.pl/fotel-gabinetowy-elzap-corium-efg-300b,id1143.html |
-| Ergohuman                                            |                    |                     |                              |       |       |                                                                       |
+| Ergohuman A88                                        | 2500               |                     |                              |       |       |                                                                       |
 | Ergohuman Plus Elite BT KMD31                        | 2600               |                     |                              |       |       |                                                                       |
 | Herman Miller Aeron                                  | 2800-3500          | - (?)               |                              | 12*12 |       |                                                                       |
 | Herman Miller Embody                                 | 6000               |                     |                              | 12*12 |       |                                                                       |

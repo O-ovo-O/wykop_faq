@@ -5,6 +5,7 @@
 
 ## krzeslo
 z siatka/elastomerem
+ - https://www.wykop.pl/wpis/68092281/fotel-biurowy-do-2000zl-nie-zaden-gamingowy-tylko-/
  - https://www.wykop.pl/wpis/67917853/jakie-krzeslo-polecacie-biurowe-nie-gamingowe-prac
  - https://www.wykop.pl/wpis/67841955/jakie-krzeszlo-polecicie-do-pracy-zdalnej-tak-do-2/
  - https://www.wykop.pl/wpis/67818823/jakie-krzeslo-i-inne-must-have-polecacie-do-homeof/
@@ -32,6 +33,7 @@ z siatka/elastomerem
 
 
 ## biurko
+ - https://www.wykop.pl/wpis/68051377/szukam-biurka-elektrycznego-o-wymiarach-160x80-i-z/
  - https://www.wykop.pl/wpis/67983963/jaki-stelaz-do-biurka-elektrycznego-polecacie-max-/
  - https://www.wykop.pl/wpis/67167091
  - https://www.wykop.pl/wpis/66555511/szukam-biurka-z-elektryczna-regulacja-wysokosci-ma/
