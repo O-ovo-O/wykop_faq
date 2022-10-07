@@ -26,5 +26,6 @@
 | valio bt hd                                          | 1400               | + (opcjonalnie bez) |                              |       |       |                                                                       |
 | Flokk HAG Capisco 8106                               |                    |                     |                              |       |       |                                                                       |
 | Grospol Valio WS HD                                  |                    |                     |                              |       |       |                                                                       |
+| Secret lab                                           | 2400               |                     |                              |       |       |                                                                       |
 
 

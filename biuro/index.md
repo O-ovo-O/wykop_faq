@@ -5,6 +5,7 @@
 
 ## krzeslo
 z siatka/elastomerem
+ - https://www.wykop.pl/wpis/68140725/jaki-fotel-polecacie-do-pracy-zdalnej-pracuje-dopi/
  - https://www.wykop.pl/wpis/68092281/fotel-biurowy-do-2000zl-nie-zaden-gamingowy-tylko-/
  - https://www.wykop.pl/wpis/67917853/jakie-krzeslo-polecacie-biurowe-nie-gamingowe-prac
  - https://www.wykop.pl/wpis/67841955/jakie-krzeszlo-polecicie-do-pracy-zdalnej-tak-do-2/

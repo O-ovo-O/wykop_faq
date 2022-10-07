@@ -429,6 +429,7 @@ albo wchodzić w bezsensowne dyskusje.
   - skyhub.lodzkie.pl
   - cowork.czest.pl
   - cospot.pl
+  - alejabielany.pl/pl-pl/stores/cowork # Wrocław
 
 ## serwisy do poczytania
 
