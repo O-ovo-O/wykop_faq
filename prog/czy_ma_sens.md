@@ -49,6 +49,9 @@ https://www.wykop.pl/wpis/63004349/  # Python
 
 https://www.wykop.pl/wpis/9719000/   # C++
 https://www.wykop.pl/wpis/45743585   # C++
+edx.org/learn/computer-programming
+
+https://www.reddit.com/r/cscareerquestions/comments/xlptfl/i_asked_500_people_on_this_rlearnprogramming_if/ # statystycznie - próba przebranżowienia się do IT z deterministycznego punktu widzenia to strata czasu
 
 github.com/mtdvio/every-programmer-should-know
 Poniżej znajdziesz też "czego się uczyć, polećcie kurs..."
@@ -207,6 +210,7 @@ albo wchodzić w bezsensowne dyskusje.
   - solid.jobs
   - stackoverflow/jobs # closed
   - skillshot
+  - skyworker.ai
   - teemwork.ai
   - test.io
   - toptal.com
@@ -215,6 +219,7 @@ albo wchodzić w bezsensowne dyskusje.
   - useme.com
   - utest.com
   - weworkremotely.com
+  - web3.career
   - workaway.info
   - ycombinator news # na początku miesiąca
   - ziprecruiter.com
@@ -321,14 +326,16 @@ albo wchodzić w bezsensowne dyskusje.
   ### react
 
   - scrimba.com  epicreact.dev  frontendmasters.com
+  - beta.reactjs.org
 
 <a id="kalkulatory-podatki-i-inne-pierdo%C5%82y"></a>
 ## kalkulatory, podatki i inne pierdoły
 
-  - kalkulatorb2b.pl
   - podatki.wtf
-  - jakipit.pl
   - ladnepodatki.pl
+  - kalkb2b.pl
+  - kalkulatorb2b.pl
+  - jakipit.pl
 
 <a id="gdzie-mo%C5%BCna-sprawdza%C4%87-srednie-zarobki"></a>
 ## gdzie można sprawdzać srednie zarobki
