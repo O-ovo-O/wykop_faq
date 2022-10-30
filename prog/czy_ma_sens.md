@@ -398,6 +398,7 @@ albo wchodzić w bezsensowne dyskusje.
   - FR: app.dvf.etalab.gouv.fr  Leboncoin.fr  seloger.com
   - IR: daft.ie
   - IT: idealista.it
+  - NL: kamernet.nl
   - SE: qasa.se blocket.se
   - UK: Spareroom, grupy facebookowe
   - https://www.wykop.pl/wpis/67848487/ # trochę zebranych ciekawostek jakie wymagania i jak to wygląda
@@ -408,7 +409,7 @@ albo wchodzić w bezsensowne dyskusje.
   - Australia: https://www.wykop.pl/link/6263389/ https://www.wykop.pl/link/6069039/
   - Bali: #baliwpjoterze
   - Chiny: #matiwojwchinach i LuckySrike https://www.youtube.com/watch?v=-3prcjaFcUs&list=PLOAXDMnFNrmnJmuXLGT_yXvy8ioPTKDcQ
-  - Chorwacja: #splitalam
+  - Chorwacja: #splitalam oraz https://www.wykop.pl/wpis/68454899
   - Francja: https://www.wykop.pl/wpis/66638601 #francjadasielubic
   - Haiti: https://www.wykop.pl/link/6698097/ https://www.wykop.pl/link/4480429
   - Irlandia: https://www.wykop.pl/wpis/66913725/

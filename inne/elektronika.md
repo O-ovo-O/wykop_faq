@@ -1,164 +1,167 @@
 - czy ktoś poleci fajne kanały o elektronice na YT
+Zgromadzone miedzy innymi z:
+  https://www.wykop.pl/wpis/66639905
+  https://www.wykop.pl/wpis/68502135
 
-  - EEVBlog
-  - The Signal Path
-  - W2EAW
-  - Phil's lab
-  - Marco Reps
-  - Curious Marc
-  - IanScottJohnston
-  - Electroboom
-  - Mr Carlson's Lab
-  - Ben Eater
-  - Applied Science
-  - https://www.wykop.pl/wpis/66639905/#comment-236452463
-  - Subskrypcje
-  - Serwis24
-  - Forest
-  - Learn Electronics Repair
-  - Jagodowy TV
-  - Rubens
-  - zdzisiek Pabianice
-  - AllTheGearNoIdea
-  - Alek Analogowy
-  - Defpom's Electronics Repair
-  - TheHWcave
-  - IMSAI Guy
-  - Sui778
-  - Louis Rossmann
-  - Daniel Rakowiecki
-  - Profesor Chris
-  - Kerry Wong
-  - ZegarMistrz
-  - Kiss Analog
-  - EEVblog
-  - NorthridgeFix
-  - VoltLog
-  - Tony Albus
-  - Orbiter Electronics
-  - Saper ElektroZłomiarz
-  - Rafał Jackiewicz
-  - Jerry Walker
-  - Pod Mikroskopem
-  - TestHubPL
-  - learnelectronics
-  - w2aew
-  - Wielki Elektronik
-  - tomtektest
-  - Rafal Bielawski
-  - TechCornerTV Electronics, Projects &amp; Tutorials
-  - Rzeźbiarz
-  - Paweł Ostrówka
-  - saxonwaw
-  - Thrifty Tool Shed
-  - iTryToFixThis
   - 12voltvids
-  - TRX Lab
-  - RS Elektronika
-  - DiodeGoneWild
-  - Hathor
-  - mitxela
-  - SDG Electronics
-  - systemix
-  - Maker Mac70
-  - RandomHacks
-  - Adam Śmiałek
-  - Krzysztof Popiel
-  - DIY-KITs
-  - GVDA
-  - sjm4306
-  - KainkaLabs
-  - Simple Electronics
-  - Krzysztof Klimas
-  - Naser Electronica - Chile
-  - Andreas Spiess
-  - pileofstuff
-  - Piracz pl
-  - The Real Phoenix
-  - Marco Reps
-  - The Signal Path
-  - Adam Maszynotwór
-  - ElectronicsAutomotiv
-  - Long Technical
-  - upir
-  - TronicsFix
-  - ToMontownia
-  - FixIT
-  - Bob. Kalpon
-  - AlphaPhoenix
-  - Remonter
-  - Electronoobs
-  - joe smith
-  - iZZi instalacje
-  - JohnAudioTech
-  - tmf mikro
-  - Adrian's Digital Basement
-  - JUNTEK
-  - De-Kompozytor
-  - Tim's Electronics Lab
-  - Mr Carlson's Lab
-  - The Tech Genie
-  - Gadget Review Videos
-  - Ciekawe Urządzenia
-  - Laptex
-  - notebook-31
-  - mjlorton
-  - Adam Repair
-  - bitluni
+  - 2_volt - https://www.youtube.com/channel/UCI6qJ6UHEBs4jvqXymrbZjQ - PL
   - AKA KASYAN
-  - Piotr Górecki
-  - mirek sakowicz
-  - RetroGralnia
-  - IanScottJohnston
-  - Haseeb Electronics
-  - Major Tom Workshop
-  - ReduktorSzumu
-  - Kasyan TV
+  - Adam Maszynotwór
+  - Adam Repair
+  - Adam Śmiałek - https://www.youtube.com/c/Adam%C5%9Amia%C5%82ek - PL
+  - Adrian's Digital Basement
+  - Alek Analogowy
+  - AllTheGearNoIdea
+  - Almar Serwis Komputerów
+  - AlphaPhoenix
+  - Andreas Spiess
+  - Applied Science
+  - Atomic14
+  - Ben Eater
+  - Ben Eater
+  - Bitluni
+  - Bob. Kalpon
+  - Branch Education
+  - Ciekawe Urządzenia
+  - Curious Marc
+  - DIY-KITs
+  - Daniel Rakowiecki
+  - De-Kompozytor - https://www.youtube.com/c/DeKompozytor
+  - Defpom's Electronics Repair
+  - Devttys0
+  - DiodeGoneWild
+  - Dr-Bios com
+  - ECU REPAIR
+  - EEVBlog
+  - Electroboom -  - EN
+  - Electronics repair school
+  - ElectronicsAutomotiv
+  - Electronoobs
+  - Elektron - https://www.youtube.com/c/ELEKTRON1
+  - FeedbackLoop
+  - FixIT
   - Foolish Engineer
-  - The Equalizor
-  - My Mate VINCE
+  - Forest
+  - GVDA
+  - Gadget Review Videos
+  - GerRepair
+  - GynvaelColdwind - https://www.youtube.com/user/GynvaelColdwind
+  - Haseeb Electronics
+  - Hathor
+  - IMSAI Guy
+  - ITryToFixThis
+  - IZZi instalacje
+  - IanScottJohnston
+  - Inżynieria wsteczna
+  - JUNTEK
+  - Jagodowy TV
+  - Jeffescortlx
+  - Jeri Ellsworth
+  - Jerry Walker
+  - Joe smith
+  - JohnAudioTech
+  - KainkaLabs
+  - Kamil Reperuje
+  - Kasyan TV
+  - Kerry Wong
+  - Kiss Analog
+  - Krakowski Kurs Krótkofalarski
+  - Krzysztof Klimas
+  - Krzysztof Krzych
+  - Krzysztof Popiel
+  - Laptex
+  - Learn Electronics Repair
+  - Learnelectronics
+  - Leo's Bag of Tricks
+  - Long Technical
+  - Louis Rossmann
+  - LukaszM
+  - Major Tom Workshop
+  - Majsterkowanie i nie tylko
   - Maker Fabio
+  - Maker Mac70
+  - Marc Siegel
+  - Marcin Marciniak
+  - Marcin Stolarski-Inzynieriada - https://www.youtube.com/c/mstolarski - PL
   - Marcin z lasu Kostrzyński
-  - Srebrna Rączka
-  - smbakeryt
+  - Marco Reps
+  - Michał J
+  - Mirek sakowicz
+  - Mitxela
+  - Mjlorton
+  - Mr Carlson's Lab
+  - My Mate VINCE
+  - Naser Electronica-Chile
+  - Nerd's lesson
+  - NorthridgeFix
+  - Notebook-31
+  - Orbiter Electronics
+  - Paweł Ostrówka
+  - Phil's lab
+  - Pileofstuff
+  - Piotr Burnos
+  - Piotr Górecki
+  - Piracz pl
+  - Pod Mikroskopem
+  - Profesor Chris
+  - RS-Ekektronika - https://www.youtube.com/c/RSElektronika
+  - RSAVE
+  - Rafal Bielawski
+  - Rafał Jackiewicz
+  - RandomHacks
+  - Redliquid
+  - ReduktorSzumu
+  - Remonter
+  - RetroGralnia
+  - Robomaniak - https://www.youtube.com/c/robomaniak
+  - Rubens
+  - Rzeźbiarz
+  - SDG Electronics
+  - SERWIS ELEKTRONIKI
+  - SGdata
   - Sam Ben-Yaakov
   - Sam Zeloof
-  - jeffescortlx
-  - Nerd's lesson
-  - TheCod3r
-  - Inżynieria wsteczna
-  - redliquid
-  - Krakowski Kurs Krótkofalarski
-  - ECU REPAIR
-  - slawek-online
-  - Almar Serwis Komputerów
-  - Kamil Reperuje
-  - Marc Siegel
-  - FeedbackLoop
-  - devttys0
-  - The Active Region
-  - SGdata
-  - Krzysztof Krzych
-  - 2_volt
-  - atomic14
-  - Dr-Bios com
-  - Tech Ingredients
-  - Majsterkowanie i nie tylko
-  - Piotr Burnos
-  - Leo's Bag of Tricks
-  - GerRepair
-  - Tech Cemetery
-  - Branch Education
-  - TechBuilder
-  - SERWIS ELEKTRONIKI
-  - Jeri Ellsworth
+  - SaperElektroZłomiarz - https://www.youtube.com/c/SaperElektroZ%C5%82omiarz
+  - Saxonwaw
+  - Serwis24
   - Silniki Stirlinga i modelarstwo
-  - Marcin Marciniak
-  - Michał J
-  - Ben Eater
-  - RSAVE
-  - LukaszM
-  - Electronics repair school
+  - Simple Electronics
+  - Sjm4306
+  - Slawek-online
+  - Smbakeryt
+  - Srebrna Rączka
+  - Subskrypcje
+  - Sui778
+  - Systemix
+  - TRX Lab
+  - Tech Cemetery
+  - Tech Ingredients
+  - TechBuilder
+  - TechCornerTV Electronics, Projects &amp; Tutorials
+  - TestHubPL
+  - The Active Region
+  - The Equalizor - https://www.youtube.com/channel/UCI6qJ6UHEBs4jvqXymrbZjQ - EN
+  - The Real Phoenix
+  - The Signal Path
+  - The Tech Genie
+  - TheCod3r
+  - TheHWcave
+  - Thrifty Tool Shed
+  - Tim's Electronics Lab
+  - Tmf mikro
+  - ToMontownia
+  - Tomtektest
+  - Tony Albus
+  - TronicsFix
+  - Upir
+  - Uw-Team - https://www.youtube.com/c/uwteamorg
+  - VoltLog
+  - W2EAW
+  - W2aew
+  - Wielki Elektronik
+  - Zdzisiek Pabianice
+  - ZegarMistrz
+  - Świat Linuxa - https://www.youtube.com/c/%C5%9AwiatLinuksa - PL
 
 
 # sklepy
@@ -167,4 +170,10 @@
 - tme.pl
 - mouser
 - farnell
+- botland.pl
+
+# producenci PCB
+
+- JLCPCB
+- PCBWAY
 
