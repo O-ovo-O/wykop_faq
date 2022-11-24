@@ -98,6 +98,7 @@ Zgromadzone miedzy innymi z:
   - Orbiter Electronics
   - Paweł Ostrówka
   - Phil's lab
+  - PL.Eletronik - https://www.youtube.com/channel/UC91N76smZNPl1SyWPlqSqYw - PL
   - Pileofstuff
   - Piotr Burnos
   - Piotr Górecki

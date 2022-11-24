@@ -5,6 +5,7 @@
 
 ## krzeslo
 z siatka/elastomerem
+ - https://www.wykop.pl/wpis/68538009/bonjour-szukam-od-dluzszego-czasu-fotela-do-pracy-/
  - https://www.wykop.pl/wpis/68268583/szukam-fotela-do-siedzenia-przy-komputerze-po-ktor/
  - https://www.wykop.pl/wpis/68210759/mirki-szukam-fotela-d-temat-jakich-wiele-fotelbiur/
  - https://www.wykop.pl/wpis/68140725/jaki-fotel-polecacie-do-pracy-zdalnej-pracuje-dopi/

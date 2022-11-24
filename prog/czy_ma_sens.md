@@ -49,7 +49,6 @@ https://www.wykop.pl/wpis/63004349/  # Python
 
 https://www.wykop.pl/wpis/9719000/   # C++
 https://www.wykop.pl/wpis/45743585   # C++
-edx.org/learn/computer-programming
 
 https://www.reddit.com/r/cscareerquestions/comments/xlptfl/i_asked_500_people_on_this_rlearnprogramming_if/ # statystycznie - próba przebranżowienia się do IT z deterministycznego punktu widzenia to strata czasu
 
@@ -286,6 +285,7 @@ albo wchodzić w bezsensowne dyskusje.
   ### wiedza ogólna
 
     - CS50x
+    - edx.org/learn/computer-programming
 
   ### algorytmy
 
@@ -304,6 +304,8 @@ albo wchodzić w bezsensowne dyskusje.
   ### security
 
   - pauljerimy.com/security-certification-roadmap
+  - tryhackme.com/hacktivities#learning-paths
+  - book.hacktricks.xyz/welcome/readme
   - cyberseek.org/pathway.html
   - hack.ainfosec.com
   - hackthebox.com
@@ -323,10 +325,11 @@ albo wchodzić w bezsensowne dyskusje.
   - Kimball - Data Warehouse Toolkit
   - Kleppmann - Designing Data-Intensive Applications
 
-  ### react
+  ### różne języki, c, cpp, js, react
 
   - scrimba.com  epicreact.dev  frontendmasters.com
   - beta.reactjs.org
+  - theodinproject.com/
 
 <a id="kalkulatory-podatki-i-inne-pierdo%C5%82y"></a>
 ## kalkulatory, podatki i inne pierdoły
