@@ -76,6 +76,8 @@ pół godziny przerwy wliczone w 8 godzinny czas pracy
 dzień wolny za święto wypadające w sobotę
 
 
+Jeśli chodzi o dotację z PUP, to na dzień składania wniosku musisz być bezrobotny, a maksymalna kwota dofinansowania jest określona z góry.
+https://www.najlepszekonto.pl/dofinansowanie-z-urzedu-pracy-na-rozpoczecie-dzialalnosci
 
 
 Jakie pytania (plus te śmieszne) powinieneś zadać na rozmowie rekrutacyjnej firmie

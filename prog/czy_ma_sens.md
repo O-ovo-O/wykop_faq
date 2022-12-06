@@ -258,6 +258,8 @@ albo wchodzić w bezsensowne dyskusje.
     - poloniusz.pl
     - stepstone.de
     - xing.de
+  - DK: # Dania
+    - jobindex.dk
   - FR: # Francja
     - thelocal.fr/jobs
     - agencje: Manpower, Ranstad, Ras, Adecco, Synergie, Samsic
@@ -330,6 +332,11 @@ albo wchodzić w bezsensowne dyskusje.
   - scrimba.com  epicreact.dev  frontendmasters.com
   - beta.reactjs.org
   - theodinproject.com/
+
+  ### rozne platformy do nauki, różnej jakości
+
+  - pluralsight
+  - linkedin learning
 
 <a id="kalkulatory-podatki-i-inne-pierdo%C5%82y"></a>
 ## kalkulatory, podatki i inne pierdoły
@@ -404,6 +411,8 @@ albo wchodzić w bezsensowne dyskusje.
   - NL: kamernet.nl
   - SE: qasa.se blocket.se
   - UK: Spareroom, grupy facebookowe
+
+  - globimmo.net
   - https://www.wykop.pl/wpis/67848487/ # trochę zebranych ciekawostek jakie wymagania i jak to wygląda
 
 * przeprowadzka
