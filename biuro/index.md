@@ -4,7 +4,7 @@
 
 
 ## krzeslo
-z siatka/elastomerem
+ - https://www.wykop.pl/wpis/69596079/mircy-z-programowanie-i-programista15k-polecane-bi/
  - https://www.wykop.pl/wpis/68538009/bonjour-szukam-od-dluzszego-czasu-fotela-do-pracy-/
  - https://www.wykop.pl/wpis/68268583/szukam-fotela-do-siedzenia-przy-komputerze-po-ktor/
  - https://www.wykop.pl/wpis/68210759/mirki-szukam-fotela-d-temat-jakich-wiele-fotelbiur/
@@ -35,6 +35,8 @@ z siatka/elastomerem
 
  - https://www.wykop.pl/wpis/64777419/nie-wiesz-jaki-ergonomiczny-biurowy-fotel-wybrac-z/
 
+charakterystyka:
+z siatka/elastomerem, lub materiałowe
 
 ## biurko
  - https://www.wykop.pl/wpis/68051377/szukam-biurka-elektrycznego-o-wymiarach-160x80-i-z/
