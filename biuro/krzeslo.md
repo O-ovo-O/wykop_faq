@@ -29,3 +29,14 @@
 | Secret lab                                           | 2400               |                     |                              |       |       |                                                                       |
 
 
+
+- Kinnarps (Kinnarps, Drabert);
+- Steelcase;
+- Nowy Styl (Nowy Styl, Majencia, BN Office Solution, Grammer Office, Rohde Grahl, Sitag, Kusch+Co);
+- Flokk (HÅG, Giroflex, RH, RBM, BMA, Profim);
+- Bejot;
+- Dauphin (Dauphin, Trend Office, Züco);
+- KÖHL;
+- Herman Miller;
+- Vitra;
+- Okamura.

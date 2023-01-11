@@ -1,6 +1,8 @@
 kwota netto => kwota na fakturze wystawianej przez firme 1 (ciebie),
 do której należy doliczyć vat, taką kwotę płaci druga firma, o ile firma1 jest platnikiem vat.
 
+co znaczy  15 000 netto + VAT?  Znaczy że twój kontrahent oferuje 15k "netto" plus vat. Vat musisz zapłacić sam, potrącając koszty prowadzenia działalności - np zakup komputera itd. Natomiast od 15000 płacisz ZUS i PIT.  Co jeśli nie spełniasz warunków by być watowcem (np nie przekraczasz 200k w roku?) wtedy nie płacisz watu - jesli wybierzesz taki typ dzialalnosci (mozesz wybrac ze chcesz byc watowcem nawet nie przekraczajac 200k ale to sie przewaznie oplaca mniej).
+
 przykladowo firma1: kwota netto 15k i firma1 jest płatnikiem vat
 firma2 przelewa wystawiającej firmie1 15000 + 23%*15k = 15k + 3450 = 18450 PLN
 jeśli firma2 np jest w USA to stawka 23% zamienia się w "nie podlega"
@@ -88,3 +90,8 @@ Jakie pytania (plus te śmieszne) powinieneś zadać na rozmowie rekrutacyjnej f
 - gdzie widzą swoją firmę za 5 lat
   https://news.ycombinator.com/item?id=17908547
   : czy są oncalle, czy są testerzy, jaka jest droga kodu od skończenia zadania do produkcji aczego szukają nowego pracownika? czemu poprzedni odszedł?
+
+
+
+https://biznes.gov.pl
+https://www.parp.gov.pl/component/site/site/kursy-online

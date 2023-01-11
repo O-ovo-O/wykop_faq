@@ -46,6 +46,7 @@ https://www.youtube.com/watch?v=X26YTrdnEOQ
 (disclaimer, nie znam autora, autorów)
 
 https://www.wykop.pl/wpis/63004349/  # Python
+https://www.wykop.pl/wpis/30616039 # Python
 
 https://www.wykop.pl/wpis/9719000/   # C++
 https://www.wykop.pl/wpis/45743585   # C++
@@ -53,6 +54,9 @@ https://www.wykop.pl/wpis/45743585   # C++
 https://www.reddit.com/r/cscareerquestions/comments/xlptfl/i_asked_500_people_on_this_rlearnprogramming_if/ # statystycznie - próba przebranżowienia się do IT z deterministycznego punktu widzenia to strata czasu
 
 github.com/mtdvio/every-programmer-should-know
+
+Jeśli bardzo pragniesz skłaniać dziecko do "nauki": https://github.com/readyready15728/awesome-programming-games
+
 Poniżej znajdziesz też "czego się uczyć, polećcie kurs..."
 
 
@@ -302,6 +306,8 @@ albo wchodzić w bezsensowne dyskusje.
   - kurs Alexa Stephanova "Efficient programming with components" - https://www.youtube.com/watch?v=aIHAEYyoTUc&list=PLHxtyCq_WDLXryyw91lahwdtpZsmo4BGD
   - Piotr Wróblewski "Algorytmy"
   - github.com/cjbt/Free-Algorithm-Books
+  - Jeff Erickson - Algorithms
+  - Daniel Zingaro - Algorithmic Thinking
 
   ### security
 
@@ -312,6 +318,7 @@ albo wchodzić w bezsensowne dyskusje.
   - hack.ainfosec.com
   - hackthebox.com
   - tryhackme.com
+  - ctflearn.com
   - jakieś tam losowe kanały YT: Kacper Szukrek, GynvaelColdwind, SekurakTV, HackerSploit, John Hammond, LiveOverFlow, Computerphile
   - osintme.com
   - David Bombal. IppSec. Chris Greer. NetworkChuck
@@ -404,6 +411,7 @@ albo wchodzić w bezsensowne dyskusje.
 
   - AT: willhaben.at
   - DE: ebay kleinanzeigen, wg-gesucht, immobilienscout24  i inne ciekawostki umweltzone.pl/strefy
+  - CZ: sreality.cz bezrealitky.cz
   - ES: idealista.es
   - FR: app.dvf.etalab.gouv.fr  Leboncoin.fr  seloger.com
   - IR: daft.ie

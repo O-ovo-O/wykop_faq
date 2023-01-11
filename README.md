@@ -20,12 +20,13 @@
 
 
 - Dawne i obecne "podobne" serwisy
-  - 9gag
-  - reddit
+  - 9gag.com
+  - reddit.com
   - karab.in
   - 4chan.org
   - strimi
-  - hejto
+  - hejto.pl
+  - lurker.land
 
   Osobiście odradzam, póki co wszystkie "średnie" w najlepszym wypadku
 
