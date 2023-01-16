@@ -95,3 +95,6 @@ Jakie pytania (plus te śmieszne) powinieneś zadać na rozmowie rekrutacyjnej f
 
 https://biznes.gov.pl
 https://www.parp.gov.pl/component/site/site/kursy-online
+
+
+http://www.vademecumpodatnika.pl/artykul_narzedziowa,1259,203,21135,ulga-dla-mlodych-przy-dzialalnosci-gospodarczej.html

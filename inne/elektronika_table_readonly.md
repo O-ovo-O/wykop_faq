@@ -1,6 +1,6 @@
 | name | link | lang |
 |:---:|:---:|:---:|
-| 12voltvids |  | ? |
+| 12voltvids | https://www.youtube.com/@12voltvids/videos | EN |
 | 2_volt | https://www.youtube.com/channel/UCI6qJ6UHEBs4jvqXymrbZjQ | PL |
 | AKA KASYAN |  | ? |
 | Adam Maszynotwór |  | ? |
@@ -9,12 +9,12 @@
 | Adrian's Digital Basement |  | ? |
 | Alek Analogowy |  | ? |
 | AllTheGearNoIdea |  | ? |
+| AllThingsOnePlace | https://www.youtube.com/@AllThingsOnePlace/videos | EN |
 | Almar Serwis Komputerów |  | ? |
 | AlphaPhoenix |  | ? |
 | Andreas Spiess |  | ? |
 | Applied Science |  | ? |
 | Atomic14 |  | ? |
-| Ben Eater |  | ? |
 | Ben Eater |  | ? |
 | Bitluni |  | ? |
 | Bob. Kalpon |  | ? |
@@ -25,12 +25,12 @@
 | Daniel Rakowiecki |  | ? |
 | De-Kompozytor | https://www.youtube.com/c/DeKompozytor | ? |
 | Defpom's Electronics Repair |  | ? |
-| Devttys0 |  | ? |
+| Devttys0 | https://www.youtube.com/@Analogzoo/videos | EN |
 | DiodeGoneWild |  | ? |
 | Dr-Bios com |  | ? |
 | ECU REPAIR |  | ? |
-| EEVBlog |  | ? |
-| Electroboom |  | EN |
+| EEVBlog | https://www.youtube.com/@EEVblog/videos | EN |
+| Electroboom | https://www.youtube.com/@ElectroBOOM/videos | EN |
 | Electronics repair school |  | ? |
 | ElectronicsAutomotiv |  | ? |
 | Electronoobs |  | ? |
@@ -48,7 +48,7 @@
 | IMSAI Guy |  | ? |
 | ITryToFixThis |  | ? |
 | IZZi instalacje |  | ? |
-| IanScottJohnston |  | ? |
+| IanScottJohnston | https://www.youtube.com/@IanScottJohnston/videos | ? |
 | Inżynieria wsteczna |  | ? |
 | JUNTEK |  | ? |
 | Jagodowy TV |  | ? |
@@ -83,18 +83,19 @@
 | Marcin z lasu Kostrzyński |  | ? |
 | Marco Reps |  | ? |
 | Michał J |  | ? |
-| Mirek sakowicz |  | ? |
+| Mirek Sakowicz |  | ? |
 | Mitxela |  | ? |
 | Mjlorton |  | ? |
 | Mr Carlson's Lab |  | ? |
 | My Mate VINCE |  | ? |
-| Naser Electronica | Chile | ? |
+| Naser Electronica-Chile |  | ? |
 | Nerd's lesson |  | ? |
 | NorthridgeFix |  | ? |
 | Notebook-31 |  | ? |
 | Orbiter Electronics |  | ? |
 | Paweł Ostrówka |  | ? |
 | Phil's lab |  | ? |
+| PL.Eletronik | https://www.youtube.com/channel/UC91N76smZNPl1SyWPlqSqYw | PL |
 | Pileofstuff |  | ? |
 | Piotr Burnos |  | ? |
 | Piotr Górecki |  | ? |
@@ -153,7 +154,6 @@
 | Upir |  | ? |
 | Uw-Team | https://www.youtube.com/c/uwteamorg | ? |
 | VoltLog |  | ? |
-| W2EAW |  | ? |
 | W2aew |  | ? |
 | Wielki Elektronik |  | ? |
 | Zdzisiek Pabianice |  | ? |

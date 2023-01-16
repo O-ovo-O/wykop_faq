@@ -3,7 +3,7 @@ Zgromadzone miedzy innymi z:
   https://www.wykop.pl/wpis/66639905
   https://www.wykop.pl/wpis/68502135
 
-  - 12voltvids
+  - 12voltvids - https://www.youtube.com/@12voltvids/videos - EN
   - 2_volt - https://www.youtube.com/channel/UCI6qJ6UHEBs4jvqXymrbZjQ - PL
   - AKA KASYAN
   - Adam Maszynotwór
@@ -12,12 +12,12 @@ Zgromadzone miedzy innymi z:
   - Adrian's Digital Basement
   - Alek Analogowy
   - AllTheGearNoIdea
+  - AllThingsOnePlace - https://www.youtube.com/@AllThingsOnePlace/videos - EN
   - Almar Serwis Komputerów
   - AlphaPhoenix
   - Andreas Spiess
   - Applied Science
   - Atomic14
-  - Ben Eater
   - Ben Eater
   - Bitluni
   - Bob. Kalpon
@@ -28,12 +28,12 @@ Zgromadzone miedzy innymi z:
   - Daniel Rakowiecki
   - De-Kompozytor - https://www.youtube.com/c/DeKompozytor
   - Defpom's Electronics Repair
-  - Devttys0
+  - Devttys0 - https://www.youtube.com/@Analogzoo/videos - EN
   - DiodeGoneWild
   - Dr-Bios com
   - ECU REPAIR
-  - EEVBlog
-  - Electroboom -  - EN
+  - EEVBlog - https://www.youtube.com/@EEVblog/videos - EN
+  - Electroboom - https://www.youtube.com/@ElectroBOOM/videos - EN
   - Electronics repair school
   - ElectronicsAutomotiv
   - Electronoobs
@@ -51,7 +51,7 @@ Zgromadzone miedzy innymi z:
   - IMSAI Guy
   - ITryToFixThis
   - IZZi instalacje
-  - IanScottJohnston
+  - IanScottJohnston - https://www.youtube.com/@IanScottJohnston/videos
   - Inżynieria wsteczna
   - JUNTEK
   - Jagodowy TV
@@ -86,7 +86,7 @@ Zgromadzone miedzy innymi z:
   - Marcin z lasu Kostrzyński
   - Marco Reps
   - Michał J
-  - Mirek sakowicz
+  - Mirek Sakowicz
   - Mitxela
   - Mjlorton
   - Mr Carlson's Lab
@@ -157,7 +157,6 @@ Zgromadzone miedzy innymi z:
   - Upir
   - Uw-Team - https://www.youtube.com/c/uwteamorg
   - VoltLog
-  - W2EAW
   - W2aew
   - Wielki Elektronik
   - Zdzisiek Pabianice
