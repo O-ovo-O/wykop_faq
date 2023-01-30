@@ -66,6 +66,7 @@ NIP, regon, księgowość
 
 https://www.wykop.pl/wpis/67742123/jest-tu-jakis-programista15k-ktory-pracuje-dla-fir/
 https://www.wykop.pl/wpis/67741607/b2b-ksiegowosc-pytanie-finanse-firma-pytanie-chce-/
+https://www.wykop.pl/wpis/70027007/anonimowemirkowyznania-dostalem-oferte-od-zagranic/
 
 
 odprawa emerytalna dla każdego

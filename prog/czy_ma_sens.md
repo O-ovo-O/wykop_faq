@@ -427,21 +427,30 @@ albo wchodzić w bezsensowne dyskusje.
 
   Ciekawe opisy emigracji:
   - Australia: https://www.wykop.pl/link/6263389/ https://www.wykop.pl/link/6069039/
+  - Austria: https://www.wykop.pl/link/5801629/ama-zycie-na-emigracji-w-austrii-salzburg-miasto-mozarta/ (2020)
   - Bali: #baliwpjoterze
+  - Belgia: https://wykop.pl/link/2652785/ama-mieszkam-i-ucze-sie-w-belgii-juz-od-13-lat/
   - Chiny: #matiwojwchinach i LuckySrike https://www.youtube.com/watch?v=-3prcjaFcUs&list=PLOAXDMnFNrmnJmuXLGT_yXvy8ioPTKDcQ
   - Chorwacja: #splitalam oraz https://www.wykop.pl/wpis/68454899
+  - Emiraty Arabskie/Dubaj: patrz ZEA
   - Francja: https://www.wykop.pl/wpis/66638601 #francjadasielubic
+  - Finlandia: https://www.wykop.pl/link/2573371/ama-o-finlandii-i-zyciu-tutaj/ (2015)
+  - Filipiny: https://wykop.pl/link/6812083/ama-zycie-programisty-na-filipinach https://wykop.pl/link/3405601/
   - Grecja: https://www.wykop.pl/wpis/69634581
   - Haiti: https://www.wykop.pl/link/6698097/ https://www.wykop.pl/link/4480429
+  - Holandia: https://wykop.pl/wpis/35305029/ (2018, ama)
+  - Hiszpania: https://www.wykop.pl/link/5834311/
   - Irlandia: https://www.wykop.pl/wpis/66913725/
   - Kambodża: https://www.wykop.pl/wpis/52919507/ (2020)
   - Norweria: https://www.wykop.pl/wpis/67598867/ https://www.wykop.pl/wpis/66369911/
+  - Niemcy: https://wykop.pl/link/3612647/ama-lekarz-w-niemczech-5-lat-pozniej/ https://wykop.pl/link/4991779/ (2019)
   - Szwecja https://www.wykop.pl/wpis/60775001/
   - Rumunia: https://www.wykop.pl/link/5743013
   - Turcja: #turcjawpjoterze
+  - Tajlandia: https://wykop.pl/wpis/70208445/siema-mordeczki-od-ponad-dwoch-tygodni-podrozuje-r
   - Wielka Brytania: https://www.wykop.pl/wpis/66853045/
   - Wietnam: #wietnamwpjoterze
-  - Zjednoczone Emiraty Arabskie: https://www.wykop.pl/link/5842095/
+  - Zjednoczone Emiraty Arabskie: https://www.wykop.pl/link/5842095/ https://wykop.pl/link/6406813/
 
   - https://www.reddit.com/r/digitalnomad/
 

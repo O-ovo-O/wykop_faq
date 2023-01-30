@@ -27,6 +27,8 @@
   - strimi
   - hejto.pl
   - lurker.land
+  - kiedyś istniała Albicla (ale zdaje się upadła)
+  - twitter
 
   Osobiście odradzam, póki co wszystkie "średnie" w najlepszym wypadku
 
