@@ -45,6 +45,8 @@ https://www.youtube.com/watch?v=X26YTrdnEOQ
 
 (disclaimer, nie znam autora, autorów)
 
+github.com/yangshun/front-end-interview-handbook
+
 https://www.wykop.pl/wpis/63004349/  # Python
 https://www.wykop.pl/wpis/30616039 # Python
 
@@ -207,6 +209,7 @@ albo wchodzić w bezsensowne dyskusje.
   - monster.com
   - nomady.work
   - nomadlist.com
+  - peopleperhour.com
   - reed.co.uk
   - remoteok.com
   - snagajob.com
@@ -317,6 +320,7 @@ albo wchodzić w bezsensowne dyskusje.
   - cyberseek.org/pathway.html
   - hack.ainfosec.com
   - hackthebox.com
+  - https://www.eccouncil.org/programs/certified-ethical-hacker-ceh
   - tryhackme.com
   - ctflearn.com
   - jakieś tam losowe kanały YT: Kacper Szukrek, GynvaelColdwind, SekurakTV, HackerSploit, John Hammond, LiveOverFlow, Computerphile

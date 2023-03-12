@@ -8,3 +8,6 @@
 |       Deskwise        |                  | https://www.wykop.pl/wpis/67306815/drogie-mireczki-serdecznie-was-chce-przestrzec-prz                               |
 |       Deerhorn        |                  | https://deerhorn.pl/biurka-z-regulacja-wysokosci/                                                                   |
 |         Elzap         |       1500       | https://elzap.eu/biurka-z-regulacja-wysokosci,c-855                                                                 |
+
+
+https://wykop.pl/wpis/70508221/siema-przymierzam-sie-do-kupna-biurka-elektrycznie

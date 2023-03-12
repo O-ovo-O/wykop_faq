@@ -3,6 +3,7 @@
 | :--------------------:                 | :-----------------------: |
 | canva                                  |                           |
 | cvdopracy.pl                           |                           |
+| craft-cv.com                           |                           |
 | cvmkr.com                              |                           |
 | figma                                  |                           |
 | flowcv.io                              |                           |
