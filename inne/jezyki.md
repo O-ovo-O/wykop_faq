@@ -3,3 +3,9 @@
 - Tandem
 - duolingo
 - busuu
+- Babbel
+- Mondly
+- Memrise
+- LingoDeer
+- Rosetta Stone (paid?)
+- HelloTalk (paid?)
