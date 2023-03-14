@@ -16,6 +16,7 @@ Hostingi/domeny
  - simply.com
  - small.pl
  - webd.pl
+ - webh.pl
 
  - ct8.pl # free
  - freenom.com
