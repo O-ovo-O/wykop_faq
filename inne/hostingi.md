@@ -5,7 +5,6 @@ Hostingi/domeny
  - home.pl
  - hostido.pl
  - hostinghouse.pl
- - hostinguj.pl
  - hostline.pl
  - lh.pl
  - mydevil.net
@@ -25,3 +24,8 @@ domena
 
 - ovh
 
+ostrożnie:
+
+ - hostinguj.pl # przed skorzystaniem z oferty warto przeczytać
+   https://wykop.pl/wpis/70702633/
+   jeśli obsługa klienta jest na podobnym poziomie, to osobiście bym nie korzystał
