@@ -40,3 +40,13 @@
 - Herman Miller;
 - Vitra;
 - Okamura.
+
+
+User @armt:
+https://wykop.pl/wpis/71151775/jak-wyglada-obecnie-sytuacja-na-rynku-swi-w-sensie#251863583
+proponuje na początek przymierzyć Kinnarps Plus, Capella i 9000 - będzie to też dobry punkt odniesienia (np. model Plus 8782 z zagłówkiem N78 i tapicerka Step Melange 5092 kosztuje obecnie 3890zł brutto).
+
+Natomiast jak ma być do 3k to możesz przymierzyć np.:
+- Nowy Styl: Souly, Z-body Trade, Viden, SO-one, Xenium, Xilium;
+- Profim: Motto, Xenon Net, Xenon, Veris Net, Veris, AccisPro, Violle;
+- Bejot: mate, corr, milla, double, eleven.

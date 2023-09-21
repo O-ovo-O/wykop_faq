@@ -61,6 +61,8 @@ Jeśli bardzo pragniesz skłaniać dziecko do "nauki": https://github.com/readyr
 
 Poniżej znajdziesz też "czego się uczyć, polećcie kurs..."
 
+-  refactoring.guru
+
 
 <a id="czy-warto-zaczyna%C4%87-gdy-mam-xyz-lat"></a>
 ## czy warto zaczynać, gdy mam XYZ lat?
@@ -320,7 +322,8 @@ albo wchodzić w bezsensowne dyskusje.
   - cyberseek.org/pathway.html
   - hack.ainfosec.com
   - hackthebox.com
-  - https://www.eccouncil.org/programs/certified-ethical-hacker-ceh
+  - hackaday.com
+  - eccouncil.org/programs/certified-ethical-hacker-ceh
   - tryhackme.com
   - ctflearn.com
   - jakieś tam losowe kanały YT: Kacper Szukrek, GynvaelColdwind, SekurakTV, HackerSploit, John Hammond, LiveOverFlow, Computerphile
