@@ -21,6 +21,7 @@
 | MeisterTask     |           |          |       |      |               |                    |       |
 | Monday.com      |           |          |       |      |               |                    |       |
 | Nifty           |           |          |       |      |               |                    |       |
+| Notion          |           |          |       |      |               |                    |       |
 | nTask           |           |          |       |      |               |                    |       |
 | Paymo           |           |          |       |      |               |                    |       |
 | Pipefy          |           |          |       |      |               |                    |       |
