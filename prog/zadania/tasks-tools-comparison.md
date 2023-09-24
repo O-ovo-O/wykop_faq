@@ -4,7 +4,7 @@
 | [Airtable]       |           |          |       |      |               |                    |           |               |             |             |             |                |           |
 | [Anydo]          |           |          |       |      |               |                    |           |               |             |             |             |                |           |
 | [Asana]          |           |          |       |      |               |                    |           |               |             |             |             |                |           |
-| [Atlassian Jira] |     +     |          |       |      |     java?     |                    |           |               |             |             |             |                |           |
+| [Jira]           |     +     |          |       |      |     java?     |                    |  Atlassian  |               |             |             |             |                |           |
 | [Basecamp]       |           |          |       |      |               |                    |           |               |             |             |             |                |           |
 | [BIGContacts]    |           |          |       |      |               |                    |           |               |             |             |             |                |           |
 | [Casual]         |           |          |       |      |               |                    |           |               |             |             |             |                |           |
@@ -15,11 +15,11 @@
 | [Flow]           |           |          |       |      |               |                    |           |               |             |             |             |                |           |
 | [GithubProjects] |           |          |       |      |               |                    |           |               |             |             |             |                |           |
 | [Hitask]         |           |          |       |      |               |                    |           |               |             |             |             |                |           |
-| [hive.com]       |           |          |       |      |               |                    |           |               |             |             |             |                |           |
+| [hiveCom]       |           |          |       |      |               |                    |           |               |             |             |             |                |           |
 | [HubSpot]        |           |          |       |      |               |                    |           |               |             |             |             |                |           |
 | [Infinity]       |           |          |       |      |               |                    |           |               |             |             |             |                |           |
 | [MeisterTask]    |           |          |       |      |               |                    |           |               |             |             |             |                |           |
-| [Monday.com]     |           |          |       |      |               |                    |           |               |             |             |             |                |           |
+| [MondayCom]     |           |          |       |      |               |                    |           |               |             |             |             |                |           |
 | [Nifty]          |           |          |       |      |               |                    |           |               |             |             |             |                |           |
 | [Notion]         |           |          |       |      |               |                    |           |               |             |             |             |                |           |
 | [Nozbe]          |           |          |   +   |      |               |                    |           |       -       |      ?      |      +      |      +      |       ?        |           |
@@ -61,7 +61,7 @@
 [Flow]:  https://www.todo.org/ 'Flow'
 [GithubProjects]: https://www.todo.org/ 'Github Projects'
 [Hitask]:  https://www.todo.org 'Hitask'
-[hive.com]:  https://www.todo.org 'hive'
+[hiveCom]:  https://www.todo.org 'hive.com'
 [HubSpot]:  https://www.todo.org 'HubSpot'
 [Infinity]:  https://www.todo.org 'Infinity'
 [MeisterTask]:  https://www.todo.org 'MeisterTask'
