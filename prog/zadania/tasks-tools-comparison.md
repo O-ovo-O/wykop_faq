@@ -1,17 +1,17 @@
 | name              | paid only | freemium | trial | free | code language | actively developed |   owner   | runs on Linux | runs on web | runs on Win | runs on Mac | runs on mobile | open src? |
-|-------------------|:---------:|:--------:|:-----:|:----:|--------------:|:------------------:|:---------:|:-------------:|-------------|-------------|-------------|----------------|-----------|
-| Accelo            |           |          |       |      |               |                    |           |               |             |             |             |                |           |
-| Airtable          |           |          |       |      |               |                    |           |               |             |             |             |                |           |
+|-------------------|:---------:|:--------:|:-----:|:----:|:-------------:|:------------------:|:---------:|:-------------:|:-----------:|:-----------:|:-----------:|:--------------:|:---------:|
+| [Accelo]          |           |          |       |      |               |                    |           |               |             |             |             |                |           |
+| [Airtable]        |           |          |       |      |               |                    |           |               |             |             |             |                |           |
 | Any.do            |           |          |       |      |               |                    |           |               |             |             |             |                |           |
 | Asana             |           |          |       |      |               |                    |           |               |             |             |             |                |           |
-| Atlassian Jira    |     +     |          |       |      |         java? |                    |           |               |             |             |             |                |           |
+| Atlassian Jira    |     +     |          |       |      |     java?     |                    |           |               |             |             |             |                |           |
 | Basecamp          |           |          |       |      |               |                    |           |               |             |             |             |                |           |
 | BIGContacts       |           |          |       |      |               |                    |           |               |             |             |             |                |           |
 | Casual            |           |          |       |      |               |                    |           |               |             |             |             |                |           |
 | Chanty            |           |          |       |      |               |                    |           |               |             |             |             |                |           |
 | ClickUp           |           |    +     |       |  +   |               |                    |           |               |             |             |             |                |           |
 | Clockify          |           |          |       |      |               |                    |           |               |             |             |             |                |           |
-| Excel :) / sheets |           |          |       |      |               |                    |           |       +       | +           | +           | +           |               |   -        |
+| Excel :) / sheets |           |          |       |      |               |                    |           |       +       |      +      |      +      |      +      |                |     -     |
 | Flow              |           |          |       |      |               |                    |           |               |             |             |             |                |           |
 | Github Projects   |           |          |       |      |               |                    |           |               |             |             |             |                |           |
 | Hitask            |           |          |       |      |               |                    |           |               |             |             |             |                |           |
@@ -22,13 +22,14 @@
 | Monday.com        |           |          |       |      |               |                    |           |               |             |             |             |                |           |
 | Nifty             |           |          |       |      |               |                    |           |               |             |             |             |                |           |
 | Notion            |           |          |       |      |               |                    |           |               |             |             |             |                |           |
-| Nozbe             |           |          |   +   |      |               |                    |           |       -       | ?           | +           | +           | ?              |           |
+| Nozbe             |           |          |   +   |      |               |                    |           |       -       |      ?      |      +      |      +      |       ?        |           |
 | nTask             |           |          |       |      |               |                    |           |               |             |             |             |                |           |
-| OneNote           |           |          |       |      |               |                    | Microsoft |       -       | ?           | +           | ?           |                |           |
+| OneNote           |           |          |       |      |               |                    | Microsoft |       -       |      ?      |      +      |      ?      |                |           |
 | Paymo             |           |          |       |      |               |                    |           |               |             |             |             |                |           |
 | Pipefy            |           |          |       |      |               |                    |           |               |             |             |             |                |           |
 | Plutio            |           |          |       |      |               |                    |           |               |             |             |             |                |           |
 | ProofHub          |           |          |       |      |               |                    |           |               |             |             |             |                |           |
+| Redmine           |           |          |       |  +   |               |       xD, -        |           |               | +           |             |             |                |           |
 | Quire             |           |          |       |      |               |                    |           |               |             |             |             |                |           |
 | SmartSheet        |           |          |       |      |               |                    |           |               |             |             |             |                |           |
 | SmartTask         |           |          |       |      |               |                    |           |               |             |             |             |                |           |
@@ -43,3 +44,7 @@
 | Wimi              |           |          |       |      |               |                    |           |               |             |             |             |                |           |
 | Wirke             |           |          |       |      |               |                    |           |               |             |             |             |                |           |
 
+
+
+[Accello]: https://accelo.com/ 'Accelo'
+[Airtable]: https://www.airtable.com/ 'Airtable'
