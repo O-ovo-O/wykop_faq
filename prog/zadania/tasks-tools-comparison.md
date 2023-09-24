@@ -180,4 +180,4 @@ Sth for one of my own usecases:
 | calendar: outlook calendar       | -        |          |         |            |            |            |
 | calendar: google calendar        | -        |          |         |            |            |            |
 
-[1] - Google Drive, OneDrive, Dropbox, Box
+[^1] - Google Drive, OneDrive, Dropbox, Box
