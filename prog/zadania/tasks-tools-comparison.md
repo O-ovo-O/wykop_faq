@@ -97,9 +97,13 @@
 [Wirke]:  https://www.todo.org 'Wirke'
 
 https://en.wikipedia.org/wiki/List_of_collaborative_software
+
 https://en.wikipedia.org/wiki/Collaborative_software
+
 https://en.wikipedia.org/wiki/Collaborative_workflow
+
 https://en.wikipedia.org/wiki/Project_management_software
+
 https://en.wikipedia.org/wiki/Comparison_of_project_management_software
 
 
@@ -128,6 +132,18 @@ More towards CRM
 | [KrayinCRM]   |      |       |  +   |           |           |              |       |               |             |             |             |         |        |               |     |     |     |
 | [YetiForce]   |      |       |      |           |           |              |       |               |             |             |             |         |        |               |     |     |     |
 
+
+More towards VCS + tasks
+
+- Gitlab
+
+- Gitea
+
+- TODO: check OpenProject
+
+- TODO: check taigaio
+
+- TODO: check phabricator
 
 
 
@@ -209,14 +225,21 @@ Sth for one of my own usecases:
 | calendar: google calendar                        | -       |          |         |            |          |    +     |            |
 | my overall feeling about it (xy/10)              |         |          |         |  5 [^32]   | 6  [^30] | 6 [^31]  |            |
 
+
 [^1] - Google Drive, OneDrive, Dropbox, Box
+
 [^2] - feature not needed if proper tagging with tag cloud would work
+
 [^3] - while many clain gdpr/dsgvo/rodo compliance, or secure data storage - not many do. Data should be importable/exportable, encrypted, impossible to be viewed/edited by anyone by owner
 
 
 [^30] - interesting, lets one create nice graph, (re)order tasks
+
 [^31] - very simple, easy to use, however - no import /export, attachments kept on remote server (only links saved), web only
+
 [^32] - BaseCamp - initially nice, but somehow Lineup does not seem to show the tasks on view.
+
 
 [^99] - while some might want to view Gantt chart/roadmap, others prefer: - "sprint board" what is planned/backlog, - task grouped by tag/topic/project/thema/status/assigne/due-date/prio/completion
 
+Eh, GH markdown is crap, sets .container-lg max-width to 1012px. Luckily one can change that with orange script or similar, and set `max-width: 95% !important;`
