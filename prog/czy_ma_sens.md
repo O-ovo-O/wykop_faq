@@ -293,6 +293,8 @@ albo wchodzić w bezsensowne dyskusje.
 <a id="czego-si%C4%99-uczy%C4%87-pole%C4%87cie-kurs"></a>
 ## czego się uczyć. Polećcie kurs...
 
+  Sprawdź również pytanie "jak wybrać język programowania do nauki? Jaki język na początek"
+
   ### wiedza ogólna
 
     - CS50x
@@ -351,6 +353,12 @@ albo wchodzić w bezsensowne dyskusje.
 
   - pluralsight
   - linkedin learning
+
+  ### machine learning / uczenie maszynowe
+
+  - Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow; Aurélien Géron
+  - Introduction to Machine Learning with Python: A Guide for Data Scientists; Andreas C. Müller and Sarah Guido
+  - https://youtu.be/aircAruvnKk?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
 
 <a id="kalkulatory-podatki-i-inne-pierdo%C5%82y"></a>
 ## kalkulatory, podatki i inne pierdoły
@@ -449,7 +457,7 @@ albo wchodzić w bezsensowne dyskusje.
   - Hiszpania: https://www.wykop.pl/link/5834311/
   - Irlandia: https://www.wykop.pl/wpis/66913725/
   - Kambodża: https://www.wykop.pl/wpis/52919507/ (2020)
-  - Norweria: https://www.wykop.pl/wpis/67598867/ https://www.wykop.pl/wpis/66369911/
+  - Norweria: https://www.wykop.pl/wpis/67598867/ https://www.wykop.pl/wpis/66369911/  https://wykop.pl/wpis/73350013/ (mini ama 2023)
   - Niemcy: https://wykop.pl/link/3612647/ama-lekarz-w-niemczech-5-lat-pozniej/ https://wykop.pl/link/4991779/ (2019)
   - Szwecja https://www.wykop.pl/wpis/60775001/
   - Rumunia: https://www.wykop.pl/link/5743013
