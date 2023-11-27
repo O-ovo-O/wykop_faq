@@ -199,26 +199,27 @@ albo wchodzić w bezsensowne dyskusje.
   - crossweb.pl/job/oferty-pracy
   - djini.co
   - docs.google.com/spreadsheets/d/1JfNAbUX\_lN9K3MCNHO15GJtJ5qpk7H9Cl3xTBwv2FR8/htmlview#
+  - fiverr.com
   - glassdoor.com
   - hellocryptojobs.com
+  - honeypot.io
   - hubstaff.com
   - indeed.com
   - jobrack.eu
   - jobsearch.dev
   - jobsqd.com
-  - honeypot.io
   - linkedin.com
   - monster.com
-  - nomady.work
   - nomadlist.com
+  - nomady.work
   - peopleperhour.com
   - reed.co.uk
   - remoteok.com
+  - skillshot
+  - skyworker.ai
   - snagajob.com
   - solid.jobs
   - stackoverflow/jobs # closed
-  - skillshot
-  - skyworker.ai
   - teemwork.ai
   - test.io
   - toptal.com
@@ -226,8 +227,8 @@ albo wchodzić w bezsensowne dyskusje.
   - upwork.com
   - useme.com
   - utest.com
-  - weworkremotely.com
   - web3.career
+  - weworkremotely.com
   - workaway.info
   - ycombinator news # na początku miesiąca
   - ziprecruiter.com
@@ -241,8 +242,8 @@ albo wchodzić w bezsensowne dyskusje.
     - jobted.pl
     - justjoin.it
     - nofluffjobs.com
-    - olx.pl
     - oferia.pl
+    - olx.pl
     - pracuj.pl
     - rocketjobs.pl
   - AT: # Austria
@@ -257,8 +258,8 @@ albo wchodzić w bezsensowne dyskusje.
   - CZ: # Czechy
     - expats.cz/jobs
   - DE: # Niemcy
-    - de.jooble.org
     - berlinstartupjobs.com/de
+    - de.jooble.org
     - germantechjobs.de
     - it-jobs.de/
     - jobs.meinestadt.de
@@ -359,6 +360,10 @@ albo wchodzić w bezsensowne dyskusje.
   - Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow; Aurélien Géron
   - Introduction to Machine Learning with Python: A Guide for Data Scientists; Andreas C. Müller and Sarah Guido
   - https://youtu.be/aircAruvnKk?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
+
+  ### chmura / cloud
+
+  - AWS https://www.youtube.com/watch?v=zA8guDqfv40
 
 <a id="kalkulatory-podatki-i-inne-pierdo%C5%82y"></a>
 ## kalkulatory, podatki i inne pierdoły

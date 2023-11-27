@@ -34,6 +34,7 @@
  - https://www.wykop.pl/wpis/64780795/fotel-fotelbiurowy-ergonomia-ergohuman-grospol-cze/
 
  - https://www.wykop.pl/wpis/64777419/nie-wiesz-jaki-ergonomiczny-biurowy-fotel-wybrac-z/
+ - https://wykop.pl/wpis/73816145/siema-jako-ze-sam-szukalem-tutaj-informacji-na-tem
 
 charakterystyka:
 z siatka/elastomerem, lub materiałowe
@@ -51,3 +52,4 @@ z siatka/elastomerem, lub materiałowe
  - https://www.wykop.pl/wpis/65461261/hej-chce-zakupic-biurko-z-elektryczna-regulacja-wy/
  - https://www.wykop.pl/wpis/65458511/stabilnosc-biurka-elektrycznego-na-pelnym-wyciagu-/
  - https://www.wykop.pl/wpis/54622949/biurko-regulowane-elektrycznie-zostawiam-dla-potom/
+ - https://wykop.pl/wpis/73840283/mirki-poszukuje-stelaz-do-biurka-podnoszenego-elek
