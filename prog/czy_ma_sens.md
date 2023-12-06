@@ -462,6 +462,7 @@ albo wchodzić w bezsensowne dyskusje.
   - Hiszpania: https://www.wykop.pl/link/5834311/
   - Irlandia: https://www.wykop.pl/wpis/66913725/
   - Kambodża: https://www.wykop.pl/wpis/52919507/ (2020)
+  - Kanada: https://wykop.pl/wpis/73959959/ (nie ama, takie luźne coś, 2023)
   - Norweria: https://www.wykop.pl/wpis/67598867/ https://www.wykop.pl/wpis/66369911/  https://wykop.pl/wpis/73350013/ (mini ama 2023)
   - Niemcy: https://wykop.pl/link/3612647/ama-lekarz-w-niemczech-5-lat-pozniej/ https://wykop.pl/link/4991779/ (2019)
   - Szwecja https://www.wykop.pl/wpis/60775001/
