@@ -446,6 +446,7 @@ albo wchodzić w bezsensowne dyskusje.
 * przeprowadzka
 
   Ciekawe opisy emigracji:
+  - Argentyna: https://wykop.pl/link/7300765/ama-mirek-z-argentyny (2023)
   - Australia: https://www.wykop.pl/link/6263389/ https://www.wykop.pl/link/6069039/
   - Austria: https://www.wykop.pl/link/5801629/ama-zycie-na-emigracji-w-austrii-salzburg-miasto-mozarta/ (2020)
   - Bali: #baliwpjoterze
