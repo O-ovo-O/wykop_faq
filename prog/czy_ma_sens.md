@@ -276,6 +276,8 @@ albo wchodzić w bezsensowne dyskusje.
   - IR/UK:
     - irishjobs.ie
     - devitjobs.uk
+    - www.cv-library.co.uk
+    - jobs.ie
   - IS # Islandia
     - alfred.is
   - NL: # Niderlandy
@@ -364,6 +366,8 @@ albo wchodzić w bezsensowne dyskusje.
   ### chmura / cloud
 
   - AWS https://www.youtube.com/watch?v=zA8guDqfv40
+  - cloud learn.cantrill.io/
+  - AWS tutorialsdojo.com/
 
 <a id="kalkulatory-podatki-i-inne-pierdo%C5%82y"></a>
 ## kalkulatory, podatki i inne pierdoły
@@ -427,7 +431,7 @@ albo wchodzić w bezsensowne dyskusje.
 * prawa, obowiązki i przywileje
 * inne święta
 * internet (mobilny)
-* nieruchomości, mieszkania
+* nieruchomości, mieszkania, pokoje, wynajem
 
   - AT: willhaben.at
   - DE: ebay kleinanzeigen, wg-gesucht, immobilienscout24  i inne ciekawostki umweltzone.pl/strefy
@@ -436,7 +440,7 @@ albo wchodzić w bezsensowne dyskusje.
   - FR: app.dvf.etalab.gouv.fr  Leboncoin.fr  seloger.com
   - IR: daft.ie
   - IT: idealista.it
-  - NL: kamernet.nl
+  - NL: kamernet.nl  funda.nl  niedziela.nl
   - SE: qasa.se blocket.se
   - UK: Spareroom, grupy facebookowe
 

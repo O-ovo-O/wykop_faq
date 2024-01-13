@@ -2,6 +2,8 @@
 - [krzesło](krzeslo.md)
 - [biurko](biurko.md) Elektryczne lub nie
 
+## jedno i drugie
+https://wykop.pl/wpis/74549991/siema-przymierzam-sie-do-kupienia-biurka-ze-stelaz
 
 ## krzeslo
  - https://www.wykop.pl/wpis/69596079/mircy-z-programowanie-i-programista15k-polecane-bi/
