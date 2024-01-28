@@ -244,8 +244,9 @@ albo wchodzić w bezsensowne dyskusje.
     - nofluffjobs.com
     - oferia.pl
     - olx.pl
-    - pracuj.pl
+    - pracuj.pl  # ciekawostka, ogloszenie kosztuje (min?) 1k pln
     - rocketjobs.pl
+    - praca.gratka.pl
   - AT: # Austria
     - karriere.at
     - kununu.com
@@ -278,6 +279,7 @@ albo wchodzić w bezsensowne dyskusje.
     - devitjobs.uk
     - www.cv-library.co.uk
     - jobs.ie
+    - grapevinejobs.co.uk
   - IS # Islandia
     - alfred.is
   - NL: # Niderlandy
@@ -293,6 +295,15 @@ albo wchodzić w bezsensowne dyskusje.
   - reddit # gdzieś są, ale się trzeba naszukać
   - sprawdzic: fiverr freelancer.com  gameindustry.biz  gamejobs bgsf.com/instaff/
 
+  - job-hunt.org
+  - wellfound.com
+  - remotive.com
+  - flexjobs.com
+  - remoteok.com
+  - lnkd.in/giHGeCCw
+  - remotely.jobs
+
+
 <a id="czego-si%C4%99-uczy%C4%87-pole%C4%87cie-kurs"></a>
 ## czego się uczyć. Polećcie kurs...
 
@@ -302,6 +313,7 @@ albo wchodzić w bezsensowne dyskusje.
 
     - CS50x
     - edx.org/learn/computer-programming
+    - wazniak.mimuw.edu.pl/index.php?title=Strona_g%C5%82%C3%B3wna
 
   ### algorytmy
 
@@ -333,6 +345,7 @@ albo wchodzić w bezsensowne dyskusje.
   - ctflearn.com
   - jakieś tam losowe kanały YT: Kacper Szukrek, GynvaelColdwind, SekurakTV, HackerSploit, John Hammond, LiveOverFlow, Computerphile
   - osintme.com
+  - pwn.college
   - David Bombal. IppSec. Chris Greer. NetworkChuck
   - YT Hak5, Null Byte. Zaufana Trzecia Strona, Adam Haertle, Niebezpiecznik
 
@@ -454,7 +467,7 @@ albo wchodzić w bezsensowne dyskusje.
   - Australia: https://www.wykop.pl/link/6263389/ https://www.wykop.pl/link/6069039/
   - Austria: https://www.wykop.pl/link/5801629/ama-zycie-na-emigracji-w-austrii-salzburg-miasto-mozarta/ (2020)
   - Bali: #baliwpjoterze
-  - Belgia: https://wykop.pl/link/2652785/ama-mieszkam-i-ucze-sie-w-belgii-juz-od-13-lat/
+  - Belgia: https://wykop.pl/link/2652785/ama-mieszkam-i-ucze-sie-w-belgii-juz-od-13-lat/ https://wykop.pl/wpis/74785407/
   - Chiny: #matiwojwchinach i LuckySrike https://www.youtube.com/watch?v=-3prcjaFcUs&list=PLOAXDMnFNrmnJmuXLGT_yXvy8ioPTKDcQ
   - Chorwacja: #splitalam oraz https://www.wykop.pl/wpis/68454899
   - Emiraty Arabskie/Dubaj: patrz ZEA
@@ -463,12 +476,12 @@ albo wchodzić w bezsensowne dyskusje.
   - Filipiny: https://wykop.pl/link/6812083/ama-zycie-programisty-na-filipinach https://wykop.pl/link/3405601/
   - Grecja: https://www.wykop.pl/wpis/69634581
   - Haiti: https://www.wykop.pl/link/6698097/ https://www.wykop.pl/link/4480429
-  - Holandia: https://wykop.pl/wpis/35305029/ (2018, ama)
+  - Holandia: https://wykop.pl/wpis/35305029/ (2018, ama) https://wykop.pl/wpis/74779525
   - Hiszpania: https://www.wykop.pl/link/5834311/
   - Irlandia: https://www.wykop.pl/wpis/66913725/
   - Kambodża: https://www.wykop.pl/wpis/52919507/ (2020)
   - Kanada: https://wykop.pl/wpis/73959959/ (nie ama, takie luźne coś, 2023)
-  - Norweria: https://www.wykop.pl/wpis/67598867/ https://www.wykop.pl/wpis/66369911/  https://wykop.pl/wpis/73350013/ (mini ama 2023)
+  - Norweria: https://www.wykop.pl/wpis/67598867/ https://www.wykop.pl/wpis/66369911/ https://wykop.pl/wpis/74749727 https://wykop.pl/wpis/73350013/ (mini ama 2023)
   - Niemcy: https://wykop.pl/link/3612647/ama-lekarz-w-niemczech-5-lat-pozniej/ https://wykop.pl/link/4991779/ (2019)
   - Szwecja https://www.wykop.pl/wpis/60775001/
   - Rumunia: https://www.wykop.pl/link/5743013
