@@ -99,3 +99,27 @@ https://www.parp.gov.pl/component/site/site/kursy-online
 
 
 http://www.vademecumpodatnika.pl/artykul_narzedziowa,1259,203,21135,ulga-dla-mlodych-przy-dzialalnosci-gospodarczej.html
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+programy do faktur
+
+Darmowe:
+- limit w darmowej wersji
+  - elisoft offline 15 faktur
+  - fakturownia.pl 3 faktury
+
+Trzeba miec na uwadze ze za 1-2 lata i tak do następnego dnia roboczego trzeba wszystkie faktury wgrać do ksef

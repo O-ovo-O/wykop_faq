@@ -5,16 +5,16 @@ Zgromadzone miedzy innymi z:
 
   - 12voltvids - https://www.youtube.com/@12voltvids/videos - EN
   - 2_volt - https://www.youtube.com/channel/UCI6qJ6UHEBs4jvqXymrbZjQ - PL
-  - AKA KASYAN
-  - Adam Maszynotwór
-  - Adam Repair
+  - AKA KASYAN - https://www.youtube.com/@akakasyan - RU
+  - Adam Maszynotwór - https://www.youtube.com/@AdamMaszynotwor - PL
+  - Adam Repair - https://www.youtube.com/@adamrepair8338 - EN
   - Adam Śmiałek - https://www.youtube.com/c/Adam%C5%9Amia%C5%82ek - PL
   - Adrian's Digital Basement
-  - Alek Analogowy
-  - AllTheGearNoIdea
+  - Alek Analogowy - https://www.youtube.com/@AlekAnalogowy - PL
+  - AllTheGearNoIdea - https://youtube.com/@allthegearnoidea6752 - EN
   - AllThingsOnePlace - https://www.youtube.com/@AllThingsOnePlace/videos - EN
   - Almar Serwis Komputerów
-  - AlphaPhoenix
+  - AlphaPhoenix - https://www.youtube.com/@AlphaPhoenixChannel - EN
   - Andreas Spiess
   - Applied Science
   - Atomic14
@@ -38,6 +38,7 @@ Zgromadzone miedzy innymi z:
   - ElectronicsAutomotiv
   - Electronoobs
   - Elektron - https://www.youtube.com/c/ELEKTRON1
+  - Elektronik - https://www.youtube.com/@Elektronik-1 - DE
   - FeedbackLoop
   - FixIT
   - Foolish Engineer
@@ -49,10 +50,11 @@ Zgromadzone miedzy innymi z:
   - Haseeb Electronics
   - Hathor
   - IMSAI Guy
+  - INTION - https://www.youtube.com/@INTION1 - EN
   - ITryToFixThis
   - IZZi instalacje
   - IanScottJohnston - https://www.youtube.com/@IanScottJohnston/videos
-  - Inżynieria wsteczna
+  - Inżynieria wsteczna - https://www.youtube.com/@satanistik666 - PL
   - JUNTEK
   - Jagodowy TV
   - Jeffescortlx
@@ -77,7 +79,7 @@ Zgromadzone miedzy innymi z:
   - Louis Rossmann
   - LukaszM
   - Major Tom Workshop
-  - Majsterkowanie i nie tylko
+  - Majsterkowanie i nie tylko - https://www.youtube.com/@__MINT_ - PL
   - Maker Fabio
   - Maker Mac70
   - Marc Siegel
@@ -131,7 +133,7 @@ Zgromadzone miedzy innymi z:
   - Slawek-online
   - Smbakeryt
   - Srebrna Rączka
-  - Subskrypcje
+  - SR Electric - https://www.youtube.com/@SRelectric - EN
   - Sui778
   - Systemix
   - TRX Lab

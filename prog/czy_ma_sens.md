@@ -35,6 +35,8 @@
 <a id="zanim-zaczniesz-czyta%C4%87---proponuj%C4%99-zacz%C4%85%C4%87-tu"></a>
 ## zanim zaczniesz czytać - proponuję zacząć tu
 
+https://mapakarier.org/sciezki-kariery/
+
 https://www.wykop.pl/wpis/66264217/
 
 https://www.wykop.pl/wpis/56996059/
