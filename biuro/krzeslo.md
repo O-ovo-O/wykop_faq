@@ -50,3 +50,5 @@ Natomiast jak ma być do 3k to możesz przymierzyć np.:
 - Nowy Styl: Souly, Z-body Trade, Viden, SO-one, Xenium, Xilium;
 - Profim: Motto, Xenon Net, Xenon, Veris Net, Veris, AccisPro, Violle;
 - Bejot: mate, corr, milla, double, eleven.
+
+https://ergobiuro.pl/pl/p/Fotel-obrotowy-LightUp-250SL-P59PU-Evo-WYSYLKA-24h/598

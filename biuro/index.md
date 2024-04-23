@@ -6,6 +6,10 @@
 https://wykop.pl/wpis/74549991/siema-przymierzam-sie-do-kupienia-biurka-ze-stelaz
 
 ## krzeslo
+ - https://wykop.pl/wpis/75903183/jaki-fotel-polecacie-dla-dziewczyny-162-cm-wzrostu
+ - https://wykop.pl/wpis/75387985/pytanie-powtarzajace-sie-pewnie-co-chwile-jaki-fot
+ - https://wykop.pl/wpis/75319989/czy-gdzies-w-wawie-lub-okolicach-jest-sklep-z-fote
+ - https://wykop.pl/wpis/75214549/macie-do-polecenia-jakis-fotel-biurowy-ktory-nie-j
  - https://www.wykop.pl/wpis/69596079/mircy-z-programowanie-i-programista15k-polecane-bi/
  - https://www.wykop.pl/wpis/68538009/bonjour-szukam-od-dluzszego-czasu-fotela-do-pracy-/
  - https://www.wykop.pl/wpis/68268583/szukam-fotela-do-siedzenia-przy-komputerze-po-ktor/

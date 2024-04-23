@@ -196,42 +196,72 @@ albo wchodzić w bezsensowne dyskusje.
 <a id="gdzie-szuka%C4%87-w-tym-zdalnej-pracy"></a>
 ## gdzie szukać (w tym zdalnej) pracy?
 
+  Ogólna lista (poniżej specyficzne dla kraju)
+
   - angel.co
+  - arc.dev
+  - bulldogjob.pl
+  - careers.sh
+  - careervault.io
   - cord.co
   - crossweb.pl/job/oferty-pracy
+  - cse.google.com/cse?cx=f718acf07ceab43ad#gsc.tab=0
   - djini.co
   - docs.google.com/spreadsheets/d/1JfNAbUX\_lN9K3MCNHO15GJtJ5qpk7H9Cl3xTBwv2FR8/htmlview#
+  - dynamitejobs.com/remote-jobs
   - fiverr.com
-  - glassdoor.com
+  - functional.works-hub.com/jobs/remote-android-software-engineer-c7f
+  - germantechjobs.de/en
+  - glassdoor.com/Job/
   - hellocryptojobs.com
   - honeypot.io
   - hubstaff.com
   - indeed.com
   - jobrack.eu
+  - jobs.gorails.com/
+  - jobs.workable.com/search?location=Poland&remote=true
   - jobsearch.dev
+  - jobspresso.co/
   - jobsqd.com
+  - justjoin.it/
+  - justremote.co/
   - linkedin.com
   - monster.com
+  - news.ycombinator.com/ (Who's hiring threads)
+  - nofluffjobs.com/
   - nomadlist.com
   - nomady.work
+  - otta.com/
   - peopleperhour.com
   - reed.co.uk
+  - relevantjobs.com/
+  - remote-work.io
   - remoteok.com
+  - remotive.com/
   - skillshot
   - skyworker.ai
   - snagajob.com
   - solid.jobs
+  - sorcer.io/jobs/
   - stackoverflow/jobs # closed
+  - startup.jobs/
+  - swissdevjobs.ch/
   - teemwork.ai
   - test.io
+  - thehub.io/jobs
   - toptal.com
   - totaljobs.com
+  - twitter.com/search?q=since%3A2024-03-01%20&src=typed_query&f=live
+  - ukstartupjobs.com/
   - upwork.com
   - useme.com
   - utest.com
+  - wearedevelopers.com/en/jobs
   - web3.career
   - weworkremotely.com
   - workaway.info
+  - workingnomads.com/jobs
+  - workinstartups.com/jobs-search
   - ycombinator news # na początku miesiąca
   - ziprecruiter.com
   - znajomi :) czy grupki na portalach społecznościowych
@@ -275,6 +305,7 @@ albo wchodzić w bezsensowne dyskusje.
     - jobindex.dk
   - FR: # Francja
     - thelocal.fr/jobs
+    - astekjob.fr
     - agencje: Manpower, Ranstad, Ras, Adecco, Synergie, Samsic
   - IR/UK:
     - irishjobs.ie
@@ -284,9 +315,14 @@ albo wchodzić w bezsensowne dyskusje.
     - grapevinejobs.co.uk
   - IS # Islandia
     - alfred.is
+  - JP # Japonia
+    - japan-dev.com/jobs
+  - SP
+    - www.alten.es
   - NL: # Niderlandy
     - Jobsonline.nl
     - zipconomy.nl/tool/marktplaatsen
+    - devitjobs.nl/en
   - NO: # Norwegia
     - finn.no
     - hybel.no
@@ -304,6 +340,17 @@ albo wchodzić w bezsensowne dyskusje.
   - remoteok.com
   - lnkd.in/giHGeCCw
   - remotely.jobs
+  - rustwizards.com
+
+
+- https://careers.cern/alljobs
+- https://jobs.esa.int/
+- https://recruitment.eso.org/
+- https://www.eumetsat.int/work-us/vacancies
+- https://europeanspallationsource.se/careers/vacancies
+- https://www.embl.org/jobs/
+- https://www.iter.org/Jobs
+
 
 
 <a id="czego-si%C4%99-uczy%C4%87-pole%C4%87cie-kurs"></a>
@@ -316,6 +363,7 @@ albo wchodzić w bezsensowne dyskusje.
     - CS50x
     - edx.org/learn/computer-programming
     - wazniak.mimuw.edu.pl/index.php?title=Strona_g%C5%82%C3%B3wna
+    - edx.org/search?q=MITx&tab=course
 
   ### algorytmy
 
@@ -335,20 +383,21 @@ albo wchodzić w bezsensowne dyskusje.
 
   ### security
 
-  - pauljerimy.com/security-certification-roadmap
-  - tryhackme.com/hacktivities#learning-paths
   - book.hacktricks.xyz/welcome/readme
-  - cyberseek.org/pathway.html
-  - hack.ainfosec.com
-  - hackthebox.com
-  - hackaday.com
-  - eccouncil.org/programs/certified-ethical-hacker-ceh
-  - tryhackme.com
   - ctflearn.com
-  - jakieś tam losowe kanały YT: Kacper Szukrek, GynvaelColdwind, SekurakTV, HackerSploit, John Hammond, LiveOverFlow, Computerphile
+  - cyberseek.org/pathway.html
+  - eccouncil.org/programs/certified-ethical-hacker-ceh
+  - hack.ainfosec.com
+  - hackaday.com
+  - hackthebox.com
   - osintme.com
+  - overthewire.org
+  - pauljerimy.com/security-certification-roadmap
   - pwn.college
+  - tryhackme.com/hacktivities#learning-paths
+  - en.wikipedia.org/wiki/Cicada_3301
   - David Bombal. IppSec. Chris Greer. NetworkChuck
+  - jakieś tam losowe kanały YT: Kacper Szukrek, GynvaelColdwind, SekurakTV, HackerSploit, John Hammond, LiveOverFlow, Computerphile
   - YT Hak5, Null Byte. Zaufana Trzecia Strona, Adam Haertle, Niebezpiecznik
 
   ### testowanie
@@ -461,6 +510,8 @@ albo wchodzić w bezsensowne dyskusje.
 
   - globimmo.net
   - https://www.wykop.pl/wpis/67848487/ # trochę zebranych ciekawostek jakie wymagania i jak to wygląda
+  - https://relocate.me (porównanie pensji inżynierów - subiektywne)
+  - numbeo.com (porównanie kosztów życia)
 
 * przeprowadzka
 
@@ -475,7 +526,7 @@ albo wchodzić w bezsensowne dyskusje.
   - Emiraty Arabskie/Dubaj: patrz ZEA
   - Francja: https://www.wykop.pl/wpis/66638601 #francjadasielubic
   - Finlandia: https://www.wykop.pl/link/2573371/ama-o-finlandii-i-zyciu-tutaj/ (2015)
-  - Filipiny: https://wykop.pl/link/6812083/ama-zycie-programisty-na-filipinach https://wykop.pl/link/3405601/
+  - Filipiny: https://wykop.pl/link/6812083/    https://wykop.pl/link/3405601/  https://wykop.pl/link/7369053/
   - Grecja: https://www.wykop.pl/wpis/69634581
   - Haiti: https://www.wykop.pl/link/6698097/ https://www.wykop.pl/link/4480429
   - Holandia: https://wykop.pl/wpis/35305029/ (2018, ama) https://wykop.pl/wpis/74779525
