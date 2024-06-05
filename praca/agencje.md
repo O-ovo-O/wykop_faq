@@ -1,31 +1,31 @@
 # Agencje pracy za granicą
 
 
-| nazwa agencji                  | kraj       | wymagane kwalifikacje | wymagane doświadczenie | wymagana znajomość lokalny języka kraju | wymagany angielski | patologia? | szacowane zarobki |
-|--------------------------------|------------|-----------------------|------------------------|-----------------------------------------|--------------------|------------|-------------------|
-| Ottoworkforce.eu               |            |                       |                        |                                         |                    |            |                   |
-|                                | Holandia   |                       |                        |                                         |                    | +          | 500e /tydz netto  |
-| humanus                        | Niemcy     |                       |                        |                                         |                    |            | 450e /tydz netto  |
-| mondi                          | Niemcy     |                       |                        |                                         |                    |            |                   |
-| Albert                         | Holandia   |                       |                        |                                         |                    |            | 14,43e netto/h    |
-| Duidam                         | Holandia   |                       |                        |                                         |                    |            |                   |
-| MG Solutions                   | Niemcy     |                       |                        |                                         |                    |            |                   |
-| Timing                         | NL         |                       |                        |                                         |                    |            |                   |
-| AB Midden                      | NL         |                       |                        |                                         |                    |            |                   |
-| Carriere                       | NL         |                       |                        |                                         |                    |            |                   |
-| ZeitNah                        |            |                       |                        |                                         |                    |            |                   |
-| https://m.olx.pl/oferta/praca/ |            |                       |                        |                                         |                    |            |                   |
-| SBA flex                       |            |                       |                        |                                         |                    |            |                   |
-| e&a z Opola                    |            |                       |                        |                                         |                    |            |                   |
-| covebo                         |            |                       |                        |                                         |                    |            |                   |
-| kraft racibórz/ team24         |            |                       |                        |                                         |                    |            |                   |
-| Kirichgruppe                   |            |                       |                        |                                         |                    |            |                   |
-| limnuswork                     |            |                       |                        |                                         |                    |            |                   |
-| personal24                     | Szwajcaria |                       |                        |                                         |                    |            |                   |
-|                                |            |                       |                        |                                         |                    |            |                   |
-|                                |            |                       |                        |                                         |                    |            |                   |
-|                                |            |                       |                        |                                         |                    |            |                   |
-|                                |            |                       |                        |                                         |                    |            |                   |
+| nazwa agencji                  | kraj       | wymagane kwalifikacje | wymagane doświadczenie | wymagana znajomość lokalnego języka kraju | wymagany angielski | patologia? | szacowane zarobki |
+|--------------------------------|------------|-----------------------|------------------------|-------------------------------------------|--------------------|------------|-------------------|
+| Ottoworkforce.eu               |            |                       |                        |                                           |                    |            |                   |
+|                                | Holandia   |                       |                        |                                           |                    | +          | 500e /tydz netto  |
+| humanus                        | Niemcy     |                       |                        | czesto (zawsze?)                          |                    |            | 450e /tydz netto  |
+| mondi                          | Niemcy     |                       |                        |                                           |                    |            |                   |
+| Albert                         | Holandia   |                       |                        |                                           |                    |            | 14,43e netto/h    |
+| Duidam                         | Holandia   |                       |                        |                                           |                    |            |                   |
+| MG Solutions                   | Niemcy     |                       |                        |                                           |                    |            |                   |
+| Timing                         | NL         |                       |                        |                                           |                    |            |                   |
+| AB Midden                      | NL         |                       |                        |                                           |                    |            |                   |
+| Carriere                       | NL         |                       |                        |                                           |                    |            |                   |
+| ZeitNah                        |            |                       |                        |                                           |                    |            |                   |
+| https://m.olx.pl/oferta/praca/ |            |                       |                        |                                           |                    |            |                   |
+| SBA flex                       |            |                       |                        |                                           |                    |            |                   |
+| e&a z Opola                    |            |                       |                        |                                           |                    |            |                   |
+| covebo                         |            |                       |                        |                                           |                    |            |                   |
+| kraft racibórz/ team24         |            |                       |                        |                                           |                    |            |                   |
+| Kirichgruppe                   |            |                       |                        |                                           |                    |            |                   |
+| limnuswork                     |            |                       |                        |                                           |                    |            |                   |
+| personal24                     | Szwajcaria |                       |                        |                                           |                    |            |                   |
+|                                |            |                       |                        |                                           |                    |            |                   |
+|                                |            |                       |                        |                                           |                    |            |                   |
+|                                |            |                       |                        |                                           |                    |            |                   |
+|                                |            |                       |                        |                                           |                    |            |                   |
 
 # jakieś roboty
 
@@ -40,6 +40,8 @@
 - wiekowka
 - kasa, godziny, stabilność
 - płacisz za coś agencji, za pokój czy inne mieszkanie, ubezpieczenie zdrowotne?
+- dsomgi00: "Imo jakakolwiek agencja gdzie masz "polska umowa" i "niewymagany język niemiecki" to proszenie się o kłopoty i patole na zakwaterowaniu."
+
 
 # Tagi na wykopie, może zmniejszy to spam:
 
@@ -90,6 +92,7 @@ Trzeba jakos skutecznie to odfiltrowywac, bo sie nie daje czytac wykopu
 - Kominiara21
 - Dzienny
 - SupreminTHC
+- dsomgi00
 
 
 
