@@ -14,6 +14,7 @@
 | kreator w pracuj.pl                                                                                 |                           |
 | linkedin                                                                                            |                           |
 | novoresume                                                                                          |                           |
+| open-resume.com/resume-builder                                                                      |                           |
 | overleaf (LaTeX onlie)                                                                              |                           |
 | pracuj.pl/kreator                                                                                   |                           |
 | recznie na kartce                                                                                   | -                         |

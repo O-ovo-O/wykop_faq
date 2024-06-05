@@ -1,27 +1,28 @@
-| nazwa         | fiszki/słówka | zdania | wymowa | chat z nativami | rozmowy/vid z nativami | darmowe | płatne | FOSS | anonymous? | uwagi | ceryfikat? |
-|---------------|:-------------:|:------:|:------:|:---------------:|:----------------------:|:-------:|:------:|:----:|:----------:|:-----:|------------|
-| Anki          |       +       |   +    |   ?    |        -        |           -            |    +    |   -    |      |     +      |       |            |
-| Babbel        |               |        |        |                 |                        |         |        |      |            |       |            |
-| Ba ba dum     |       +       |        |   +    |                 |                        |    +    |        |      |     +      |   2   |            |
-| Busuu         |       +       |   +    |   ?    |        -        |           -            |         |        |      |            |       |            |
-| Cambly        |               |        |        |                 |                        |         |        |      |            |       |            |
-| Drops         |       +       |        |        |        -        |           -            |    +    |   +    |      |            |       |            |
-| Duolingo      |       +       |   -    |        |        -        |           -            |    +    |   +    |      |            |   1   |            |
-| Etutor        |               |        |        |                 |                        |         |   +    |      |            |       |            |
-| Fiszkoteka    |               |        |        |                 |                        |         |   +    |      |            |   3   |            |
-| HelloTalk     |               |        |        |                 |                        |         |   +    |      |            |       |            |
-| Italki        |               |        |        |                 |                        |         |        |      |            |       |            |
-| LingoDeer     |               |        |        |                 |                        |         |        |      |            |       |            |
-| LinDuo        |       +       |        |   +    |                 |                        |    +    |   +    |      |            |       |            |
-| lingbe.com    |               |        |        |        +        |                        |         |        |      |            |       |            |
-| Memrise       |       +       |   +    |   -    |        -        |           -            |         |        |      |            |       |            |
-| Mondly        |               |        |        |                 |                        |         |        |      |            |       |            |
-| Pimsleur.com  |               |        |        |                 |                        |         |   +    |  -   |  -, email  |       |            |
-| Preply.com    |               |        |        |                 |           +            |    -    |   +    |  -   |            |       |            |
-| Rosetta Stone |               |        |        |                 |                        |         |   +    |      |            |       |            |
-| Seedlang ?    |               |        |        |                 |                        |         |        |      |            |       |            |
-| Tandem        |       -       |   -    |   -    |        +        |           +            |    +    |   +    |  -   |  -,email   |       |            |
-| youglish.com  |       -       |   -    |   +    |        -        |           -            |    +    |   -    |      |     +      |   4   | -          |
+| nazwa         | fiszki/słówka | zdania | wymowa/audio | chat z nativami | rozmowy/vid z nativami | darmowe | płatne | FOSS | anonymous? | uwagi | ceryfikat? |
+|---------------|:-------------:|:------:|:------------:|:---------------:|:----------------------:|:-------:|:------:|:----:|:----------:|:-----:|------------|
+| Anki          |       +       |   +    |      ?       |        -        |           -            |    +    |   -    |  +?  |     +      |       |            |
+| Babbel        |               |        |              |                 |                        |         |        |      |            |       |            |
+| Ba ba dum     |       +       |        |      +       |                 |                        |    +    |        |      |     +      |   2   |            |
+| Busuu         |       +       |   +    |      ?       |        -        |           -            |         |        |      |            |       |            |
+| Cambly        |               |        |              |                 |                        |         |        |      |            |       |            |
+| Clozemaster   |       +       |   ?    |      ?       |                 |                        |    ?    |        |      |            |       |            |
+| Drops         |       +       |        |              |        -        |           -            |    +    |   +    |      |            |       |            |
+| Duolingo      |       +       |   -    |              |        -        |           -            |    +    |   +    |      |            |   1   |            |
+| Etutor        |               |        |              |                 |                        |         |   +    |      |            |       |            |
+| Fiszkoteka    |               |        |              |                 |                        |         |   +    |      |            |   3   |            |
+| HelloTalk     |               |        |              |                 |                        |         |   +    |      |            |       |            |
+| Italki        |               |        |              |                 |                        |         |        |      |            |       |            |
+| LingoDeer     |               |        |              |                 |                        |         |        |      |            |       |            |
+| LinDuo        |       +       |        |      +       |                 |                        |    +    |   +    |      |            |       |            |
+| lingbe.com    |               |        |              |        +        |                        |         |        |      |            |       |            |
+| Memrise       |       +       |   +    |      -       |        -        |           -            |         |        |      |            |       |            |
+| Mondly        |               |        |              |                 |                        |         |        |      |            |       |            |
+| Pimsleur.com  |               |        |              |                 |                        |         |   +    |  -   |  -, email  |       |            |
+| Preply.com    |               |        |              |                 |           +            |    -    |   +    |  -   |            |       |            |
+| Rosetta Stone |               |        |              |                 |                        |         |   +    |      |            |       |            |
+| Seedlang ?    |               |        |              |                 |                        |         |        |      |            |       |            |
+| Tandem        |       -       |   -    |      -       |        +        |           +            |    +    |   +    |  -   |  -,email   |       |            |
+| youglish.com  |       -       |   -    |      +       |        -        |           -            |    +    |   -    |      |     +      |   4   | -          |
 
 Poniżej:
 1. TODO
@@ -75,6 +76,7 @@ Inne metody:
 - gazety / radio
 - uo.amu.edu.pl/kursy  # uniwersystet otwarty
 - readlang.com
+- clozemaster.com
 
 # poniżej zebrane (dość losowo) EN/DE
 
@@ -140,10 +142,18 @@ https://www.efset.org/cefr/
 
 
 6. testy
-FCE -> CAE -> CPE
-TOEFL
-IELTS
+
+  a) angielski
+
+	FCE -> CAE -> CPE
+	TOEFL
+	IELTS
+
+	https://www.efset.org/quick-check/  # za darmo, dane (email) można podać losowe
 
 
+  a) niemiecki
 
-https://www.efset.org/quick-check/  # za darmo, dane (email) można podać losowe
+	http://www.c-test.de/deutsch/index.php?lang=de&content=online_test_english&section=ctest
+	https://www.th-koeln.de/en/international_office/placement-tests_60158.php
+	

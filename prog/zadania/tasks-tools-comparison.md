@@ -1,59 +1,64 @@
-| name             | paid | trial | free | anonymous | open src? | last updated |          owner          | runs on Linux | runs on web | runs on Win | runs on Mac | Android | iPhone | code language  | notes           |
-|------------------|:----:|:-----:|:----:|:---------:|:---------:|:------------:|:-----------------------:|:-------------:|:-----------:|:-----------:|:-----------:|:-------:|:------:|:--------------:|-----------------|
-| [Accelo]         |  +   |  -?   |  -   |     -     |     -     |     2023     |       Accelo (US)       |               |             |             |             |         |        |                |                 |
-| [Airtable]       |  +   |   -   |  +   |     -     |     -     |     2023     |      Airtable (US)      |               |      +      |             |             |         |        |                |                 |
-| [AnyDo]          |  +   |   -   |  +   |     -     |     -     |     2023     |       Any.do (IL)       |               |             |             |             |         |        |                |                 |
-| [Asana]          |  +   |   -   |  +   |     -     |     -     |              |     Asana Inc (US)      |               |      +      |             |             |         |        |                |                 |
-| [Jira]           |  +   |   -   |  +   |     -     |     -     |              |     Atlassian (AU)      |               |      +      |             |             |         |        |      java      | [notes_Jira]    |
-| [Basecamp]       |  +   |   +   |  -   |     +     |     -     |              |     37signals (US)      |               |      +      |      +      |      +      |    +    |   +    |      Ruby      |                 |
-| [Casual]         |  +   |   +   |  -   |     +     |           |              |   LT SQUARE LLC (UK)    |               |      +      |             |             |    +    |   +    |                |                 |
-| [Chanty]         |  +   |       |  +   |     +     |     -     |              |     Chanty inc (US)     |       +       |      +      |      +      |      +      |    +    |   +    |                | [notes_Chanty]  |
-| [ClickUp]        |  +   |       |  +   |           |     -     |              | Mango Technologies (US) |       +       |      +      |      +      |      +      |    +    |   +    |                | [notes_ClickUp] |
-| [Clockify]       |  -   |   -   |  +   |     -     |           |              |      Cake.com (US)      |               |      +      |      +      |      +      |    +    |   +    |                |                 |
-| [Excel_sheets]   |  +   |   -   |  +   |     -     |     -     |              |   multiple providers    |       +       |      +      |      +      |      +      |         |        |                |                 |
-| [Flow]           |  +   |       |  -   |           |     -     |              | Flow Technologies (US)  |               |      +      |             |             |         |        |                | [notes_Flow]    |
-| [Fossil]         |  -   |   +   |  +   |     +     |     +     |   2023-11    |    Richard Hipp (??)    |       +       |             |             |             |         |        |       C        |                 |
-| [GithubProjects] |  +   |       |      |           |           |              |     Microsoft (US)      |       -       |      +      |      -      |      -      |    -    |   -    |                | [notes_GHP]     |
-| [GanttPRO]       |  +   |       |  -   |     +     |     -     |              |   GanttPRO / DPM (US)   |               |             |             |             |    +    |   +    |                |                 |
-| [Hitask]         |  +   |       |      |     -     |           |              | Human Computer LLC (US) |               |             |             |             |    +    |   +    |                |                 |
-| [hiveCom]        |  +   |       |  +   |     -     |           |              |                         |               |             |      +      |      +      |    +    |   +    |                |                 |
-| [Infinity]       |      |       |      |           |           |              |                         |               |             |             |             |         |        |                |                 |
-| [MeisterTask]    |      |       |      |           |           |              |                         |               |             |             |             |         |        |                |                 |
-| [MondayCom]      |      |       |      |           |           |              |                         |               |             |             |             |         |        |                |                 |
-| [MSProject]      |  +   |       |  -   |           |     -     |              |     Microsoft (US)      |               |             |             |             |         |        |                |                 |
-| [MyCollab]       |      |   +   |  +   |           |     +     |     2019     |                         |               |             |             |             |         |        |      java      |                 |
-| [NiftyPM]        |      |       |      |           |           |              |                         |               |             |             |             |         |        |                |                 |
-| [Notion]         |  +   |   +   |  +   |     -     |           |   2023-04    |    Notion Labs (US)     |               |      +      |      +      |      +      |    +    |   +    |                |                 |
-| [Nozbe]          |      |   +   |      |           |           |              |                         |       -       |      ?      |      +      |      +      |    ?    |   ?    |                |                 |
-| [nocodb]         |      |       |      |           |           |              |                         |               |             |             |             |         |        | typescript/vue | [notes_nocodb]  |
-| [nTask]          |      |       |      |           |           |              |                         |               |             |             |             |         |        |                |                 |
-| [OneNote]        |      |       |      |           |           |              |     Microsoft (US)      |       -       |      ?      |      +      |      ?      |         |        |                |                 |
-| [OpenProject]    |      |       |      |           |     +     |              |                         |               |             |             |             |         |        |                |                 |
-| [Paymo]          |      |       |      |           |           |              |                         |               |             |             |             |         |        |                |                 |
-| [Pipefy]         |      |       |      |           |           |              |                         |               |             |             |             |         |        |                |                 |
-| [Plutio]         |      |       |      |           |           |              |                         |               |             |             |             |         |        |                |                 |
-| [ProofHub]       |      |   +   |      |           |           |              |                         |               |             |             |             |         |        |                |                 |
-| [Redmine]        |      |       |  +   |           |           |   2023-05    |                         |               |      +      |             |             |         |        | Ruby on Rails  |                 |
-| [Quire]          |  +   |   -   |  +   |     -     |           |              | Potix Corporation (US)  |               |             |             |             |    +    |   +    |                |                 |
-| [SmartSheet]     |  +   |       |      |           |           |              |                         |               |             |             |             |         |        |                |                 |
-| [SmartTask]      |  +   |       |  +   |           |           |              |                         |               |             |             |             |         |        |                |                 |
-| [Taskade]        |  +   |       |  +   |     -     |           |              |                         |       +       |      +      |      +      |      +      |    +    |   +    |                | [notes_Taskade] |
-| [Tasklog]        |      |       |      |           |           |              |                         |               |             |             |             |         |        |                |                 |
-| [Taskque]        |  +   |       |  +   |           |           |              |                         |               |             |             |             |         |        |                |                 |
-| [Taskworld]      |  +   |       |      |           |           |              |                         |               |             |             |             |         |        |                |                 |
-| [Taskwarrior]    |      |       |  +   |           |      +    |              |                         |               |             |             |             |         |        |                |                 |
-| [Things]         |      |       |      |           |           |              |                         |       -       |      -      |      -      |      +      |    -    |   +    |                |                 |
-| [Timecamp]       |  +   |       |      |           |           |              |                         |               |             |             |             |         |        |                |                 |
-| [Todoist]        |  +   |       |  +   |           |           |              |                         |               |             |             |             |         |        |                |                 |
-| [Trac]           |      |       |  +   |           |           |              |                         |               |             |             |             |         |        |     python     |                 |
-| [Trello]         |      |       |      |     -     |           |              |     Atlassian (AU)      |               |             |             |             |         |        |    Node.js     |                 |
-| [Wimi]           |      |       |      |           |           |              |                         |               |             |             |             |         |        |                |                 |
-| [Wirke]          |  +   |       |  +   |     -     |           |              |                         |       -       |             |      +      |      +      |    +    |   +    |                |                 |
-| [Workflowy]      |      |       |      |           |           |              |                         |               |             |             |             |         |        |                |                 |
-| [ZohoProjects]   |  +   |       |      |           |           |              |                         |               |             |             |             |         |        |      php       |                 |
+| name             | paid | trial | free | anonymous | open src? | last updated |          owner          | runs on Linux | runs on web | runs on Win | runs on Mac | Android | iPhone | code language  | notes            | size | SH |
+|------------------|:----:|:-----:|:----:|:---------:|:---------:|:------------:|:-----------------------:|:-------------:|:-----------:|:-----------:|:-----------:|:-------:|:------:|:--------------:|------------------|------|----|
+| [Accelo]         |  +   | @demo |  -   |     -     |     -     |     2023     |       Accelo (US)       |       +       |      +      |      +      |      +      |    ?    |   ?    |                |                  |      | -   |
+| [Airtable]       |  +   |   -   |  +   |     -     |     -     |     2023     |      Airtable (US)      |       +       |      +      |      +      |      +      |    ?    |   ?    |                |                  |      |    |
+| [AnyDo]          |  +   |   -   |  +   |     -     |     -     |     2023     |       Any.do (IL)       |       -       |             |             |             |         |        |                |                  |      |    |
+| [AppFlowy]       |      |       |  +   |           |     +     |     2024     |                         |       +       |      +      |      +      |      +      |         |        | Flutter, Rust  | login requried?  | 65MB | +  |
+| [Asana]          |  +   |   -   |  +   |     -     |     -     |              |     Asana Inc (US)      |               |      +      |             |             |         |        |                |                  |      |    |
+| [Jira]           |  +   |   -   |  +   |     -     |     -     |              |     Atlassian (AU)      |               |      +      |             |             |         |        |      java      | [notes_Jira]     | xxGB |    |
+| [Basecamp]       |  +   |   +   |  -   |     +     |     -     |              |     37signals (US)      |               |      +      |      +      |      +      |    +    |   +    |      Ruby      | [notes_Basecamp] |      |    |
+| [BaseRow]        |  +   |       |  +   |           |     +     |              |                         |               |             |             |             |         |        |   Python+JS    | airtable+SH+free |      | +  |
+| [Casual]         |  +   |   +   |  -   |     +     |           |              |   LT SQUARE LLC (UK)    |               |      +      |             |             |    +    |   +    |                |                  |      |    |
+| [Chanty]         |  +   |       |  +   |     +     |     -     |              |     Chanty inc (US)     |       +       |      +      |      +      |      +      |    +    |   +    |                | [notes_Chanty]   |      |    |
+| [ClickUp]        |  +   |       |  +   |           |     -     |              | Mango Technologies (US) |       +       |      +      |      +      |      +      |    +    |   +    |                | [notes_ClickUp]  |      |    |
+| [Clockify]       |  -   |   -   |  +   |     -     |           |              |      Cake.com (US)      |               |      +      |      +      |      +      |    +    |   +    |                |                  |      |    |
+| [Excel_sheets]   |  +   |   -   |  +   |     -     |     -     |              |   multiple providers    |       +       |      +      |      +      |      +      |         |        |                |                  |      |    |
+| [EverNote]       |      |       |      |           |           |              |                         |               |             |             |             |         |        |                |                  |      |    |
+| [Flow]           |  +   |       |  -   |           |     -     |              | Flow Technologies (US)  |               |      +      |             |             |         |        |                | [notes_Flow]     |      |    |
+| [Fossil]         |  -   |   +   |  +   |     +     |     +     |   2023-11    |    Richard Hipp (??)    |       +       |             |             |             |         |        |       C        |                  |      |    |
+| [GithubProjects] |  +   |       |      |           |           |              |     Microsoft (US)      |       -       |      +      |      -      |      -      |    -    |   -    |                | [notes_GHP]      |      |    |
+| [GanttPRO]       |  +   |       |  -   |     +     |     -     |              |   GanttPRO / DPM (US)   |               |             |             |             |    +    |   +    |                |                  |      |    |
+| [Hitask]         |  +   |       |      |     -     |           |              | Human Computer LLC (US) |               |             |             |             |    +    |   +    |                |                  |      |    |
+| [hiveCom]        |  +   |       |  +   |     -     |           |              |                         |               |             |      +      |      +      |    +    |   +    |                |                  |      |    |
+| [Infinity]       |      |       |      |           |           |              |                         |               |             |             |             |         |        |                |                  |      |    |
+| [MeisterTask]    |  +   |       |  +   |     -     |           |              |  MeisterLabs GmbH (DE)  |               |             |             |             |         |        |                |                  |      |    |
+| [MondayCom]      |      |       |      |           |           |              |                         |               |             |             |             |         |        |                |                  |      |    |
+| [MSProject]      |  +   |       |  -   |           |     -     |              |     Microsoft (US)      |               |             |             |             |         |        |                |                  |      |    |
+| [MyCollab]       |      |   +   |  +   |           |     +     |     2019     |                         |               |             |             |             |         |        |      java      |                  |      |    |
+| [NiftyPM]        |      |       |      |           |           |              |                         |               |             |             |             |         |        |                |                  |      |    |
+| [Notion]         |  +   | @demo |  +   |     -     |           |   2023-04    |    Notion Labs (US)     |               |      +      |      +      |      +      |    +    |   +    |                | [notes_Notion]   |      |    |
+| [Nozbe]          |      |   +   |      |           |           |              |                         |       -       |      ?      |      +      |      +      |    ?    |   ?    |                |                  |      |    |
+| [nocodb]         |      |       |      |           |           |              |                         |               |             |             |             |         |        | typescript/vue | [notes_nocodb]   |      |    |
+| [nTask]          |      |       |      |           |           |              |                         |               |             |             |             |         |        |                |                  |      |    |
+| [OneNote]        |      |       |      |           |           |              |     Microsoft (US)      |       -       |      ?      |      +      |      ?      |         |        |                |                  |      |    |
+| [OpenProject]    |      |       |      |           |     +     |              |                         |               |             |             |             |         |        |                |                  |      |    |
+| [Paymo]          |      |       |      |           |           |              |                         |               |             |             |             |         |        |                |                  |      |    |
+| [Pipefy]         |      |       |      |           |           |              |                         |               |             |             |             |         |        |                |                  |      |    |
+| [Plutio]         |  +   |       |  -   |     -     |     -     |              |     Plutio LTD (UK)     |               |             |             |             |         |        |                |                  |      |    |
+| [ProofHub]       |      |   +   |      |           |           |              |                         |               |             |             |             |         |        |                |                  |      |    |
+| [Redmine]        |      |       |  +   |           |           |   2023-05    |                         |               |      +      |             |             |         |        | Ruby on Rails  |                  |      |    |
+| [Quire]          |  +   |   -   |  +   |     -     |           |              | Potix Corporation (US)  |               |             |             |             |    +    |   +    |                |                  |      |    |
+| [SmartSheet]     |  +   |       |      |           |           |              |                         |               |             |             |             |         |        |                |                  |      |    |
+| [SmartTask]      |  +   |       |  +   |           |           |              |                         |               |             |             |             |         |        |                |                  |      |    |
+| [Taskade]        |  +   |       |  +   |     -     |           |              |                         |       +       |      +      |      +      |      +      |    +    |   +    |                | [notes_Taskade]  |      |    |
+| [Tasklog]        |      |       |      |           |           |              |                         |               |             |             |             |         |        |                |                  |      |    |
+| [Taskque]        |  +   |       |  +   |           |           |              |                         |               |             |             |             |         |        |                |                  |      |    |
+| [Taskworld]      |  +   |       |      |           |           |              |                         |               |             |             |             |         |        |                |                  |      |    |
+| [Taskwarrior]    |      |       |  +   |           |     +     |              |                         |               |             |             |             |         |        |                |                  |      |    |
+| [Things]         |      |       |      |           |           |              |                         |       -       |      -      |      -      |      +      |    -    |   +    |                |                  |      |    |
+| [Timecamp]       |  +   |       |      |           |           |              |                         |               |             |             |             |         |        |                |                  |      |    |
+| [Todoist]        |  +   |       |  +   |           |           |              |                         |               |             |             |             |         |        |                |                  |      |    |
+| [Trac]           |      |       |  +   |           |           |              |                         |               |             |             |             |         |        |     python     |                  |      |    |
+| [Trello]         |      |       |      |     -     |           |              |     Atlassian (AU)      |               |             |             |             |         |        |    Node.js     |                  |      |    |
+| [Wimi]           |      |       |      |           |           |      0       |                         |               |             |             |             |         |        |                |                  |      |    |
+| [Wirke]          |  +   |       |  +   |     -     |           |              |                         |       -       |             |      +      |      +      |    +    |   +    |                |                  |      |    |
+| [Workflowy]      |      |       |      |           |           |              |                         |               |             |             |             |         |        |                |                  |      |    |
+| [ZohoProjects]   |  +   |       |      |           |           |              |                         |               |             |             |             |         |        |      php       |                  |      |    |
+| x empty          |      |       |      |           |           |              |                         |               |             |             |             |         |        |                |                  |      |    |
 
+SH=self-hosted
 Redbooth, Taskworld, Wunderlist, Mindomo, Workfront, Zenkit, Backlog, Forecast, PlanviewCarizen, ProProfsProject, Plytix, Freedcamp, Leantime, Taiga
-Categories missing - Has Api, notifications, 
+Categories missing - Has Api, notifications,
 
 
 
@@ -63,12 +68,16 @@ Categories missing - Has Api, notifications,
 [notes_Airtable]: # ''
 [AnyDo]: https://www.any.do/en 'Any.do'
 [notes_AnyDo]: # ''
-[Asana]: https://asana.com/ 'Asana'
+[AppFlowy]: https://www.appflowy.io 'AppFlowy'
+[notes_AppFlowy]: # 'somewhat strange, appimage - login with email or "anonymous" session. Kanban view, calendar view, typical wiki notes'
+[[Asana]: https://asana.com/ 'Asana'
 [notes_Asana]: # ''
 [Jira]: https://www.atlassian.com/software/jira 'Jira'
 [notes_Jira]: # 'quite popular in corpos, also self hosted, but no'
 [Basecamp]: https://basecamp.com/ 'Basecamp'
-[notes_Basecamp]: # ''
+[notes_Basecamp]: # 'Tested briefly, initially somewhat confusing, a bit cluttered too'
+[BaseRow]: https://baserow.io/ 'BaseRow'
+[notes_BaseRow]: # 'https://gitlab.com/baserow/baserow'
 [Casual]: https://casual.pm/ 'Casual'
 [notes_Casual]: # ''
 [Chanty]: https://chanty.com/ 'Chanty'
@@ -102,9 +111,9 @@ Categories missing - Has Api, notifications,
 [MyCollab]: https://github.com/MyCollab/mycollab 'MyCollab'
 [notes_MyCollab]: # ''
 [NiftyPM]: https://niftypm.com/ 'Nifty'
-[notes_NiftyPM]: # ''
+[notes_NiftyPM]: # '  gantt chart view, chat sadly, workflow view  '
 [Notion]: https://notion.so/ 'Notion'
-[notes_Notion]: # ''
+[notes_Notion]: # 'very annoying AI fill bullshit - not easy to disable'
 [Nozbe]: https://nozbe.com/ 'Nozbe'
 [notes_Nozbe]: # ''
 [nocodb]: https://https://github.com/nocodb/nocodb/ 'nocodb'
@@ -288,7 +297,9 @@ Sth for one of my own usecases:
 | features: wiki pages                             | -       |    +     |         |            |          |          |            |
 | features: attachments [^1]                       | -       |          |         |     +      |          |    +     |            |
 | features: support 2FA                            | opt     |          |         |     +      |          |          |            |
-| features: Guest Accounts                         | opt     |          |         |            |          |    +     |            |
+| features: SAML Single Sign-On                    |         |          |         |            |          |          |            |
+| features: roles and permissions                  |         |          |         |            |          |          |            |
+| features: Guest Accounts - limits,restrictions   | opt     |          |         |            |          |    +     |            |
 | features: view as a list / table                 | opt     |          |         |            |          |          |            |
 | features: view by completion                     | opt     |          |         |            |          |          |            |
 | features: view by deadline / timeline            | opt     |          |         |            |          |          |            |

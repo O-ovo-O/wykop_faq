@@ -277,8 +277,9 @@ albo wchodzić w bezsensowne dyskusje.
     - oferia.pl
     - olx.pl
     - pracuj.pl  # ciekawostka, ogloszenie kosztuje (min?) 1k pln
-    - rocketjobs.pl
     - praca.gratka.pl
+    - rocketjobs.pl
+    - theprotocol.it
   - AT: # Austria
     - karriere.at
     - kununu.com
@@ -499,6 +500,7 @@ albo wchodzić w bezsensowne dyskusje.
 
   - AT: willhaben.at
   - DE: ebay kleinanzeigen, wg-gesucht, immobilienscout24  i inne ciekawostki umweltzone.pl/strefy
+  - CA: kijiji.ca, Rentals.ca, RentFaster.ca, zillow.com
   - CZ: sreality.cz bezrealitky.cz
   - ES: idealista.es
   - FR: app.dvf.etalab.gouv.fr  Leboncoin.fr  seloger.com

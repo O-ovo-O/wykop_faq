@@ -59,3 +59,5 @@ z siatka/elastomerem, lub materiałowe
  - https://www.wykop.pl/wpis/65458511/stabilnosc-biurka-elektrycznego-na-pelnym-wyciagu-/
  - https://www.wykop.pl/wpis/54622949/biurko-regulowane-elektrycznie-zostawiam-dla-potom/
  - https://wykop.pl/wpis/73840283/mirki-poszukuje-stelaz-do-biurka-podnoszenego-elek
+ - https://wykop.pl/wpis/76124723/szukam-biurka-elektrycznego-o-wymiarach-blatu-100x
+ - https://wykop.pl/wpis/76256293/homeoffice-i-pewnie-tez-programista15k-tldr-biurko

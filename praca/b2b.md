@@ -21,7 +21,7 @@ https://poradnikprzedsiebiorcy.pl/-jednoosobowa-dzialalnosc-gospodarcza-krok-po-
 https://kpir50.pl/samozatrudnienie/
 https://poradnikprzedsiebiorcy.pl
 
-Uwaga: mocno promowane są m. innymi tam firmy księgowe (reflinki itd): Infakt, wFirma, iFirma - cena to ok 200zł (?) rocznie (do X faktur).
+Uwaga: mocno promowane są m. innymi tam firmy księgowe (reflinki itd): Infakt, wFirma, iFirma - cena to ok 200zł (?) rocznie (do X faktur). systim.pl
 Za godzinę księgowość bierze 100-200zl. Nie mam danych statystycznych.
 
 I dodakowo w pakiecie (często) bezpłatny urlop, praktycznie brak L4, niższe składki na emeryturę, śmiesznie niskie stawki w przypadku urlopu rodzicielskiego (bo przecież każdy "przedsiębiorca" płaci minimalne możliwe składki ZUS), obowiązek użerania się z księgowością i skarbówką, wypowiedzenia nawet z dnia na dzień (a potem ewentualne dochodzenie swoich praw w długotrwałych postępowaniach cywilnych) czy wreszcie absurdalnie wysoka w porównaniu z UoP odpowiedzialność finansowa w przypadku błędów
@@ -101,13 +101,17 @@ https://www.parp.gov.pl/component/site/site/kursy-online
 http://www.vademecumpodatnika.pl/artykul_narzedziowa,1259,203,21135,ulga-dla-mlodych-przy-dzialalnosci-gospodarczej.html
 
 
+siedziba:
+
+- https://biznescentrum.com/siedziba-firmy-w-domu-rodzicow/
+- siedziby wirtualne
 
 
 
 
-
-
-
+W przypadku gdy ktos chce sie ubezpieczyc sam - nie pracujac np na etacie
+- https://www.nfz.gov.pl/dla-pacjenta/ubezpieczenia-w-nfz/jak-sie-ubezpieczyc-dobrowolnie/
+- https://www.nn.pl/blog/posts/2024/ubezpieczenie_zdrowotne_bez_pracy.html
 
 
 

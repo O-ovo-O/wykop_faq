@@ -1,12 +1,18 @@
-stackoverflow.com/help/how-to-ask
-dontasktoask.com
-nohello.net
+https://stackoverflow.com/help/how-to-ask
+https://dontasktoask.com
+https://nohello.net
+https://lmgtfy.com/
+
+https://www.numbeo.com/cost-of-living/
 
 
-
-
+- Antydepresyjny Telefon Zaufania ITAKA (czynny w poniedziałki i wtorki w godz. 15-20) – tel. 22 484 88 01
+- Antydepresyjny Telefon Forum Przeciw Depresji (w każdą środę i czwartek w godz. 17-19) – tel. 22 594 91 00
+- Telefon zaufania dla osób dorosłych w kryzysie emocjonalnym (od poniedziałku do piątku w godz. 14-22) – tel. 116 123
+- Telefon Zaufania dla Mężczyzn (w każdy poniedziałek, wtorek i środę w godz. 17-19 oraz w czwartki w godz. 19-21) – tel. 608 271 402
+- Telefon Zaufania dla Dzieci i Młodzieży (codziennie przez całą dobę) – tel. 116 111
 https://wykop.pl/link/7043395/telefon-zaufania-dla-mezczyzn
-
+https://masculinum.org/fundacja/
 https://anonymousplanet.org/guide.html
 
 

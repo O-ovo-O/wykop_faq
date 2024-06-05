@@ -179,3 +179,13 @@ Zgromadzone miedzy innymi z:
 - JLCPCB
 - PCBWAY
 
+# ciekawostki-o-zasilaczach-usb-c-pd-itd
+
+https://wykop.pl/link/7432319/zasilacze-i-ladowarki-usb-co-to-jest-gan-czyli-ugreen-kontra-baseus
+https://www.youtube.com/watch?v=ZI2mZAtxTZ0
+
+Dekompozytor
+https://www.youtube.com/watch?v=taeFcuVDg7g
+
+TestHubPL
+https://www.youtube.com/watch?v=YpV_j_pwo_0
