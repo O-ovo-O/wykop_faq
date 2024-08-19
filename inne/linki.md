@@ -5,6 +5,8 @@ https://lmgtfy.com/
 
 https://www.numbeo.com/cost-of-living/
 
+https://projects.haykranen.nl/java/   # enterprisify your name generator ;)
+
 
 - Antydepresyjny Telefon Zaufania ITAKA (czynny w poniedziałki i wtorki w godz. 15-20) – tel. 22 484 88 01
 - Antydepresyjny Telefon Forum Przeciw Depresji (w każdą środę i czwartek w godz. 17-19) – tel. 22 594 91 00
@@ -14,6 +16,11 @@ https://www.numbeo.com/cost-of-living/
 https://wykop.pl/link/7043395/telefon-zaufania-dla-mezczyzn
 https://masculinum.org/fundacja/
 https://anonymousplanet.org/guide.html
+
+
+# tymczasowe nr telefonow
+juicysms
+online.sim
 
 
 

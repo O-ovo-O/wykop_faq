@@ -70,7 +70,7 @@ Categories missing - Has Api, notifications,
 [notes_AnyDo]: # ''
 [AppFlowy]: https://www.appflowy.io 'AppFlowy'
 [notes_AppFlowy]: # 'somewhat strange, appimage - login with email or "anonymous" session. Kanban view, calendar view, typical wiki notes'
-[[Asana]: https://asana.com/ 'Asana'
+[Asana]: https://asana.com/ 'Asana'
 [notes_Asana]: # ''
 [Jira]: https://www.atlassian.com/software/jira 'Jira'
 [notes_Jira]: # 'quite popular in corpos, also self hosted, but no'

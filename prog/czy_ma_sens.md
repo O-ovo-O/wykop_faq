@@ -265,14 +265,13 @@ albo wchodzić w bezsensowne dyskusje.
   - ycombinator news # na początku miesiąca
   - ziprecruiter.com
   - znajomi :) czy grupki na portalach społecznościowych
-  - PL: # Polska
+  - PL: # Polska - o ile nie ma powyżej
     - bulldogjob.pl
     - fixly.pl
     - goldenline.com
     - infopraca.pl
     - jobsforgeek.com
     - jobted.pl
-    - justjoin.it
     - nofluffjobs.com
     - oferia.pl
     - olx.pl
@@ -292,6 +291,7 @@ albo wchodzić w bezsensowne dyskusje.
   - CZ: # Czechy
     - expats.cz/jobs
   - DE: # Niemcy
+    - arbeitsagentur.de/jobsuche
     - berlinstartupjobs.com/de
     - de.jooble.org
     - germantechjobs.de
@@ -330,8 +330,8 @@ albo wchodzić w bezsensowne dyskusje.
   - USA:
     - DevITjobs.us
 
-  - itradar.io # agregator
-  - reddit # gdzieś są, ale się trzeba naszukać
+  - itradar.io   # agregator
+  - reddit       # gdzieś są, ale się trzeba naszukać
   - sprawdzic: fiverr freelancer.com  gameindustry.biz  gamejobs bgsf.com/instaff/
 
   - job-hunt.org
@@ -342,6 +342,10 @@ albo wchodzić w bezsensowne dyskusje.
   - lnkd.in/giHGeCCw
   - remotely.jobs
   - rustwizards.com
+
+  - skillshot.pl
+  - 80.lv/jobs
+  - gamejobs.co
 
 
 - https://careers.cern/alljobs
@@ -392,6 +396,7 @@ albo wchodzić w bezsensowne dyskusje.
   - hackaday.com
   - hackthebox.com
   - osintme.com
+  - app.osint.industries
   - overthewire.org
   - pauljerimy.com/security-certification-roadmap
   - pwn.college
@@ -400,6 +405,7 @@ albo wchodzić w bezsensowne dyskusje.
   - David Bombal. IppSec. Chris Greer. NetworkChuck
   - jakieś tam losowe kanały YT: Kacper Szukrek, GynvaelColdwind, SekurakTV, HackerSploit, John Hammond, LiveOverFlow, Computerphile
   - YT Hak5, Null Byte. Zaufana Trzecia Strona, Adam Haertle, Niebezpiecznik
+  - od 0 do pentestera, 1753c, Sekurak,tryhackme, hackthebox, discord OffSec
 
   ### testowanie
 
@@ -499,9 +505,10 @@ albo wchodzić w bezsensowne dyskusje.
 * nieruchomości, mieszkania, pokoje, wynajem
 
   - AT: willhaben.at
-  - DE: ebay kleinanzeigen, wg-gesucht, immobilienscout24  i inne ciekawostki umweltzone.pl/strefy
+  - DE: ebay kleinanzeigen, wg-gesucht, immobilienscout24, immonet.de  i inne ciekawostki umweltzone.pl/strefy
   - CA: kijiji.ca, Rentals.ca, RentFaster.ca, zillow.com
   - CZ: sreality.cz bezrealitky.cz
+  - DK: bolig.dk
   - ES: idealista.es
   - FR: app.dvf.etalab.gouv.fr  Leboncoin.fr  seloger.com
   - IR: daft.ie
@@ -562,6 +569,18 @@ albo wchodzić w bezsensowne dyskusje.
   - cowork.czest.pl
   - cospot.pl
   - alejabielany.pl/pl-pl/stores/cowork # Wrocław
+
+## co to jest workation? co to jest Unlimited PTO
+
+- wyjazd z ludzmi z pracy za ktory placi firma, cos jak skrzyzowanie wakacji i pracy
+- czasem wyjscia wieczorem by sie razem pobawic
+
+- unlimited pto - unlimited paid time off
+- bierzesz ponoc tyle platnego urlopu ile chcesz
+- w praktyce nie za duzo, bo zawsze moga cie zwolnic ;)
+
+
+
 
 ## serwisy do poczytania
 

@@ -61,3 +61,6 @@ z siatka/elastomerem, lub materiałowe
  - https://wykop.pl/wpis/73840283/mirki-poszukuje-stelaz-do-biurka-podnoszenego-elek
  - https://wykop.pl/wpis/76124723/szukam-biurka-elektrycznego-o-wymiarach-blatu-100x
  - https://wykop.pl/wpis/76256293/homeoffice-i-pewnie-tez-programista15k-tldr-biurko
+ - https://wykop.pl/wpis/77182043/jakie-biurko-do-pracy-zdalnej-polecicie-w-rozsadny
+ - https://wykop.pl/wpis/77260969/mireczki-pracuje-z-domu-szukam-dla-siebie-biurka-m
+ - https://wykop.pl/wpis/77261021/mircy-potrzebuje-odnowic-stanowisko-w-piwnicy-stel

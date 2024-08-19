@@ -117,6 +117,7 @@ Niemiecki:
 - german.net/reading/
 - thegermanproject.com/stories
 - deutsch-perfekt.com/#feature-1601538057
+- https://lanz-precht.podigee.io
 
  Bęza repetytorium gramatyki dla średnio/zaawansowanych, Menschen, DaF in Unternehmen
 
@@ -128,7 +129,7 @@ Koreański:
 Polski:
 
 - https://aniakubica.com/kursy-internetowe/
-- 
+- polski.info
 
 
 
@@ -156,4 +157,8 @@ https://www.efset.org/cefr/
 
 	http://www.c-test.de/deutsch/index.php?lang=de&content=online_test_english&section=ctest
 	https://www.th-koeln.de/en/international_office/placement-tests_60158.php
-	
+
+	testdaf: https://www.testdaf.de/de/
+	Telc
+	Goethe certificate
+	DSH # Deutschen Sprachprüfung für den Hochschulzugang

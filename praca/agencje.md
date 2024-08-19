@@ -17,14 +17,18 @@
 | https://m.olx.pl/oferta/praca/ |            |                       |                        |                                           |                    |            |                   |
 | SBA flex                       |            |                       |                        |                                           |                    |            |                   |
 | e&a z Opola                    |            |                       |                        |                                           |                    |            |                   |
-| covebo                         |            |                       |                        |                                           |                    |            |                   |
+| covebo                         | NL         | nr BSN?               |                        |                                           |                    |            |                   |
 | kraft racibórz/ team24         |            |                       |                        |                                           |                    |            |                   |
 | Kirichgruppe                   |            |                       |                        |                                           |                    |            |                   |
 | limnuswork                     |            |                       |                        |                                           |                    |            |                   |
 | personal24                     | Szwajcaria |                       |                        |                                           |                    |            |                   |
-|                                |            |                       |                        |                                           |                    |            |                   |
-|                                |            |                       |                        |                                           |                    |            |                   |
-|                                |            |                       |                        |                                           |                    |            |                   |
+| Gemeente                       | NL         |                       |                        |                                           |                    |            |                   |
+| Manpower                       |            |                       |                        |                                           |                    |            |                   |
+| addeco                         |            |                       |                        |                                           |                    |            |                   |
+| silverhand                     |            |                       |                        |                                           |                    |            |                   |
+| hr xperience                   |            |                       |                        |                                           |                    |            |                   |
+| randstad                       |            |                       |                        |                                           |                    |            |                   |
+| Gi Group                       |            |                       |                        |                                           |                    |            |                   |
 |                                |            |                       |                        |                                           |                    |            |                   |
 
 # jakieś roboty
@@ -32,8 +36,9 @@
 - hotele/hostele (może być konieczna znajomość języka), jakiś housekeeping (sprzątanie), prace w restaurcji,
 - magazyny, praca na farmie u gospodarza
 - szparagi, truskawki i inne zbieranie, tulipany
-- order picker
+- order picker, pakowanie
 - budowa - malowanie, elektryka, hydraulika itd
+- zmywak
 
 # jakies terminy które musisz sobie ogarnac, nic mi nie mowia
 
@@ -41,6 +46,9 @@
 - kasa, godziny, stabilność
 - płacisz za coś agencji, za pokój czy inne mieszkanie, ubezpieczenie zdrowotne?
 - dsomgi00: "Imo jakakolwiek agencja gdzie masz "polska umowa" i "niewymagany język niemiecki" to proszenie się o kłopoty i patole na zakwaterowaniu."
+- czy masz zakwaterowanie, wyżywienie, ubezpieczenie, dojazd do pracy (lub ktos dowozi)
+- czy masz zagwarantowane iles godzin czy jesli nie ma pracy = nie ma pieniedzy,
+- czy odciagaja kase za zakwaterowanie, czy agencja urywa cos z godzin, czy robi walki na podatku(?), 
 
 
 # Tagi na wykopie, może zmniejszy to spam:
@@ -50,7 +58,9 @@
 
 # Różne linki
 
-* https://www.numbeo.com/cost-of-living/
+
+* gdzie zgłosić nadużycia agencji w NL: nlarbeidsinspectie.nl/
+* gdzie sprawdzać porównanie kosztów życia: https://www.numbeo.com/cost-of-living/
 
 - https://wykop.pl/link/7348477/
 - https://wykop.pl/wpis/72861163/trzeba-sie-meldowac-w-holandii-jak-mieszkam-w-domu
@@ -72,6 +82,8 @@
 - https://wykop.pl/wpis/71928691/holandia-emigracja-dania-ciezko-znalezc-jakies-pra
 - https://wykop.pl/wpis/72046199/pracazagranica-jakie-sa-teraz-wiodace-agencje-w-kt
 - https://wykop.pl/wpis/73911105/lepszy-kraj-na-emigracje-przez-agencje-przegryw-em
+- https://wykop.pl/wpis/76589967/czy-da-rade-wyzyc-i-cos-zaoszczedzic-w-norwegii-ze
+- https://wykop.pl/wpis/77308003/poleci-ktos-jakas-dobra-agencje-pracy-w-niemczech-
 
 
 Trzeba jakos skutecznie to odfiltrowywac, bo sie nie daje czytac wykopu
