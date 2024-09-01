@@ -5,14 +5,14 @@ natomiast przydatna może być tabelka.
 
 Dodatkowo, jakieś zebrane losowo linki:
 
-https://www.wykop.pl/wpis/69892077/czytniki-pocketbook-piekna-sprawa-producent-daje-g/
-https://swiatczytnikow.pl/
-https://cyfranek.wordpress.com/
-https://www.wykop.pl/wpis/70011415/mirki-planuje-kupic-porzadny-czytnik-ebook-mozecie/
-https://forum.eksiazki.org
-https://comparisontabl.es/kobo-e-readers/
-https://www.the-ebook-reader.com/ebook-reader-comparison.html
-https://en.wikipedia.org/wiki/Comparison_of_e-readers
+- <https://www.wykop.pl/wpis/69892077/czytniki-pocketbook-piekna-sprawa-producent-daje-g/>
+- <https://swiatczytnikow.pl/>
+- <https://cyfranek.wordpress.com/>
+- <https://www.wykop.pl/wpis/70011415/mirki-planuje-kupic-porzadny-czytnik-ebook-mozecie/>
+- <https://forum.eksiazki.org>
+- <https://comparisontabl.es/kobo-e-readers/>
+- <https://www.the-ebook-reader.com/ebook-reader-comparison.html>
+- <https://en.wikipedia.org/wiki/Comparison_of_e-readers>
 
 
 
@@ -34,7 +34,7 @@ https://en.wikipedia.org/wiki/Comparison_of_e-readers
 
 
 | id | nazwa       | model        | B1   | B2   | B3   | audiobooki? | mobi   | ebub       | note | pdf | reklamy? | fb2 | docx | xps | recenzja           |
-| -- | ----------- | :----------: | :--: | :--: | :--: | ------      | ------ | ---------- | -    | --  | ---      |     |      |     | :----------:       |
+| -- | ----------- | :----------: | :--: | :--: | :--: | ------      | ------ | ---------- | -    | --  | ---      | --- | ---- | --- | :----------:       |
 | 01 | Supernote   | A6X2 Nomad   |      |      |      |             |        |            |      |     |          |     |      |     | [rec1], 2024-01-04 |
 | 02 | Kindle      |              |      |      |      |             |        |            |      |     |          |     |      |     |                    |
 | 03 |             |              |      |      |      |             |        |            |      |     |          |     |      |     |                    |
@@ -45,4 +45,4 @@ https://en.wikipedia.org/wiki/Comparison_of_e-readers
 - storytel, bookbeat, empik go, audioteka
 B1, B2, B3 - wsparcie dla Bibliotek: Empik,
 
-.. rec1: http://cyfranek.booklikes.com/post/6073851/premiera-supernote-a6x2-notatnik-z-wymienna-bateria
+[rec1]: http://cyfranek.booklikes.com/post/6073851/premiera-supernote-a6x2-notatnik-z-wymienna-bateria
