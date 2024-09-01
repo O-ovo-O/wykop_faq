@@ -18,6 +18,12 @@ https://masculinum.org/fundacja/
 https://anonymousplanet.org/guide.html
 
 
+
+
+https://mapainternetow.pl/maps/1
+
+
+
 # tymczasowe nr telefonow
 juicysms
 online.sim

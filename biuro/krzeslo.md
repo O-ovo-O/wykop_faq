@@ -52,3 +52,40 @@ Natomiast jak ma być do 3k to możesz przymierzyć np.:
 - Bejot: mate, corr, milla, double, eleven.
 
 https://ergobiuro.pl/pl/p/Fotel-obrotowy-LightUp-250SL-P59PU-Evo-WYSYLKA-24h/598
+
+
+ Próbuję znaleźć porządne krzesło. Znalazłem Zhuo Challenger, które jest polecane przez gości od zdrowego kręgosłupa, w recenzjach opinie są dobre, ale jest to również jedno z najdroższych krzeseł w wielu sklepach. Ktoś powiedział, że GT Omega XAYO Series to właściwie to samo krzesło, ale znacznie tańsze. Zobaczyłem ten komentarz, ale został szybko usunięty (xD), więc nikt nie mógł temu zaprzeczyć.
+
+
+
+Kinnarps:
+- Showroom - ul. Szwedzka 5, Bielany Wrocławskie
+
+Steelcase:
+- WES.expert - ul. Czarnieckiego 1, 53-650 Wrocław
+
+Flokk:
+- Balma - ul. Młynarska 8A, 51-116 Wrocław
+- Aco Desing - ul. Brylantowa 16, Wrocław
+
+Herman Miller:
+- Bakata Desing - al. Hallera 78/5, Wrocław
+
+Nowy Styl:
+- Showroom - ul. Grabarska 2, Wrocław
+- WES.expert - ul. Czarnieckiego 1/29, Wrocław
+- Bakata Desing - al. Hallera 78/5, Wrocław
+- Pokker Office - ul. Wybrzeże Wyspiańskiego 14-15, Wrocław
+- Carriere Desing - ul. Inżynierska 25a, Wrocław
+- Aco Desing - ul. Brylantowa 16, Wrocław
+
+Profim:
+- WES.expert - ul. Czarnieckiego 1/29, Wrocław
+- Balma - ul. Młynarska 8A, 51-116 Wrocław
+- Kornak - ul. Żmigrodzka 81-83, Wrocław
+- HOOF Concept - ul. Inowrocławska 21B, Wrocław
+- Pokker Office - ul. Wybrzeże Wyspiańskiego 14-15, Wrocław
+- Lobos - ul. Skierniewicka 18, Wrocław
+- Aco Desing - ul. Brylantowa 16, Wrocław
+
+

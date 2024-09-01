@@ -17,6 +17,7 @@
   - [czy warto?](prog/czy_ma_sens.md#czy_warto)
   - [gdzie szukać pracy/zleceń?](prog/czy_ma_sens.md#gdzie_szukac)
 
+- cośtam o czytnikach ebooków - books
 
 
 - Dawne i obecne "podobne" serwisy
