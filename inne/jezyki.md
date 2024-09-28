@@ -1,28 +1,35 @@
-| nazwa         | fiszki/słówka | zdania | wymowa/audio | chat z nativami | rozmowy/vid z nativami | darmowe | płatne | FOSS | anonymous? | uwagi | ceryfikat? |
-|---------------|:-------------:|:------:|:------------:|:---------------:|:----------------------:|:-------:|:------:|:----:|:----------:|:-----:|------------|
-| Anki          |       +       |   +    |      ?       |        -        |           -            |    +    |   -    |  +?  |     +      |       |            |
-| Babbel        |               |        |              |                 |                        |         |        |      |            |       |            |
-| Ba ba dum     |       +       |        |      +       |                 |                        |    +    |        |      |     +      |   2   |            |
-| Busuu         |       +       |   +    |      ?       |        -        |           -            |         |        |      |            |       |            |
-| Cambly        |               |        |              |                 |                        |         |        |      |            |       |            |
-| Clozemaster   |       +       |   ?    |      ?       |                 |                        |    ?    |        |      |            |       |            |
-| Drops         |       +       |        |              |        -        |           -            |    +    |   +    |      |            |       |            |
-| Duolingo      |       +       |   -    |              |        -        |           -            |    +    |   +    |      |            |   1   |            |
-| Etutor        |               |        |              |                 |                        |         |   +    |      |            |       |            |
-| Fiszkoteka    |               |        |              |                 |                        |         |   +    |      |            |   3   |            |
-| HelloTalk     |               |        |              |                 |                        |         |   +    |      |            |       |            |
-| Italki        |               |        |              |                 |                        |         |        |      |            |       |            |
-| LingoDeer     |               |        |              |                 |                        |         |        |      |            |       |            |
-| LinDuo        |       +       |        |      +       |                 |                        |    +    |   +    |      |            |       |            |
-| lingbe.com    |               |        |              |        +        |                        |         |        |      |            |       |            |
-| Memrise       |       +       |   +    |      -       |        -        |           -            |         |        |      |            |       |            |
-| Mondly        |               |        |              |                 |                        |         |        |      |            |       |            |
-| Pimsleur.com  |               |        |              |                 |                        |         |   +    |  -   |  -, email  |       |            |
-| Preply.com    |               |        |              |                 |           +            |    -    |   +    |  -   |            |       |            |
-| Rosetta Stone |               |        |              |                 |                        |         |   +    |      |            |       |            |
-| Seedlang ?    |               |        |              |                 |                        |         |        |      |            |       |            |
-| Tandem        |       -       |   -    |      -       |        +        |           +            |    +    |   +    |  -   |  -,email   |       |            |
-| youglish.com  |       -       |   -    |      +       |        -        |           -            |    +    |   -    |      |     +      |   4   | -          |
+| Item          | flashcards/words? | sentences/gaps to fill | pronunciation/audio | chat with natives | audio chat with natives | free? | paid? | FOSS? | anonymous? | notices | certificate? |
+|---------------|:-----------------:|:----------------------:|:-------------------:|:-----------------:|:-----------------------:|:-----:|:-----:|:-----:|:----------:|:-------:|:------------:|
+| Anki          |         +         |           +            |          ?          |         -         |            -            |   +   |   -   |  +?   |     +      |         |              |
+| Babbel        |                   |                        |                     |                   |                         |       |       |       |            |         |              |
+| Ba ba dum     |         +         |                        |          +          |                   |                         |   +   |       |       |     +      |    2    |              |
+| Busuu         |         +         |           +            |          ?          |         -         |            -            |       |       |       |            |         |              |
+| Cambly        |                   |                        |                     |                   |                         |       |       |       |            |         |              |
+| Clozemaster   |         +         |           ?            |          ?          |                   |                         |   ?   |       |       |            |         |              |
+| Chatterbug    |                   |                        |                     |         +         |                         |   +   |   +   |   -   |     -      |         |              |
+| Drops         |         +         |                        |                     |         -         |            -            |   +   |   +   |       |            |         |              |
+| Duolingo      |         +         |           -            |                     |         -         |            -            |   +   |   +   |       |            |    1    |              |
+| Etutor        |                   |                        |                     |                   |                         |       |   +   |       |            |         |              |
+| Fiszkoteka    |                   |                        |                     |                   |                         |       |   +   |       |            |    3    |              |
+| Falou         |                   |                        |                     |                   |                         |       |   +   |       |            |    3    |              |
+| Grammatisch   |                   |                        |                     |                   |                         |       |       |       |            |         |              |
+| HelloTalk     |                   |                        |                     |                   |                         |       |   +   |       |            |         |              |
+| Italki        |                   |                        |                     |                   |                         |       |       |       |            |         |              |
+| LingoDeer     |                   |                        |                     |                   |                         |       |       |       |            |         |              |
+| Langster      |                   |                        |                     |                   |                         |       |       |       |            |         |              |
+| Linguee       |                   |                        |                     |                   |                         |       |       |       |            |         |              |
+| LinDuo        |         +         |                        |          +          |                   |                         |   +   |   +   |       |            |         |              |
+| lingbe.com    |                   |                        |                     |         +         |                         |       |       |       |            |         |              |
+| Memrise       |         +         |           +            |          -          |         -         |            -            |       |       |       |            |         |              |
+| Mondly        |                   |                        |                     |                   |                         |       |       |       |            |         |              |
+| Pimsleur.com  |                   |                        |                     |                   |                         |       |   +   |   -   |  -, email  |         |              |
+| Preply.com    |                   |                        |                     |                   |            +            |   -   |   +   |   -   |            |         |              |
+| Rosetta Stone |                   |                        |                     |                   |                         |       |   +   |       |            |         |              |
+| Seedlang ?    |                   |                        |                     |                   |                         |       |       |       |            |         |              |
+| Tandem        |         -         |           -            |          -          |         +         |            +            |   +   |   +   |   -   |  -,email   |         |              |
+| youglish.com  |         -         |           -            |          +          |         -         |            -            |   +   |   -   |       |     +      |    4    |      -       |
+| wordbit       |                   |                        |                     |                   |                         |       |       |       |            |         |              |
+
 
 Poniżej:
 1. TODO
@@ -38,10 +45,6 @@ Poniżej:
 
 TODO spr:
 linguee
-Langster
-Grammatisch
-Falou
-Chatterbug
 Deutsch lernen durch Hören
 
 

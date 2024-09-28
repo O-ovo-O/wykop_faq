@@ -51,6 +51,7 @@ github.com/yangshun/front-end-interview-handbook
 
 https://www.wykop.pl/wpis/63004349/  # Python
 https://www.wykop.pl/wpis/30616039 # Python
+https://klusiewiczandrzej.blogspot.com/2019/06/pierwsze-wydanie-python-na-luzie.html # 
 
 https://www.wykop.pl/wpis/9719000/   # C++
 https://www.wykop.pl/wpis/45743585   # C++
@@ -232,6 +233,7 @@ albo wchodzić w bezsensowne dyskusje.
   - nomadlist.com
   - nomady.work
   - otta.com/
+  - opensourcejobhub.com
   - peopleperhour.com
   - reed.co.uk
   - relevantjobs.com/
@@ -308,6 +310,8 @@ albo wchodzić w bezsensowne dyskusje.
     - thelocal.fr/jobs
     - astekjob.fr
     - agencje: Manpower, Ranstad, Ras, Adecco, Synergie, Samsic
+  - FI:
+    - koodiklinikka.fi
   - IR/UK:
     - irishjobs.ie
     - devitjobs.uk
@@ -530,7 +534,7 @@ albo wchodzić w bezsensowne dyskusje.
   - Austria: https://www.wykop.pl/link/5801629/ama-zycie-na-emigracji-w-austrii-salzburg-miasto-mozarta/ (2020)
   - Bali: #baliwpjoterze
   - Belgia: https://wykop.pl/link/2652785/ama-mieszkam-i-ucze-sie-w-belgii-juz-od-13-lat/ https://wykop.pl/wpis/74785407/
-  - Chiny: #matiwojwchinach i LuckySrike https://www.youtube.com/watch?v=-3prcjaFcUs&list=PLOAXDMnFNrmnJmuXLGT_yXvy8ioPTKDcQ
+  - Chiny: #matiwojwchinach, LuckySrike, maciekrzezawa (2024) https://www.youtube.com/watch?v=-3prcjaFcUs&list=PLOAXDMnFNrmnJmuXLGT_yXvy8ioPTKDcQ https://wykop.pl/wpis/78328151/wlasnie-wrocilem-z-samotnej-podrozy-do-poludniowyc
   - Chorwacja: #splitalam oraz https://www.wykop.pl/wpis/68454899
   - Emiraty Arabskie/Dubaj: patrz ZEA
   - Francja: https://www.wykop.pl/wpis/66638601 #francjadasielubic

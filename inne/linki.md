@@ -17,7 +17,7 @@ https://wykop.pl/link/7043395/telefon-zaufania-dla-mezczyzn
 https://masculinum.org/fundacja/
 https://anonymousplanet.org/guide.html
 
-
+https://datapremiery.pl/
 
 
 https://mapainternetow.pl/maps/1
@@ -25,8 +25,13 @@ https://mapainternetow.pl/maps/1
 
 
 # tymczasowe nr telefonow
-juicysms
-online.sim
+juicysms        # płatny, ok 1e
+online.sim      # 
+receive-sms.cc  
+https://getsms.cc
+https://quackr.io/
+
+
 
 
 

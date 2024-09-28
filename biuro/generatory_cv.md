@@ -22,5 +22,6 @@
 | rezi.io                                                                                             |                           |
 | rxresu.me                                                                                           |                           |
 | word/libre office                                                                                   |                           |
+| fast cv                                                                                             |                           |
 
 ogolne wskazowki tu https://www.reddit.com/r/resumes/wiki/index/faq/#wiki_resume_writing_guide
