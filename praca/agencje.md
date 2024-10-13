@@ -48,7 +48,9 @@
 - dsomgi00: "Imo jakakolwiek agencja gdzie masz "polska umowa" i "niewymagany język niemiecki" to proszenie się o kłopoty i patole na zakwaterowaniu."
 - czy masz zakwaterowanie, wyżywienie, ubezpieczenie, dojazd do pracy (lub ktos dowozi)
 - czy masz zagwarantowane iles godzin czy jesli nie ma pracy = nie ma pieniedzy,
-- czy odciagaja kase za zakwaterowanie, czy agencja urywa cos z godzin, czy robi walki na podatku(?), 
+- czy odciagaja kase za zakwaterowanie, czy agencja urywa cos z godzin, czy robi walki na podatku(?)
+- ilu osobowe pokoje, jak daleko dojazd do pracy, czy można dojeżdzać samochodem/rowerem
+- czy praca w zimnie czy upale
 
 
 # Tagi na wykopie, może zmniejszy to spam:
@@ -84,6 +86,7 @@
 - https://wykop.pl/wpis/73911105/lepszy-kraj-na-emigracje-przez-agencje-przegryw-em
 - https://wykop.pl/wpis/76589967/czy-da-rade-wyzyc-i-cos-zaoszczedzic-w-norwegii-ze
 - https://wykop.pl/wpis/77308003/poleci-ktos-jakas-dobra-agencje-pracy-w-niemczech-
+- https://wykop.pl/wpis/78384191/wciaz-szukam-agencji-pracy-w-holandii-z-polski-zos
 
 
 Trzeba jakos skutecznie to odfiltrowywac, bo sie nie daje czytac wykopu

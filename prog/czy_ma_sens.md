@@ -43,6 +43,8 @@ https://www.wykop.pl/wpis/56996059/
 
 https://www.wykop.pl/wpis/55681449/
 
+https://wykop.pl/wpis/78342035/ # jeśli interesujesz się AI/LLMami
+
 https://www.youtube.com/watch?v=X26YTrdnEOQ
 
 (disclaimer, nie znam autora, autorów)
@@ -297,12 +299,14 @@ albo wchodzić w bezsensowne dyskusje.
     - berlinstartupjobs.com/de
     - de.jooble.org
     - germantechjobs.de
-    - it-jobs.de/
+    - it-jobs.de
+    - itbbb.de
     - jobs.meinestadt.de
     - jobsintown.de
     - neuvoo.de
     - poloniusz.pl
     - stepstone.de
+    - stellenanzeigen.de
     - xing.de
   - DK: # Dania
     - jobindex.dk
@@ -573,6 +577,7 @@ albo wchodzić w bezsensowne dyskusje.
   - cowork.czest.pl
   - cospot.pl
   - alejabielany.pl/pl-pl/stores/cowork # Wrocław
+  - katodesk # katowice
 
 ## co to jest workation? co to jest Unlimited PTO
 

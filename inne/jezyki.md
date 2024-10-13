@@ -135,6 +135,11 @@ Polski:
 - polski.info
 
 
+Hiszpański:
+
+- Pozycje z Preston Publishing - Hiszpański w tłumaczeniach (Gramatyka), Słownictwo.
+- dość dobry jest e-tutor. Słownictwa dużo jest też w Supermemo. 
+
 
 
 5. 
@@ -165,3 +170,4 @@ https://www.efset.org/cefr/
 	Telc
 	Goethe certificate
 	DSH # Deutschen Sprachprüfung für den Hochschulzugang
+
