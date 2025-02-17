@@ -4,6 +4,7 @@
 | craft-cv.com                                                                                        |                           |
 | cvdopracy.pl                                                                                        |                           |
 | cvmkr.com                                                                                           |                           |
+| https://www.dotresu.me                                                                              |                           |
 | figma                                                                                               |                           |
 | flowcv.com                                                                                          |                           |
 | gimp/photoshop/indesign                                                                             |                           |

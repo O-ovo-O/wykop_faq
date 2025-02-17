@@ -456,6 +456,7 @@ albo wchodzić w bezsensowne dyskusje.
   - kalkb2b.pl
   - kalkulatorb2b.pl
   - jakipit.pl
+  - systim.pl/kalkulator-podatkowy-roczny-2025
 
 <a id="gdzie-mo%C5%BCna-sprawdza%C4%87-srednie-zarobki"></a>
 ## gdzie można sprawdzać srednie zarobki
@@ -465,6 +466,7 @@ albo wchodzić w bezsensowne dyskusje.
   - levels.fyi
   - zarobky.pl
   - 4programmers.net/Forum/Kariera/233131-ile_zarabiacie
+  - techpays.com
 
 <a id="lista-r%C3%B3%C5%BCnych-pracowych-benefit%C3%B3w"></a>
 ## lista różnych pracowych "benefitów"
@@ -504,6 +506,7 @@ albo wchodzić w bezsensowne dyskusje.
 * koszty życia
 * koszty mieszkania
 * jakość życia
+* jakość mieszkań (+wzgledem ceny)
 * podatki
 * samochód
 * jak ogólnie wygląda rynek pracy, bezrobocie
@@ -511,6 +514,10 @@ albo wchodzić w bezsensowne dyskusje.
 * inne święta
 * internet (mobilny)
 * nieruchomości, mieszkania, pokoje, wynajem
+
+* Jak się tam żyje,
+* jaka kultura pracy
+* czy lokalsi są otwarci na kontakty z kimś zza granicy,
 
   - AT: willhaben.at
   - DE: ebay kleinanzeigen, wg-gesucht, immobilienscout24, immonet.de  i inne ciekawostki umweltzone.pl/strefy
@@ -523,7 +530,7 @@ albo wchodzić w bezsensowne dyskusje.
   - IT: idealista.it
   - NL: kamernet.nl  funda.nl  niedziela.nl
   - SE: qasa.se blocket.se
-  - UK: Spareroom, grupy facebookowe
+  - UK: Spareroom, grupy facebookowe, rightmove
 
   - globimmo.net
   - https://www.wykop.pl/wpis/67848487/ # trochę zebranych ciekawostek jakie wymagania i jak to wygląda

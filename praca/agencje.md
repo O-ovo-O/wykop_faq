@@ -1,35 +1,37 @@
 # Agencje pracy za granicą
 
 
-| nazwa agencji                  | kraj       | wymagane kwalifikacje | wymagane doświadczenie | wymagana znajomość lokalnego języka kraju | wymagany angielski | patologia? | szacowane zarobki |
-|--------------------------------|------------|-----------------------|------------------------|-------------------------------------------|--------------------|------------|-------------------|
-| Ottoworkforce.eu               |            |                       |                        |                                           |                    |            |                   |
-|                                | Holandia   |                       |                        |                                           |                    | +          | 500e /tydz netto  |
-| humanus                        | Niemcy     |                       |                        | czesto (zawsze?)                          |                    |            | 450e /tydz netto  |
-| mondi                          | Niemcy     |                       |                        |                                           |                    |            |                   |
-| Albert                         | Holandia   |                       |                        |                                           |                    |            | 14,43e netto/h    |
-| Duidam                         | Holandia   |                       |                        |                                           |                    |            |                   |
-| MG Solutions                   | Niemcy     |                       |                        |                                           |                    |            |                   |
-| Timing                         | NL         |                       |                        |                                           |                    |            |                   |
-| AB Midden                      | NL         |                       |                        |                                           |                    |            |                   |
-| Carriere                       | NL         |                       |                        |                                           |                    |            |                   |
-| ZeitNah                        |            |                       |                        |                                           |                    |            |                   |
-| https://m.olx.pl/oferta/praca/ |            |                       |                        |                                           |                    |            |                   |
-| SBA flex                       |            |                       |                        |                                           |                    |            |                   |
-| e&a z Opola                    |            |                       |                        |                                           |                    |            |                   |
-| covebo                         | NL         | nr BSN?               |                        |                                           |                    |            |                   |
-| kraft racibórz/ team24         |            |                       |                        |                                           |                    |            |                   |
-| Kirichgruppe                   |            |                       |                        |                                           |                    |            |                   |
-| limnuswork                     |            |                       |                        |                                           |                    |            |                   |
-| personal24                     | Szwajcaria |                       |                        |                                           |                    |            |                   |
-| Gemeente                       | NL         |                       |                        |                                           |                    |            |                   |
-| Manpower                       |            |                       |                        |                                           |                    |            |                   |
-| addeco                         |            |                       |                        |                                           |                    |            |                   |
-| silverhand                     |            |                       |                        |                                           |                    |            |                   |
-| hr xperience                   |            |                       |                        |                                           |                    |            |                   |
-| randstad                       |            |                       |                        |                                           |                    |            |                   |
-| Gi Group                       |            |                       |                        |                                           |                    |            |                   |
-|                                |            |                       |                        |                                           |                    |            |                   |
+| nazwa agencji                  | kraj        | wymagane kwalifikacje | wymagane doświadczenie | wymagana znajomość lokalnego języka kraju | wymagany angielski | patologia? | szacowane zarobki |
+|--------------------------------|-------------|-----------------------|------------------------|-------------------------------------------|--------------------|------------|-------------------|
+| Ottoworkforce.eu               |             |                       |                        |                                           |                    |            |                   |
+|                                | Holandia    |                       |                        |                                           |                    | +          | 500e /tydz netto  |
+| humanus                        | Niemcy      |                       |                        | czesto (zawsze?)                          |                    |            | 450e /tydz netto  |
+| mondi                          | Niemcy      |                       |                        |                                           |                    |            |                   |
+| Albert                         | Holandia    |                       |                        |                                           |                    |            | 14,43e netto/h    |
+| Duidam                         | Holandia    |                       |                        |                                           |                    |            |                   |
+| MG Solutions                   | Niemcy      |                       |                        |                                           |                    |            |                   |
+| Timing                         | NL          |                       |                        |                                           |                    |            |                   |
+| Synergie                       | NL          |                       |                        |                                           |                    |            |                   |
+| Solutions                      |             |                       |                        |                                           |                    |            |                   |
+| AB Midden                      | NL          |                       |                        |                                           |                    |            |                   |
+| Carriere                       | NL          |                       |                        |                                           |                    |            |                   |
+| ZeitNah                        |             |                       |                        |                                           |                    |            |                   |
+| https://m.olx.pl/oferta/praca/ |             |                       |                        |                                           |                    |            |                   |
+| SBA flex                       |             |                       |                        |                                           |                    |            |                   |
+| e&a z Opola                    |             |                       |                        |                                           |                    |            |                   |
+| covebo                         | NL          | nr BSN?               |                        |                                           |                    |            |                   |
+| kraft racibórz/ team24         |             |                       |                        |                                           |                    |            |                   |
+| Kirichgruppe                   |             |                       |                        |                                           |                    |            |                   |
+| limnuswork                     |             |                       |                        |                                           |                    |            |                   |
+| personal24                     | Szwajcaria  |                       |                        |                                           |                    |            |                   |
+| Gemeente                       | NL          |                       |                        |                                           |                    |            |                   |
+| Manpower                       |             |                       |                        |                                           |                    |            |                   |
+| addeco                         |             |                       |                        |                                           |                    |            |                   |
+| silverhand                     | rozne kraje |                       |                        |                                           |                    |            |                   |
+| hr xperience                   |             |                       |                        |                                           |                    |            |                   |
+| randstad                       |             |                       |                        |                                           |                    |            |                   |
+| Gi Group                       |             |                       |                        |                                           |                    |            |                   |
+|                                |             |                       |                        |                                           |                    |            |                   |
 
 # jakieś roboty
 
@@ -87,6 +89,7 @@
 - https://wykop.pl/wpis/76589967/czy-da-rade-wyzyc-i-cos-zaoszczedzic-w-norwegii-ze
 - https://wykop.pl/wpis/77308003/poleci-ktos-jakas-dobra-agencje-pracy-w-niemczech-
 - https://wykop.pl/wpis/78384191/wciaz-szukam-agencji-pracy-w-holandii-z-polski-zos
+- https://wykop.pl/wpis/79863469/siema-wszystkim-szukam-pracy-dla-pary-i-gdybyscie-
 
 
 Trzeba jakos skutecznie to odfiltrowywac, bo sie nie daje czytac wykopu
@@ -108,7 +111,8 @@ Trzeba jakos skutecznie to odfiltrowywac, bo sie nie daje czytac wykopu
 - Dzienny
 - SupreminTHC
 - dsomgi00
-
-
+- Gozdziu - poleca MG solutions
+- Krolowa_nauk - poleca Synergie i Timing
+- Errad - slyszal negatywne opinie o Solutions, mowi ze OTTO nie jest takie zle, poleca gr FB "opinie o agencjach NL"
 
 

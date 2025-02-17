@@ -22,6 +22,7 @@
 | lingbe.com    |                   |                        |                     |         +         |                         |       |       |       |            |         |              |
 | Memrise       |         +         |           +            |          -          |         -         |            -            |       |       |       |            |         |              |
 | Mondly        |                   |                        |                     |                   |                         |       |       |       |            |         |              |
+| notifyword    |                   |                        |                     |                   |                         |       |       |       |  -, login  |         |              |
 | Pimsleur.com  |                   |                        |                     |                   |                         |       |   +   |   -   |  -, email  |         |              |
 | Preply.com    |                   |                        |                     |                   |            +            |   -   |   +   |   -   |            |         |              |
 | Rosetta Stone |                   |                        |                     |                   |                         |       |   +   |       |            |         |              |
@@ -109,6 +110,7 @@ Niemiecki:
 - https://www.youtube.com/c/LearnGermanwithAnja
 - https://www.youtube.com/c/YourGermanTeacher
 - https://www.youtube.com/c/DeutschLera
+- https://www.youtube.com/@Pikiponimation/videos
 - https://www.deutschlandfunk.de/
 - https://www.youtube.com/c/DeutschmitMarija
 - https://youtube.com/playlist?list=PL5QyCnFPRx0GDeYQWC_KUx-qytQOKbq9H
@@ -121,6 +123,7 @@ Niemiecki:
 - thegermanproject.com/stories
 - deutsch-perfekt.com/#feature-1601538057
 - https://lanz-precht.podigee.io
+- https://www.easygerman.org/podcast
 
  Bęza repetytorium gramatyki dla średnio/zaawansowanych, Menschen, DaF in Unternehmen
 

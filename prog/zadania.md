@@ -48,3 +48,7 @@
 
 
 TODO, przerobić na tabelkę. Ps ciekawy zbiór był tu https://www.wykop.pl/wpis/10387894/lista-stron-z-zadaniami-i-wyzwaniami-programistycz/ więc warto sobie szybko jakiegoś pythonika z requests napisać który by sprawdzał czy strona jeszcze żyje i dodawał / usuwał z tabeli
+
+- codesignal
+- hacktoberfest
+- https://en.wikipedia.org/wiki/Category:Programming_contests
