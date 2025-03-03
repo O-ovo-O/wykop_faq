@@ -3,34 +3,35 @@
 
 | nazwa agencji                  | kraj        | wymagane kwalifikacje | wymagane doświadczenie | wymagana znajomość lokalnego języka kraju | wymagany angielski | patologia? | szacowane zarobki |
 |--------------------------------|-------------|-----------------------|------------------------|-------------------------------------------|--------------------|------------|-------------------|
-| Ottoworkforce.eu               |             |                       |                        |                                           |                    |            |                   |
 |                                | Holandia    |                       |                        |                                           |                    | +          | 500e /tydz netto  |
-| humanus                        | Niemcy      |                       |                        | czesto (zawsze?)                          |                    |            | 450e /tydz netto  |
-| mondi                          | Niemcy      |                       |                        |                                           |                    |            |                   |
-| Albert                         | Holandia    |                       |                        |                                           |                    |            | 14,43e netto/h    |
-| Duidam                         | Holandia    |                       |                        |                                           |                    |            |                   |
-| MG Solutions                   | Niemcy      |                       |                        |                                           |                    |            |                   |
-| Timing                         | NL          |                       |                        |                                           |                    |            |                   |
-| Synergie                       | NL          |                       |                        |                                           |                    |            |                   |
-| Solutions                      |             |                       |                        |                                           |                    |            |                   |
 | AB Midden                      | NL          |                       |                        |                                           |                    |            |                   |
+| Addeco                         |             |                       |                        |                                           |                    |            |                   |
+| Albert                         | Holandia    |                       |                        |                                           |                    |            | 14,43e netto/h    |
 | Carriere                       | NL          |                       |                        |                                           |                    |            |                   |
+| Covebo                         | NL          | nr BSN?               |                        |                                           |                    |            |                   |
+| Duidam                         | Holandia    |                       |                        |                                           |                    |            |                   |
+| E&A z Opola                    |             |                       |                        |                                           |                    |            |                   |
+| Gemeente                       | NL          |                       |                        |                                           |                    |            |                   |
+| Gi Group                       |             |                       |                        |                                           |                    |            |                   |
+| Hr xperience                   |             |                       |                        |                                           |                    |            |                   |
+| Humanus                        | Niemcy      |                       |                        | czesto (zawsze?)                          |                    |            | 450e /tydz netto  |
+| Jumbo                          |             |                       |                        |                                           |                    |            |                   |
+| Kirichgruppe                   |             |                       |                        |                                           |                    |            |                   |
+| Kraft racibórz/ team24         |             |                       |                        |                                           |                    |            |                   |
+| Limnuswork                     |             |                       |                        |                                           |                    |            |                   |
+| MG Solutions                   | Niemcy      |                       |                        |                                           |                    |            |                   |
+| Manpower                       |             |                       |                        |                                           |                    |            |                   |
+| Mondi                          | Niemcy      |                       |                        |                                           |                    |            |                   |
+| Ottoworkforce.eu               |             |                       |                        |                                           |                    |            |                   |
+| Personal24                     | Szwajcaria  |                       |                        |                                           |                    |            |                   |
+| Randstad                       |             |                       |                        |                                           |                    |            |                   |
+| SBA flex                       |             |                       |                        |                                           |                    |            |                   |
+| Silverhand                     | rozne kraje |                       |                        |                                           |                    |            |                   |
+| Solutions                      |             |                       |                        |                                           |                    |            |                   |
+| Synergie                       | NL          |                       |                        |                                           |                    |            |                   |
+| Timing                         | NL          |                       |                        |                                           |                    |            |                   |
 | ZeitNah                        |             |                       |                        |                                           |                    |            |                   |
 | https://m.olx.pl/oferta/praca/ |             |                       |                        |                                           |                    |            |                   |
-| SBA flex                       |             |                       |                        |                                           |                    |            |                   |
-| e&a z Opola                    |             |                       |                        |                                           |                    |            |                   |
-| covebo                         | NL          | nr BSN?               |                        |                                           |                    |            |                   |
-| kraft racibórz/ team24         |             |                       |                        |                                           |                    |            |                   |
-| Kirichgruppe                   |             |                       |                        |                                           |                    |            |                   |
-| limnuswork                     |             |                       |                        |                                           |                    |            |                   |
-| personal24                     | Szwajcaria  |                       |                        |                                           |                    |            |                   |
-| Gemeente                       | NL          |                       |                        |                                           |                    |            |                   |
-| Manpower                       |             |                       |                        |                                           |                    |            |                   |
-| addeco                         |             |                       |                        |                                           |                    |            |                   |
-| silverhand                     | rozne kraje |                       |                        |                                           |                    |            |                   |
-| hr xperience                   |             |                       |                        |                                           |                    |            |                   |
-| randstad                       |             |                       |                        |                                           |                    |            |                   |
-| Gi Group                       |             |                       |                        |                                           |                    |            |                   |
 |                                |             |                       |                        |                                           |                    |            |                   |
 
 # jakieś roboty

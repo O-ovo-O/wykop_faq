@@ -24,6 +24,15 @@ https://mapainternetow.pl/maps/1
 
 
 
+# EUROPA zamiast USA
+
+- european-alternatives.eu
+- buy-european-made.eu/
+
+
+
+
+
 # tymczasowe nr telefonow
 juicysms        # płatny, ok 1e
 online.sim      # 
