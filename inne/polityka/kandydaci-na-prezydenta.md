@@ -29,7 +29,7 @@ czyli takie tam zestawionko zanim Latarnik się ogarnie (no chyba że już jest)
 
 |                                | BARTOSZEWICZ | BIEJAT | BRAUN | HOŁOWNIA | JAKUBIAK | MACIAK | MENTZEN | NAWROCKI | SENYSZYN | STANOWSKI | TRZASKOWSKI | WOCH | ZANDBERG |
 |--------------------------------|:------------:|:------:|:-----:|:--------:|:--------:|:------:|:-------:|:--------:|:--------:|:---------:|:-----------:|:----:|:--------:|
-| kataster [T/N]                 |              |        |       |          |          |        |         |          |          |           |             |      |          |
+| kataster [T/N]                 |              |   +    |       |          |          |        |         |          |          |           |             |      |          |
 | kataster od 3 mieszkania [T/N] |              |        |       |          |          |        |         |          |          |           |             |      |          |
 
 ## Służba zdrowia
@@ -47,7 +47,7 @@ czyli takie tam zestawionko zanim Latarnik się ogarnie (no chyba że już jest)
 | OZE [T/N]         |              |   +    |       |    +     |          |   -    |         |    +     |          |           |             |      |          |
 | atom [T/N]        |              |   +    |       |    +     |          |        |         |    +     |          |           |      +      |      |          |
 | węgiel [T/N]      |              |        |       |          |    +     |        |         |    +     |          |           |             |      |          |
-| Mercosur [T/N]    |              |        |       |          |          |        |         |    -     |          |           |             |      |          |
+| Mercosur [T/N]    |              |        |       |          |          |        |         |    -     |          |           |      -      |      |          |
 | zielony ład [T/N] |              |        |       |          |          |        |         |    -     |          |           |             |      |          |
 
 * mercosur - w sensie, dobry czy zły, rezygnować/podpisywać "lub coś w ten deseń"
@@ -64,7 +64,13 @@ czyli takie tam zestawionko zanim Latarnik się ogarnie (no chyba że już jest)
 
 |                                             | BARTOSZEWICZ | BIEJAT | BRAUN | HOŁOWNIA | JAKUBIAK | MACIAK | MENTZEN | NAWROCKI | SENYSZYN | STANOWSKI | TRZASKOWSKI | WOCH | ZANDBERG |
 |---------------------------------------------|:------------:|:------:|:-----:|:--------:|:--------:|:------:|:-------:|:--------:|:--------:|:---------:|:-----------:|:----:|:--------:|
-| zakaz sprzedaży alko na stacjach benz [T/N] |              |   +    |       |    +     |          |        |         |          |          |           |             |      |          |
+| zakaz sprzedaży alko na stacjach benz [T/N] |              |   +    |       |    +     |          |        |         |    -     |          |     -     |      -      |      |          |
+| LGBT+ "ogolne nastawienie" [T/N]            |              |   +    |   -   |    +     |          |        |         |    -     |          |           |             |      |          |
+| konkordat    [T/N]                          |              |   -    |  +?   |          |          |        |         |    +     |          |           |             |      |          |
+| fundusz kościelny    [T/N]                  |              |        |       |    -     |          |        |         |    +     |          |           |             |      |          |
+| religia w szkołach [T/N]                    |              |        |       |          |          |        |         |    +     |          |           |             |      |          |
+| Lubi Rosję [T/N]                            |              |        |       |    -     |          |   +    |         |          |          |           |             |      |          |
+| Lubi USA [T/N]                              |              |        |       |          |          |        |         |          |          |           |             |      |          |
 
 
 ## Źródła
