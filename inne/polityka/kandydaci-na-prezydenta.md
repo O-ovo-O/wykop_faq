@@ -14,7 +14,7 @@ czyli takie tam zestawionko zanim Latarnik się ogarnie (no chyba że już jest)
 | Partia        | -            | -         | Konfederacja Korony Polskiej | Polska 2050 Szymona Hołowni    | Federacja dla Rzeczypospolitej | -                | Konfederacja Wolność i Niepodległość | -        | -                          | -                                                 | Platforma Obywatelska RP | Bezpartyjni Samorządowcy - Łączy nas Polska |          |
 
 
-# Broń, służba wojskowa, wydatki na obronność
+## Broń, służba wojskowa, wydatki na obronność
 
 |                                      | BARTOSZEWICZ | BIEJAT | BRAUN | HOŁOWNIA | JAKUBIAK | MACIAK | MENTZEN | NAWROCKI | SENYSZYN | STANOWSKI | TRZASKOWSKI | WOCH | ZANDBERG |
 |--------------------------------------|:------------:|:------:|:-----:|:--------:|:--------:|:------:|:-------:|:--------:|:--------:|:---------:|:-----------:|:----:|:--------:|
@@ -25,14 +25,14 @@ czyli takie tam zestawionko zanim Latarnik się ogarnie (no chyba że już jest)
 
 * zasadnicza służba wojskowa == w tym kontekście - przywrócenie obowiązkowego poboru
 
-# Kwestia mieszkań, kataster
+## Kwestia mieszkań, kataster
 
 |                                | BARTOSZEWICZ | BIEJAT | BRAUN | HOŁOWNIA | JAKUBIAK | MACIAK | MENTZEN | NAWROCKI | SENYSZYN | STANOWSKI | TRZASKOWSKI | WOCH | ZANDBERG |
 |--------------------------------|:------------:|:------:|:-----:|:--------:|:--------:|:------:|:-------:|:--------:|:--------:|:---------:|:-----------:|:----:|:--------:|
 | kataster [T/N]                 |              |        |       |          |          |        |         |          |          |           |             |      |          |
 | kataster od 3 mieszkania [T/N] |              |        |       |          |          |        |         |          |          |           |             |      |          |
 
-# Służba zdrowia
+## Służba zdrowia
 
 |                                    | BARTOSZEWICZ | BIEJAT | BRAUN | HOŁOWNIA | JAKUBIAK | MACIAK | MENTZEN | NAWROCKI | SENYSZYN | STANOWSKI | TRZASKOWSKI | WOCH | ZANDBERG |
 |------------------------------------|:------------:|:------:|:-----:|:--------:|:--------:|:------:|:-------:|:--------:|:--------:|:---------:|:-----------:|:----:|:--------:|
@@ -40,7 +40,7 @@ czyli takie tam zestawionko zanim Latarnik się ogarnie (no chyba że już jest)
 | obniżenie składki dla przedś [T/N] |              |   -    |       |    +     |     +    |        |         |          |    -     |           |    +        |      |          |
 
 
-# OZE, energetyka węglowa
+## OZE, energetyka węglowa
 
 |                   | BARTOSZEWICZ | BIEJAT | BRAUN | HOŁOWNIA | JAKUBIAK | MACIAK | MENTZEN | NAWROCKI | SENYSZYN | STANOWSKI | TRZASKOWSKI | WOCH | ZANDBERG |
 |-------------------|:------------:|:------:|:-----:|:--------:|:--------:|:------:|:-------:|:--------:|:--------:|:---------:|:-----------:|:----:|:--------:|
@@ -50,7 +50,9 @@ czyli takie tam zestawionko zanim Latarnik się ogarnie (no chyba że już jest)
 | Mercosur [T/N]    |              |        |       |          |          |        |         |    -     |          |           |             |      |          |
 | zielony ład [T/N] |              |        |       |          |          |        |         |    -     |          |           |             |      |          |
 
-# Migracja
+* mercosur - w sensie, dobry czy zły, rezygnować/podpisywać "lub coś w ten deseń"
+
+## Migracja
 
 |                                        | BARTOSZEWICZ | BIEJAT | BRAUN | HOŁOWNIA | JAKUBIAK | MACIAK | MENTZEN | NAWROCKI | SENYSZYN | STANOWSKI | TRZASKOWSKI | WOCH | ZANDBERG |
 |----------------------------------------|:------------:|:------:|:-----:|:--------:|:--------:|:------:|:-------:|:--------:|:--------:|:---------:|:-----------:|:----:|:--------:|
@@ -58,10 +60,20 @@ czyli takie tam zestawionko zanim Latarnik się ogarnie (no chyba że już jest)
 | czy wypowiedzieć pakt migracyjny [T/N] |              |        |       |          |          |        |         |    +     |          |           |             |      |          |
 
 
-# Różne
+## Różne
 
 |                                             | BARTOSZEWICZ | BIEJAT | BRAUN | HOŁOWNIA | JAKUBIAK | MACIAK | MENTZEN | NAWROCKI | SENYSZYN | STANOWSKI | TRZASKOWSKI | WOCH | ZANDBERG |
 |---------------------------------------------|:------------:|:------:|:-----:|:--------:|:--------:|:------:|:-------:|:--------:|:--------:|:---------:|:-----------:|:----:|:--------:|
 | zakaz sprzedaży alko na stacjach benz [T/N] |              |   +    |       |    +     |          |        |         |          |          |           |             |      |          |
+
+
+## Źródła
+
+- Debata 1 (uczestnicy teleturnieju: )
+https://www.youtube.com/watch?v=dzntyCTgJMQ
+
+- Debata 2 (uczestnicy teleturnieju: )
+
+- Debata 3 (uczestnicy teleturnieju: )
 
 
