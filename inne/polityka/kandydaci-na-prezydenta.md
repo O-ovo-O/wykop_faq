@@ -1,3 +1,11 @@
+<style>
+  .container-lg {
+    max-width: none !important;
+    margin-right: 0 !important;
+    margin-left: 0 !important;
+  }
+</style>
+
 # Kandydaci na Prezydenta RP w 2025
 
 Dane w tabelkach nie podają źródeł - więc nie są oficjalnymi stanowiskami kandydatów, jedynie tym co mi się wydaje.
