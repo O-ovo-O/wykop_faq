@@ -1,43 +1,51 @@
 # Kandydaci na Prezydenta RP w 2025
 
 Dane w tabelkach nie podają źródeł - więc nie są oficjalnymi stanowiskami kandydatów, jedynie tym co mi się wydaje.
-czyli takie tam zestawionko zanim Latarnik się ogarnie (no chyba że już jest)
+czyli takie tam zestawionko, latarnik wyborczy jest tu: https://latarnikwyborczy.pl/ankieta
+
+Wyjaśnienia niektórych pytań skopiowane 1 do 1 lub skrótowo, z ankiety latarnika.
 
 
-|               | BARTOSZEWICZ | BIEJAT    | BRAUN                        | HOŁOWNIA                       | JAKUBIAK                       | MACIAK           | MENTZEN                              | NAWROCKI | SENYSZYN                   | STANOWSKI                                         | TRZASKOWSKI              | WOCH                                        | ZANDBERG |
-|---------------|--------------|-----------|------------------------------|--------------------------------|--------------------------------|------------------|--------------------------------------|----------|----------------------------|---------------------------------------------------|--------------------------|---------------------------------------------|----------|
-| Wiek          | 51           | 43        | 58                           | 48                             | 66                             | 54               | 38                                   | 42       | 76                         | 42                                                | 53                       | 46                                          |          |
-| Miasto        | Warszawa     | Warszawa  | Rzeszów                      | Otwock                         | Warszawa                       | Włocławek        | Toruń                                | Gdańsk   | Warszawa                   | Wilcza Góra                                       | Warszawa                 | Kąkolewnica                                 |          |
-| Wykształcenie | wyższe       | wyższe    | wyższe                       | średnie                        | średnie                        | średnie          | wyższe                               | wyższe   | wyższe                     | średnie                                           | wyższe                   | wyższe                                      |          |
-| Zatrudn.      | nauczyciel   | senatorka | poseł                        | Marszałek                      | polityk                        | dziennikarz      | doradca                              | urzędnik | dziennikarz                | dziennikarz                                       | pracownik                | prawnik                                     |          |
-| Miejsce pracy | SGH          | Senat RP  | Parlament EU                 | Sejm RP                        | Sejm RP                        | Portal Włocławek | Kancelaria Mentzen sp. z o.o.        | IPN      | Tygodnik "Fakty po Mitach" | Kanał Zero S.A.                                   | Urząd m.st. Warszawy     | KRP S.A.                                    |          |
-| Partia        | -            | -         | Konfederacja Korony Polskiej | Polska 2050 Szymona Hołowni    | Federacja dla Rzeczypospolitej | -                | Konfederacja Wolność i Niepodległość | -        | -                          | -                                                 | Platforma Obywatelska RP | Bezpartyjni Samorządowcy - Łączy nas Polska |          |
+|               | BARTOSZEWICZ | BIEJAT    | BRAUN                        | HOŁOWNIA                    | JAKUBIAK                       | MACIAK           | MENTZEN                              | NAWROCKI | SENYSZYN                   | STANOWSKI       | TRZASKOWSKI              | WOCH                                        | ZANDBERG      |
+|---------------|--------------|-----------|------------------------------|-----------------------------|--------------------------------|------------------|--------------------------------------|----------|----------------------------|-----------------|--------------------------|---------------------------------------------|---------------|
+| Wiek          | 51           | 43        | 58                           | 48                          | 66                             | 54               | 38                                   | 42       | 76                         | 42              | 53                       | 46                                          | 45            |
+| Miasto        | Warszawa     | Warszawa  | Rzeszów                      | Otwock                      | Warszawa                       | Włocławek        | Toruń                                | Gdańsk   | Warszawa                   | Wilcza Góra     | Warszawa                 | Kąkolewnica                                 | Warszawa      |
+| Wykształcenie | wyższe       | wyższe    | wyższe                       | średnie                     | średnie                        | średnie          | wyższe                               | wyższe   | wyższe                     | średnie         | wyższe                   | wyższe                                      | wyższe        |
+| Zatrudn.      | nauczyciel   | senatorka | poseł                        | marszałek                   | polityk                        | dziennikarz      | doradca                              | urzędnik | dziennikarz                | dziennikarz     | pracownik                | prawnik                                     | polityk       |
+| Miejsce pracy | SGH          | Senat RP  | Parlament EU                 | Sejm RP                     | Sejm RP                        | Portal Włocławek | Kancelaria Mentzen sp. z o.o.        | IPN      | Tygodnik "Fakty po Mitach" | Kanał Zero S.A. | Urząd m.st. Warszawy     | KRP S.A.                                    | Sejm RP       |
+| Partia        | -            | -         | Konfederacja Korony Polskiej | Polska 2050 Szymona Hołowni | Federacja dla Rzeczypospolitej | -                | Konfederacja Wolność i Niepodległość | -        | -                          | -               | Platforma Obywatelska RP | Bezpartyjni Samorządowcy - Łączy nas Polska | Razem         |
 
 
 ## Broń, służba wojskowa, wydatki na obronność
 
-|                                      | BARTOSZEWICZ | BIEJAT | BRAUN | HOŁOWNIA | JAKUBIAK | MACIAK | MENTZEN | NAWROCKI | SENYSZYN | STANOWSKI | TRZASKOWSKI | WOCH | ZANDBERG |
-|--------------------------------------|:------------:|:------:|:-----:|:--------:|:--------:|:------:|:-------:|:--------:|:--------:|:---------:|:-----------:|:----:|:--------:|
-| łatwiejszy dostęp do broni     [T/N] |              |        |       |          |          |   -    |         |          |          |           |             |      |          |
-| Zasadnicza służba wojskowa 4 ♂ [T/N] |              |   -    |       |    -     |    +     |   -    |         |    -     |    -     |     -     |      -      |      |          |
-| Zasadnicza służba wojskowa 4 ♀ [T/N] |              |        |       |          |   (+?)   |        |         |          |          |           |             |      |          |
-| wydatki na obronność [+/-/~]         |      +       |        |       |          |          |   -    |         |          |          |           |             |      |          |
+|                                            | BARTOSZEWICZ | BIEJAT | BRAUN | HOŁOWNIA | JAKUBIAK | MACIAK | MENTZEN | NAWROCKI | SENYSZYN | STANOWSKI | TRZASKOWSKI | WOCH | ZANDBERG |
+|--------------------------------------------|:------------:|:------:|:-----:|:--------:|:--------:|:------:|:-------:|:--------:|:--------:|:---------:|:-----------:|:----:|:--------:|
+| łatwiejszy dostęp do broni     [T/N]       |              |        |       |          |          |   -    |         |          |          |           |             |      |          |
+| obowiązkowe przeszkolenie wojskowe ♂ [T/N] |      +       |   -    |   +   |    -     |    +     |   -    |    -    |    -     |    -     |     -     |      -      |  +   |    -     |
+| obowiązkowe przeszkolenie wojskowe ♀ [T/N] |              |        |       |          |   (+?)   |        |         |          |          |           |             |      |          |
+| wydatki na obronność [+/-/~]               |      +       |        |       |          |          |   -    |         |          |          |           |             |      |          |
+| wspieranie powstania armii UE [T/N]        |      -       |   +    |   -   |    -     |    -     |   -    |    -    |    -     |    +     |           |      -      |  -   |    +     |
 
 * zasadnicza służba wojskowa == w tym kontekście - przywrócenie obowiązkowego poboru, +/-/~ zwiekszyć/zmniejszyć/utrzymać z grubsza to co jest
 
 ## Kwestia mieszkań, kataster
 
-|                                | BARTOSZEWICZ | BIEJAT | BRAUN | HOŁOWNIA | JAKUBIAK | MACIAK | MENTZEN | NAWROCKI | SENYSZYN | STANOWSKI | TRZASKOWSKI | WOCH | ZANDBERG |
-|--------------------------------|:------------:|:------:|:-----:|:--------:|:--------:|:------:|:-------:|:--------:|:--------:|:---------:|:-----------:|:----:|:--------:|
-| kataster [T/N]                 |              |   +    |       |          |          |        |         | - [3bc]  |          |           |             |      |          |
-| kataster od 3 mieszkania [T/N] |              |        |       |          |          |        |         |          |          |           |             |      |          |
+|                                        | BARTOSZEWICZ | BIEJAT | BRAUN | HOŁOWNIA | JAKUBIAK | MACIAK | MENTZEN | NAWROCKI | SENYSZYN | STANOWSKI | TRZASKOWSKI | WOCH | ZANDBERG |
+|----------------------------------------|:------------:|:------:|:-----:|:--------:|:--------:|:------:|:-------:|:--------:|:--------:|:---------:|:-----------:|:----:|:--------:|
+| kataster [T/N]                         |              |   -    |       |    -     |          |        |         | - [3bc]  |    +     |           |             |      |    -     |
+| kataster od 3 mieszkania [T/N]         |              |   +    |       |    +     |          |        |         |    +     |    -     |           |             |      |    +     |
+| niskoczynszowe "socjalne" mieszk [T/N] |       -      |   +    |  -    |          |    -     |   -    |    -    |    +     |    +     |           |    +        |      |    +     |
 
 ## Służba zdrowia
 
-|                                    | BARTOSZEWICZ | BIEJAT | BRAUN | HOŁOWNIA | JAKUBIAK | MACIAK | MENTZEN | NAWROCKI | SENYSZYN | STANOWSKI | TRZASKOWSKI | WOCH | ZANDBERG |
-|------------------------------------|:------------:|:------:|:-----:|:--------:|:--------:|:------:|:-------:|:--------:|:--------:|:---------:|:-----------:|:----:|:--------:|
-| ??????? [T/N]                      |              |        |       |          |          |        |         |          |          |           |             |      |          |
-| obniżenie składki dla przedś [T/N] |              |   -    |       |    +     |    +     |        |         |          |    -     |           |      +      |      |          |
+|                                        | BARTOSZEWICZ | BIEJAT | BRAUN | HOŁOWNIA | JAKUBIAK | MACIAK | MENTZEN | NAWROCKI | SENYSZYN | STANOWSKI | TRZASKOWSKI | WOCH | ZANDBERG |
+|----------------------------------------|:------------:|:------:|:-----:|:--------:|:--------:|:------:|:-------:|:--------:|:--------:|:---------:|:-----------:|:----:|:--------:|
+| ??????? [T/N]                          |              |        |       |          |          |        |         |          |          |           |             |      |          |
+| wszystkie szczepienia dobrowolne [T/N] |      +       |   -    |   +   |    -     |    -     |   -    |    +    |    -     |    -     |           |      -      |  +   |    -     |
+| obniżenie składki dla przedś jdg [T/N] |      +       |   -    |   +   |    +     |    +     |   +    |    +    |    -     |    -     |           |      +      |  -   |    -     |
+
+* Zwolennicy: niższa składka ich odciąży, ułatwi prowadzenie firmy – szczególnie w przypadku osób z niższymi dochodami.
+* Przeciwnicy: jdg zapłacą mniej niż osoby na UoP, które zarabiają tyle samo. Do NFZ trafi mniej pieniędzy.
 
 ## Szkolnictwo, inwestycje
 
@@ -53,37 +61,41 @@ czyli takie tam zestawionko zanim Latarnik się ogarnie (no chyba że już jest)
 | atom [T/N]        |              |   +    |       |    +     |          |        |         |    +     |          |           |      +      |      |          |
 | węgiel [T/N]      |              |        |       |          |    +     |        |         |    +     |          |           |             |      |          |
 | Mercosur [T/N]    |              |        |       |          |          |        |         |    -     |          |           |      -      |      |          |
-| Zielony ład [T/N] |              |        |       |          |          |        |    -    |    -     |          |           |             |      |          |
+| Zielony ład [T/N] |       -      |   +    |   -   |    +     |    -     |   -    |    -    |    -     |     +    |           |      +      |   -  |    +     |
 
 * mercosur - w sensie, dobry czy zły, rezygnować/podpisywać "lub coś w ten deseń"
+* zielony ład = "neutralność klimatyczna do 2050", przeciwnicy: kosztowny, tendencyjny, restrykcyjny. Zwolennicy: fundamentalny, napędzający innowacyjność gosp
 
 ## Kościoły, religia
 
-|                             | BARTOSZEWICZ | BIEJAT | BRAUN | HOŁOWNIA | JAKUBIAK | MACIAK | MENTZEN | NAWROCKI | SENYSZYN | STANOWSKI | TRZASKOWSKI | WOCH | ZANDBERG |
-|-----------------------------|:------------:|:------:|:-----:|:--------:|:--------:|:------:|:-------:|:--------:|:--------:|:---------:|:-----------:|:----:|:--------:|
-| Konkordat? [T/N]            |              |   -    |  +?   |          |          |        |         |    +     |          |           |             |      |          |
-| Fundusz kościelny  [T/N]    |              |        |       |    -     |          |        |    +    |    +     |          |           |             |      |          |
-| Religia w szkołach [T/N]    |              |        |       |          |          |        |         |    +     |          |           |             |      |          |
+|                                     | BARTOSZEWICZ | BIEJAT | BRAUN | HOŁOWNIA | JAKUBIAK | MACIAK | MENTZEN | NAWROCKI | SENYSZYN | STANOWSKI | TRZASKOWSKI | WOCH | ZANDBERG |
+|-------------------------------------|:------------:|:------:|:-----:|:--------:|:--------:|:------:|:-------:|:--------:|:--------:|:---------:|:-----------:|:----:|:--------:|
+| Konkordat? [T/N]                    |              |   -    |  +?   |          |          |        |         |    +     |          |           |             |      |          |
+| Fundusz kościelny  [T/N]            |              |        |       |    -     |          |        |    +    |    +     |          |           |             |      |          |
+| Religia w szkołach [T/N]            |              |        |       |          |          |        |         |    +     |          |           |             |      |          |
+| Edukacja seksualna w szkołach [T/N] |              |        |       |          |          |        |         |          |          |           |             |      |          |
 
 * Fundusz kościelny - wg Menzena "odszkodowanie dla kościoła" za zabraną kościołowi ziemię, Wg innych - KK otrzymał więcej ziemi niż miał, ma 160k hektarów.
 
 ## Polityka zagraniczna
 
-|                                                   | BARTOSZEWICZ | BIEJAT | BRAUN | HOŁOWNIA | JAKUBIAK | MACIAK | MENTZEN | NAWROCKI | SENYSZYN | STANOWSKI | TRZASKOWSKI | WOCH | ZANDBERG |
-|---------------------------------------------------|:------------:|:------:|:-----:|:--------:|:--------:|:------:|:-------:|:--------:|:--------:|:---------:|:-----------:|:----:|:--------:|
-| Lubi Rosję [T/N]                                  |              |        |  +?   |    -     |          |   +    |         |          |          |           |             |      |    -     |
-| Lubi USA [T/N]                                    |              |        |       |          |          |        |         |          |          |           |             |      |          |
-| Lubi Izrael [T/N]                                 |              |        |       |          |          |        |         |          |          |           |             |      |          |
-| Uważa stosunki z Ukrainą zbyt "dobrotliwe"? [T/N] |              |        |       |          |          |        |    +    |          |          |           |             |      |          |
+|                                                    | BARTOSZEWICZ | BIEJAT | BRAUN | HOŁOWNIA | JAKUBIAK | MACIAK | MENTZEN | NAWROCKI | SENYSZYN | STANOWSKI | TRZASKOWSKI | WOCH | ZANDBERG |
+|----------------------------------------------------|:------------:|:------:|:-----:|:--------:|:--------:|:------:|:-------:|:--------:|:--------:|:---------:|:-----------:|:----:|:--------:|
+| Lubi Rosję [T/N]                                   |              |        |  +?   |    -     |          |   +    |         |          |          |           |             |      |    -     |
+| Lubi USA [T/N]                                     |              |        |       |          |          |        |         |          |          |           |             |      |          |
+| Lubi Izrael [T/N]                                  |              |        |       |          |          |        |         |          |          |           |             |      |          |
+| Czy stosunki z Ukrainą są zbyt "dobrotliwe"? [T/N] |      +       |   -    |   +   |    -     |    +     |   -    |    +    |   +/-    |    -     |           |      -      |  -   |    -     |
+| UE powinna mieć mniejszy wpływ na polit wew? [T/N] |              |        |       |          |          |        |         |          |          |           |             |      |          |
+
+* polityka wew kraju: kultura, zdrowie, edukacja, sądownictwo. UE ma narzędzia miękkiego wpływania (?) [czyli pewnie $$$]
 
 
 ## Migracja
 
 |                                        | BARTOSZEWICZ | BIEJAT | BRAUN | HOŁOWNIA | JAKUBIAK | MACIAK | MENTZEN | NAWROCKI | SENYSZYN | STANOWSKI | TRZASKOWSKI | WOCH | ZANDBERG |
 |----------------------------------------|:------------:|:------:|:-----:|:--------:|:--------:|:------:|:-------:|:--------:|:--------:|:---------:|:-----------:|:----:|:--------:|
-| czy ograniczać migrację [T/N]          |              |        |       |          |    +     |        |         |    +     |          |           |   + [3bd]   |      |          |
+| czy ograniczać migrację [T/N]          |       +      |   -    |   +   |   +      |    +     |    +   |   +     |    +     |    -     |           |   + [3bd]   |  +   |     -    |
 | czy wypowiedzieć pakt migracyjny [T/N] |              |        |       |          |          |        |         |    +     |          |           |             |      |          |
-| budowanie centrów migracyjnych         |              |        |       |          |          |        |         |          |          |           |             |      |          |
 
 
 ## Różne
@@ -99,24 +111,33 @@ czyli takie tam zestawionko zanim Latarnik się ogarnie (no chyba że już jest)
 | Czy skracać czas pracy? [T/N]                              |              |   +    |       |          |          |        |         |          |          |           |             |      |          |
 | Czy gotówka powinna zostać (tj nie być likwidowana)? [T/N] |              |        |       |    +     |          |        |         |          |          |           |             |      |          |
 | Czy wprowadzać Euro? [T/N]                                 |              |        |       |          |          |        |         |          |          |           |             |      |          |
+| Unijny akt DSA, informacje w internecie [T/N]              |              |   +    |       |    +     |          |        |         |          |    +     |           |             |      |          |
 
 
 ## Kontrowersyjne
 
-|                     | BARTOSZEWICZ | BIEJAT | BRAUN | HOŁOWNIA | JAKUBIAK | MACIAK | MENTZEN | NAWROCKI | SENYSZYN | STANOWSKI | TRZASKOWSKI | WOCH | ZANDBERG |
-|---------------------|:------------:|:------:|:-----:|:--------:|:--------:|:------:|:-------:|:--------:|:--------:|:---------:|:-----------:|:----:|:--------:|
-| Aborcja? [T/N]      |              |        |       |          |          |        |         |          |          |           |             |      |          |
-| Kara śmierci? [T/N] |              |        |       |          |          |        |         |          |          |           |             |      |          |
-| Eutanazja? [T/N]    |              |        |       |          |          |        |         |          |          |           |             |      |          |
+|                             | BARTOSZEWICZ | BIEJAT | BRAUN | HOŁOWNIA | JAKUBIAK | MACIAK | MENTZEN | NAWROCKI | SENYSZYN | STANOWSKI | TRZASKOWSKI | WOCH | ZANDBERG |
+|-----------------------------|:------------:|:------:|:-----:|:--------:|:--------:|:------:|:-------:|:--------:|:--------:|:---------:|:-----------:|:----:|:--------:|
+| Aborcja? [T/N/r-eferendum]  |      r       |   +    |   -   |    -     |    -     |   +    |    -    |    -     |    +     |           |      +      |  -   |    +     |
+| Kara śmierci? [T/N]         |              |        |       |          |          |        |         |          |          |           |             |      |          |
+| Eutanazja? [T/N]            |              |        |   -   |          |          |        |         |          |          |           |             |      |          |
+| Związki jednopłciowe? [T/N] |      r       |   +    |   -   |    +     |    -     |   -    |    -    |    -     |    +     |           |      +      |      |    +     |
+| Bykowe? [T/N]               |              |        |       |          |          |        |         |          |          |           |             |      |          |
+
+* aborcja: do xyz tygodnia, zawsze, nigdy. Zależnie/niezależnie od przyczyny. Aborcja ekonomiczna (mężczyzna), badania DNA
 
 ## Źródła
 
 - Debata 1 (uczestnicy teleturnieju: )
+
 https://www.youtube.com/watch?v=dzntyCTgJMQ
 
 - Debata 2 (uczestnicy teleturnieju: )
 
+https://www.youtube.com/watch?v=NJuQZA5gNq0
+
 - Debata 3 (uczestnicy teleturnieju: Nawrocki,Zandberg,), "wPolsce24"
+
 https://www.youtube.com/watch?v=qiMP6HlnaXQ
 
 
