@@ -32,9 +32,16 @@ Wyjaśnienia niektórych pytań skopiowane 1 do 1 lub skrótowo, z ankiety latar
 
 |                                        | BARTOSZEWICZ | BIEJAT | BRAUN | HOŁOWNIA | JAKUBIAK | MACIAK | MENTZEN | NAWROCKI | SENYSZYN | STANOWSKI | TRZASKOWSKI | WOCH | ZANDBERG |
 |----------------------------------------|:------------:|:------:|:-----:|:--------:|:--------:|:------:|:-------:|:--------:|:--------:|:---------:|:-----------:|:----:|:--------:|
-| kataster [T/N]                         |              |   -    |       |    -     |          |        |         | - [3bc]  |    +     |           |             |      |    -     |
+| kataster [T/N]                         |              |   -    |       |    -     |          |        |   -?    | - [3bc]  |    +     |           |     -?      |      |    -     |
 | kataster od 3 mieszkania [T/N]         |              |   +    |       |    +     |          |        |         |    +     |    -     |           |             |      |    +     |
-| niskoczynszowe "socjalne" mieszk [T/N] |       -      |   +    |  -    |          |    -     |   -    |    -    |    +     |    +     |           |    +        |      |    +     |
+| niskoczynszowe "socjalne" mieszk [T/N] |      -       |   +    |   -   |          |    -     |   -    |    -    |    +     |    +     |           |      +      |      |    +     |
+| dopłaty dla deweloperów? [T/N]         |              |        |       |    -     |          |        |         |          |          |           |      +      |      |          |
+| REIT-y [T/N]                           |              |        |       |          |          |        |         |          |          |           |             |      |          |
+
+* REIT - z ang. REIT — real estate investment trust, fundusze/spółki umożliwiające inwestowanie mniejszych kwot w nieruchomości
+
+* koncepcja niskoczynszowe: rewitalizacja pustostanów, budowanie tbs-ów (pod wynajem i opcjonalnie też sprzedaż), vs koncepcja 2 dopłaty deweloperom by budowały więcej/taniej
+  (TBS-tow.budow.spolecznego, SIM-spoleczne inicjatywy mieszk)-kryteria otrzymania to np nie przekraczanie określonego dochodu
 
 ## Służba zdrowia
 
@@ -83,7 +90,7 @@ Wyjaśnienia niektórych pytań skopiowane 1 do 1 lub skrótowo, z ankiety latar
 |----------------------------------------------------|:------------:|:------:|:-----:|:--------:|:--------:|:------:|:-------:|:--------:|:--------:|:---------:|:-----------:|:----:|:--------:|
 | Lubi Rosję [T/N]                                   |              |        |  +?   |    -     |          |   +    |         |          |          |           |             |      |    -     |
 | Lubi USA [T/N]                                     |              |        |       |          |          |        |         |          |          |           |             |      |          |
-| Lubi Izrael [T/N]                                  |              |        |       |          |          |        |         |          |          |           |             |      |          |
+| Lubi Izrael [T/N]                                  |              |        |   -   |          |          |        |         |          |          |           |             |      |          |
 | Czy stosunki z Ukrainą są zbyt "dobrotliwe"? [T/N] |      +       |   -    |   +   |    -     |    +     |   -    |    +    |   +/-    |    -     |           |      -      |  -   |    -     |
 | UE powinna mieć mniejszy wpływ na polit wew? [T/N] |              |        |       |          |          |        |         |          |          |           |             |      |          |
 
@@ -98,17 +105,23 @@ Wyjaśnienia niektórych pytań skopiowane 1 do 1 lub skrótowo, z ankiety latar
 | czy wypowiedzieć pakt migracyjny [T/N] |              |        |       |          |          |        |         |    +     |          |           |             |      |          |
 
 
+## Praca i emerytury
+
+|                                            | BARTOSZEWICZ | BIEJAT | BRAUN | HOŁOWNIA | JAKUBIAK | MACIAK | MENTZEN | NAWROCKI | SENYSZYN | STANOWSKI | TRZASKOWSKI | WOCH | ZANDBERG |
+|--------------------------------------------|:------------:|:------:|:-----:|:--------:|:--------:|:------:|:-------:|:--------:|:--------:|:---------:|:-----------:|:----:|:--------:|
+| Czy skracać czas pracy (np 35h/tyg)? [T/N] |              |   +    |       |          |          |        |         |          |          |           |             |      |          |
+| Podnieść wiek emerytalny? [T/N]            |              |        |       |          |          |        |         |          |          |           |             |      |          |
+| Zrównać wiek emerytalny K/M? [T/N]         |              |        |       |          |          |        |         |          |          |           |             |      |          |
+| Bezwarunkowy dochód podstawowy? [T/N]      |              |        |       |          |          |        |         |          |          |           |             |      |          |
+
 ## Różne
 
 |                                                            | BARTOSZEWICZ | BIEJAT | BRAUN | HOŁOWNIA | JAKUBIAK | MACIAK | MENTZEN | NAWROCKI | SENYSZYN | STANOWSKI | TRZASKOWSKI | WOCH | ZANDBERG |
 |------------------------------------------------------------|:------------:|:------:|:-----:|:--------:|:--------:|:------:|:-------:|:--------:|:--------:|:---------:|:-----------:|:----:|:--------:|
 | Zakaz sprzedaży alko na stacjach benz [T/N]                |              |   +    |       |    +     |          |        |         |    -     |          |     -     |      -      |      |          |
 | LGBT+ "ogolne nastawienie" [T/N]                           |              |   +    |   -   |    +     |          |        |         |    -     |          |           |             |      |          |
-| Podnieść wiek emerytalny? [T/N]                            |              |        |       |          |          |        |         |          |          |           |             |      |          |
-| Zrównać wiek emerytalny K/M? [T/N]                         |              |        |       |          |          |        |         |          |          |           |             |      |          |
 | Czy w Polsce powinny być częściej referenda? [T/N]         |              |        |       |    +     |          |        |         |          |          |           |             |      |          |
 | Likwidować 800 plus? [T/N]                                 |              |        |       |          |          |        |    +    |          |          |           |             |      |          |
-| Czy skracać czas pracy? [T/N]                              |              |   +    |       |          |          |        |         |          |          |           |             |      |          |
 | Czy gotówka powinna zostać (tj nie być likwidowana)? [T/N] |              |        |       |    +     |          |        |         |          |          |           |             |      |          |
 | Czy wprowadzać Euro? [T/N]                                 |              |        |       |          |          |        |         |          |          |           |             |      |          |
 | Unijny akt DSA, informacje w internecie [T/N]              |              |   +    |       |    +     |          |        |         |          |    +     |           |             |      |          |
@@ -128,17 +141,20 @@ Wyjaśnienia niektórych pytań skopiowane 1 do 1 lub skrótowo, z ankiety latar
 
 ## Źródła
 
-- Debata 1 (uczestnicy teleturnieju: )
+- Debata 1 (uczestnicy teleturnieju: ) organizator RepublikaTV
 
 https://www.youtube.com/watch?v=dzntyCTgJMQ
 
-- Debata 2 (uczestnicy teleturnieju: )
+- Debata 2 (uczestnicy teleturnieju: ) organizator TVP info (?)
 
 https://www.youtube.com/watch?v=NJuQZA5gNq0
 
-- Debata 3 (uczestnicy teleturnieju: Nawrocki,Zandberg,), "wPolsce24"
+- Debata 3 (uczestnicy teleturnieju: cała 13) organizator Superexpress
 
-https://www.youtube.com/watch?v=qiMP6HlnaXQ
+https://www.youtube.com/watch?v=hDemaLdJbr4
+
+https://www.youtube.com/watch?v=qiMP6HlnaXQ (skrócona wersja)
+
 
 
 ## odnośniki
